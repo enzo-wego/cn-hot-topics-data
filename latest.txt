@@ -1,33 +1,33 @@
 ===== V2EX HOT =====
-1. [分享创造] ClipSeek 成功上架 Microsoft Store 啦 ｜ 送码  (62 replies)
-    今天把 [ClipSeek]( https://clipseek.ai/) 的 Windows 版本上架到 Microsoft Store 了，折腾了一阵，总算顺利过审了。  ClipSeek 是一款注重隐私、完全本地运行的 AI 素材搜索工具，它支持通过自然语言或参考图片，找到视频和照片中的特定画面。  它内置了 MCP Server ，可以让 Claude 、Codex 、Cursor 等 AI Agent 直接搜索、整理、预览并导出你素材库中的内容。  视频介绍：[YouTube]( https://www.youtube.com/wa
-    https://www.v2ex.com/t/1246024
-2. [程序员] 产品形态来说，好多咱们的程序员以为 APP > WEB  (55 replies)
-    web 在咱们这边也有回归的趋势。 规范一直在升级，性能和其他优势越来越多  而且只是在咱们这边被无法描述的原因，让 APP 横扫一切，但其实地球上不全是这样的 我感觉是喜欢 web
-    https://www.v2ex.com/t/1245970
-3. [生活] 小区净水器 or 家用净水器选择？  (39 replies)
-    前面几年一直用的小区内装的康基净水器，大概 2 天接一次，我用的 15L 的桶，一次 4 元（折扣前）。  我一次充大几百有赠送余额，算下来每年实际费用大概在 500 元左右。  现在在想有没有必要装个家用净水器，又担心小型的家用净水器达不到小区大设备的那个效果，而且装着麻烦占地。不知道要买多少钱的净水器才能达到效果？不追求直饮但要几乎无水垢的。  自己接水的问题就是有点费人。
-    https://www.v2ex.com/t/1245961
-4. [买买买] 有什么有意思的 3C 产品推荐嘛  (34 replies)
-    最近很想买点有意思的数码产品, 但淘宝京东的推荐算法都很垃圾, 刷了几天都是已经有的/不想要的, 很少有激起"这个很好玩, 买个玩玩"想法的东西  目前已经有的一些有意思的玩意:  - 两个迷你主机, 装了 pve - 树莓派 3b,4b,5 - sipeed 的 NanoKVM - arduino uno, mega, uno q - stm32 f1, mp1 开发板 - 炬为的 USB PD 分析仪 - usb 数据线引脚通断检测仪 - 带显示屏的 m.2 双协议硬盘盒 - 带显示屏的 sata 接口硬盘盒 - trimu
-    https://www.v2ex.com/t/1245950
-5. [Claude] 号被封了……  (29 replies)
-    前情提要： https://www.v2ex.com/t/1244849  一大早收到了两封邮件，内容一模一样……正在填申诉内容  ``` Your account has been suspended  Hello,  An internal investigation of suspicious signals associated with your account indicates a violation of our Usage Policy. As a result, we have revoked your access
-    https://www.v2ex.com/t/1245975
-6. [浏览器] 最近迁移到 Catsxp 浏览器  (26 replies)
-    从 Brave 切换到 Catsxp 了，主要原因有几点：  1 、Brave 的本地优化版，作者是中国人。一些小细节优化得比较好，比如垂直标签有树状结构。砍掉了 VPN/AI/钱包功能。AI/翻译功能装个豆包插件就完事。  2 、自带的翻译功能切换到了谷歌翻译，而不是 brave 翻译。  3 、密码/书签/扩展程序列表我用插件，不用浏览器自带的功能，可以无痛迁移。  -密码管理器（本地 Keepass+chromeIPass 浏览器插件）  -书签及扩展程序列表同步：MarkBridge – Multi-Profile Sync
-    https://www.v2ex.com/t/1245944
-7. [分享发现] Gemini 4 出来了，吊打其他的公司啊  (25 replies)
-    Gemini 4 出来了，吊打其他的公司啊 周三，该公司发布了 Gemini4Argon ，这是迄今为止最先进的人工智能模型，在编码、网络安全和复杂的专业工作方面提供了重大改进。 该公司表示，该模型在现实世界的软件工程方面创造了新的记录，在网络安 全方面并列第一，并在衡量金融、法律和其他专业任务绩效的另一项基准中 领先。 谷歌表示，Argon 已在公司内部用于优化其数据中心的内存，无需购买额外硬件即可释放数百 TB 的内存。量子计算研究人员也已利用了该模型。
-    https://www.v2ex.com/t/1245940
-8. [程序员] 主力邮箱还是得选国内邮箱  (24 replies)
-    近期 Google 又扫号了，如果一直申诉不成功，跟 Google 关联的账号都废了，主力邮箱还是得国内邮箱，至少在国内还有投诉的渠道，Google 说封你就封你，根本没得商量
-    https://www.v2ex.com/t/1246060
-9. [程序员] Gemini 4 Argon 已宣布  (22 replies)
-    目前未公开发布，只对美国政府和信任测试者提供。  多个 Benchmark 超过 Opus 5.5： ![]( https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/gemini-4-argon_table_blog.gif)  AAI Index 53 分，介于 GPT 6.1 Sol 和 GPT 6 Astra： ![]( https://pbs.twimg.com/media/HTfY3plasAAay9f?format=jpg&name=lar
-    https://www.v2ex.com/t/1245947
-10. [分享发现] 通过 firefox 注册 muse  (21 replies)
-    打开 firefox 自带的 VPN 后，通过 firefox 访问 https://muse.ai/join 就可以正常注册了。
-    https://www.v2ex.com/t/1245987
+1. [生活] 现在反驳型人格怎么改呀？  (78 replies)
+    之前自己都没有在意，现在才发现好像别人说什么自己都喜欢反驳。
+    https://www.v2ex.com/t/1246103
+2. [生活] 你更相信门诊医生还是 AI？  (38 replies)
+    当门诊医生的说法和 AI 的说法不一致时，你更相信谁？
+    https://www.v2ex.com/t/1246146
+3. [硬件] 电脑价格什么时候能回到冰点？日常轻度使用，现在入手还是再等等？  (34 replies)
+    最近想换台电脑，但看网上普遍说要到 2027 年底甚至 2028 年价格才会回落，问 AI 也说大概 2028 年才有冰点价。想听听各位的看法。  我基本不玩游戏，平时主要是看 B 站视频、看直播，偶尔刷刷 YouTube 。需求大概是这些：  系统流畅，开 20 多个标签页不卡 看 4K 视频和直播不卡 跑 Win11 虚拟机（ VMware ）不卡 最好能留点升级空间
+    https://www.v2ex.com/t/1246090
+4. [OpenAI] Tibo 耍猴了， 明天全局重置  (31 replies)
+    马上要全局重置，通知明天重置，其实马上也自然重置了。。。   ⚠️ 全球重置将于明天上午 10am PST 对所有付费 ChatGPT 账户推出。对于 GPT-6.1 Sol 起步缓慢深表歉意，在经历了前两天的巨大负载峰值后，目前已恢复至预期运行速度。  详见 https://codex-reset.com/zh/#signals
+    https://www.v2ex.com/t/1246095
+5. [电动汽车] 看重隐私买什么车好？  (28 replies)
+    不想买老年机，想买智能机。没必要太智能，稍微智能即可  但又不行被过多收集隐私信息，更不想被远程控制
+    https://www.v2ex.com/t/1246094
+6. [问与答] 戒短视频，碎片时间，可以干啥？  (25 replies)
+    1 、现在各种 APP ，都把短视频 藏在里面，知乎、小红书、微信 等等，会让人刷短视频上瘾，一会儿这儿刷，一会儿那儿刷，不知不觉，几个小时过去了，刷了很无聊，不刷更无聊，一有空，就是刷短视频  2 、有没有啥能代替的方法？ 满足  好奇心、有意思、不枯燥，大脑不排斥，不会上瘾的 替代方案？
+    https://www.v2ex.com/t/1246122
+7. [推广] 我说一句，中转站降智的都是撒流氓，全网首家主打包不降智的源头中转站，实时监测降智情况，倍率低至 0.1x，主打稳如老狗。  (24 replies)
+    我说一句，中转站降智的都是撒流氓，不是他们做不好，而是这个成本有点高，技术也复杂。  降智流口水的模型站不但伤你的钱袋，还会磨光你的好脾气。   我们是 https://www.jiji.cc  全网首家主打包不降智的源头中转站，首家主打 Codex 不降智的中转站。  针对官方的调控降智机制，我们的焚诀黑科技，能有效的解决各种模型降智，流口水弱智等现象，让天才程序员 100%满血航行无阻。实时保持指哪打哪，满血纯血能打的状态。  回复赠送测试额度，降智包退。
+    https://www.v2ex.com/t/1246088
+8. [程序员] gpt 6 luna 都这么蠢吗？连个小插件，都写了 10 几遍，还没有写好！  (20 replies)
+    还要涨价，谁给的自信？
+    https://www.v2ex.com/t/1246096
+9. [Google Gemini] 什么样的 Google 账号才能订阅 Gemini？  (20 replies)
+    想订阅 Gemini ，但一直提示"当前地区不支持"。我已经把账号的国家/地区改成美国了，还是不行。  请问需要满足什么条件的 Google 账号才能正常订阅？打算在闲鱼上买那种便宜的订阅，想先确认一下自己的账号能不能用。啊啊啊啊啊啊啊啊
+    https://www.v2ex.com/t/1246097
+10. [分享创造] 我做了一个共享网盘  (17 replies)
+    https://voraxcloud.com/  众所周知，各大网盘都是通过一份文件只存一次来降本增效。但是对于爱存网络资源和只存自己生活照片视频的用户来说，都是收一样的钱。通过剥削只存网络资源的用户来补贴另一类用户，达成整体盈利。  所以我做了这样一个价格透明的网盘，让爱存网络资源的用户一个月只需要花 1 美金就能存几 TB 甚至几十 TB 的资源。远比任何网盘或自建 NAS 便宜。  而对于需要存自己独有文件的用户来说，200GB 每个月只需要 3 美金（大约 20 人民币），这和 iCloud 等主流网盘 200GB 档位的价格类似。但
+    https://www.v2ex.com/t/1246099
 
 ===== XUEQIU HOT (rebang.vip via jina) =====
