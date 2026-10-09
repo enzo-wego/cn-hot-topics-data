@@ -1,10 +1,10 @@
 ===== V2EX HOT =====
-1. [问与答] 第一次相亲，请教下各位怎么聊，应该聊些什么。  (159 replies)
-    刚被裁员，家里又催着相亲，在此之前我已经扛了一两年的催促了，这次实在扛不住了。  家里人说这两天把女方微信号要过来，让我聊着看看。我还没相过亲，一想到和陌生人尬聊就头痛，毕竟我连异性朋友也很少聊天，实在不知道聊什么。  去小红书上搜了一圈，上面那些什么打开话题、把握节奏、几次见面、吃什么饭之类的看的我头大如斗，我好反感这些所谓“技巧”的东西，却也不知道到底该聊些什么。  ---  也看到本站有人说，相亲只是个提供认识的途径，并不是直接谈对象，我能理解他的意思。 但是回想之前的恋爱，那个时候我是先心动，然后对方对我也有意思，并且两人是大学同
-    https://www.v2ex.com/t/1247240
-2. [分享创造] [送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 迎来 macOS 首发，送 30 个永久 Pro  (159 replies)
+1. [分享创造] [送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 迎来 macOS 首发，送 30 个永久 Pro  (160 replies)
     ## 功能介绍  组了 NAS 之后，顺便搭建了 Emby/Jellyfin/Plex 服务器，对观影有了更高的要求，市面上的这类播放器软件，对于免费用户限制比较大，基本无法满足日常使用。我的想法是免费基础功能要能够覆盖大部分使用场景，这样用户量起来之后，可以更快的迭代优化。个人比较看重响应速度和用户体验  下面是免费版和 Pro 对比：  | 功能                                | 免费版 | Pro  | | ----------------------------------- | ------ | -
     https://www.v2ex.com/t/1247361
+2. [问与答] 第一次相亲，请教下各位怎么聊，应该聊些什么。  (159 replies)
+    刚被裁员，家里又催着相亲，在此之前我已经扛了一两年的催促了，这次实在扛不住了。  家里人说这两天把女方微信号要过来，让我聊着看看。我还没相过亲，一想到和陌生人尬聊就头痛，毕竟我连异性朋友也很少聊天，实在不知道聊什么。  去小红书上搜了一圈，上面那些什么打开话题、把握节奏、几次见面、吃什么饭之类的看的我头大如斗，我好反感这些所谓“技巧”的东西，却也不知道到底该聊些什么。  ---  也看到本站有人说，相亲只是个提供认识的途径，并不是直接谈对象，我能理解他的意思。 但是回想之前的恋爱，那个时候我是先心动，然后对方对我也有意思，并且两人是大学同
+    https://www.v2ex.com/t/1247240
 3. [旅行] 分享一下国庆美国东海岸的行程和花费  (98 replies)
     一个人独自旅行，不自驾，全程主要靠公共交通。老美的消费水平还是太夸张了：睡了好几晚青旅和机场，这样一趟下来竟然花了近两万元。不算账真不知道会花这么多。  更惨的是，碰上暴风雨导致火车停运，前几天的计划被打乱了：损失了一晚不可取消的住宿，还临时以更高的价格订了青旅。  ## 具体行程  - **9 月 25 日：**上海飞首尔，抵达后前往市区，简单游览。 - **9 月 26 日：**首尔飞波士顿。受波士顿暴风影响，原定深夜前往 Stamford 的行程调整为留在波士顿。 - **9 月 27 日：**在波士顿停留，安排市区活动和休整。 
     https://www.v2ex.com/t/1247300
@@ -17,14 +17,124 @@
 6. [问与答] 明年结婚订的酒店，昨天突然给我打电话说他们要配合区政府搞文旅不开店了，问我们愿不愿意挪到他们家另外一家店（不可办户外婚礼），但是我们一开始选中他们家原本的店就是看中他们家可以办户外婚礼的场地，求大家支招。  (65 replies)
     基本信息：说 不办的这家店可以办户外婚礼，婚宴价格每桌在 2100 起，当时选这家店就两点一可以办户外；二每桌餐费价格不高。 他们家的另外一家店，靠着湖，基本上每个包间都是可以看到湖景，办室内典礼，办室内典礼的地方不通透，不宽敞，这家店因为位置和景色比较好，所以价格比之前高（ 2300 还是 2400 起），昨晚我们谈的是，每桌婚宴价格带来的差价他们可以不收，婚庆场地费也不收，缺点就是不能办户外，对象一直想办一个户外婚礼，我对象看不上办室内典礼的地方，别说我对象，他们家办室内典礼的地方我都看不上。。。  另外一家可以办户外婚礼的地方，每桌婚宴价格 
     https://www.v2ex.com/t/1247264
-7. [分享发现] 国庆事故处理记录：开车压到路人的脚。愿大家都平平安安  (63 replies)
-    愿大家都平平安安，生活愉快。  <br/>  # 事情经过：  一嗨租的车，国庆自驾去了山西的一个古城，不熟悉环境驾车误入被商贩、游客占据的街道，不小心压到一名女士的脚。我报警说明情况，并且联系一嗨，联系一嗨指定的保险。  现场等待一个多小时警察、交警迟迟未到，中间催促 4 次，警察表示我们这边人多车不好进来，且人员不够，都在处理其他地方的事故。  # 私了经过  当事女士及家人不想等待并表示感觉脚没啥事了，与警察打电话主张与我私了，并询问私了需要走啥流程，警察说没啥流程你们自己协商，  后在保险工作人员现场指导下手写<私了协
-    https://www.v2ex.com/t/1247274
-8. [程序员] 32 岁做啥啥失败，是不是该被斩杀了？  (63 replies)
+7. [程序员] 32 岁做啥啥失败，是不是该被斩杀了？  (64 replies)
     做女鞋品牌失败 ( https://www.maitelaini.com)   做独立游戏失败 ( https://www.moddb.com/members/dodocat)   写小说继续失败 ( https://read.douban.com/author/64188138/)    以前 v 友说我该被斩杀，也许他说的没错  我即使被斩杀，我也不觉得我做错了什么，因为我一没偷，二没抢，三没诈骗，我努力用我的智慧，我的才华，还有我那微不足道的能力去谱写一个普通的中国独立创作者的篇章。  我能做游戏，能设计产品，还能写小说，虽然我没成
     https://www.v2ex.com/t/1247331
+8. [分享发现] 国庆事故处理记录：开车压到路人的脚。愿大家都平平安安  (63 replies)
+    愿大家都平平安安，生活愉快。  <br/>  # 事情经过：  一嗨租的车，国庆自驾去了山西的一个古城，不熟悉环境驾车误入被商贩、游客占据的街道，不小心压到一名女士的脚。我报警说明情况，并且联系一嗨，联系一嗨指定的保险。  现场等待一个多小时警察、交警迟迟未到，中间催促 4 次，警察表示我们这边人多车不好进来，且人员不够，都在处理其他地方的事故。  # 私了经过  当事女士及家人不想等待并表示感觉脚没啥事了，与警察打电话主张与我私了，并询问私了需要走啥流程，警察说没啥流程你们自己协商，  后在保险工作人员现场指导下手写<私了协
+    https://www.v2ex.com/t/1247274
 9. [问与答] 想问下 V 站上的各位非程序员朋友，你们开 AI 会员一般选择哪家？  (60 replies)
     众所周知，V 站程序员占比 99.99%，那剩下 1%的非程序员朋友们，你们需要用 AI 的一般开啥会员啊？ chagpt go/plus/pro ？ Gemini plus/pro ？还是随时被封号的 Claude ？
     https://www.v2ex.com/t/1247251
 
 ===== XUEQIU HOT (rebang.vip via jina) =====
+
+===== HF TEXT-GEN NEW 7D (downloads desc, likes desc) =====
+window: created >= 2026-10-02T17:38Z, 3580 models
+1. Hob-forge/Kolibri-1-GGUF | downloads 28296 | likes 19 | created 2026-10-03 | https://huggingface.co/Hob-forge/Kolibri-1-GGUF
+2. JackKozmo29/depguard-jev-style-1.5b | downloads 19797 | likes 1 | created 2026-10-05 | https://huggingface.co/JackKozmo29/depguard-jev-style-1.5b
+3. JackKozmo29/sevclassifier-jev-style-1.5b | downloads 18383 | likes 1 | created 2026-10-05 | https://huggingface.co/JackKozmo29/sevclassifier-jev-style-1.5b
+4. JackKozmo29/codeguard-jev-style-1.5b | downloads 18215 | likes 1 | created 2026-10-05 | https://huggingface.co/JackKozmo29/codeguard-jev-style-1.5b
+5. ConwayResearch/Underdog-Saluki-27B-1.0 | downloads 15274 | likes 160 | created 2026-10-08 | https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0
+6. peasantsmith/GLM-5.3-Flash-Maya-GGUF | downloads 13089 | likes 11 | created 2026-10-07 | https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF
+7. kindlingai/glm-5.3-exlr8-k2-k3-k4 | downloads 11322 | likes 11 | created 2026-10-08 | https://huggingface.co/kindlingai/glm-5.3-exlr8-k2-k3-k4
+8. SlickPulla/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF | downloads 11285 | likes 1 | created 2026-10-04 | https://huggingface.co/SlickPulla/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF
+9. xannie1/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF | downloads 10835 | likes 1 | created 2026-10-03 | https://huggingface.co/xannie1/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF
+10. OS-Software/Ternary-Bonsai-2-27B-Uncensored-Heretic-v2-GGUF | downloads 8934 | likes 7 | created 2026-10-03 | https://huggingface.co/OS-Software/Ternary-Bonsai-2-27B-Uncensored-Heretic-v2-GGUF
+11. gbuzhf/Nex-N2.5-mini-OrcaRouter-Sangreal-ICE | downloads 6207 | likes 0 | created 2026-10-04 | https://huggingface.co/gbuzhf/Nex-N2.5-mini-OrcaRouter-Sangreal-ICE
+12. mradermacher/Qwopus3.8-27B-Flash-V2-abliterated-i1-GGUF | downloads 5321 | likes 2 | created 2026-10-04 | https://huggingface.co/mradermacher/Qwopus3.8-27B-Flash-V2-abliterated-i1-GGUF
+13. bartowski/K2-Horizon-MoVA-36B-A4B-GGUF | downloads 4411 | likes 4 | created 2026-10-07 | https://huggingface.co/bartowski/K2-Horizon-MoVA-36B-A4B-GGUF
+14. gbuzhf/Nex-N2.5-mini-Sangreal-ICE | downloads 4172 | likes 2 | created 2026-10-03 | https://huggingface.co/gbuzhf/Nex-N2.5-mini-Sangreal-ICE
+15. TokenTinkerer/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-TTQ-GGUF | downloads 3876 | likes 2 | created 2026-10-04 | https://huggingface.co/TokenTinkerer/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-TTQ-GGUF
+16. jialinyyzz/humanizer-GGUF | downloads 3235 | likes 16 | created 2026-10-06 | https://huggingface.co/jialinyyzz/humanizer-GGUF
+17. aixk/BAAR6-9M-7 | downloads 3174 | likes 1 | created 2026-10-04 | https://huggingface.co/aixk/BAAR6-9M-7
+18. Blackfrost-AI/RED-SNOW-5.3-FLASH-FP8 | downloads 3142 | likes 0 | created 2026-10-03 | https://huggingface.co/Blackfrost-AI/RED-SNOW-5.3-FLASH-FP8
+19. mradermacher/qwen3.5-9b-uncensored-i1-GGUF | downloads 3051 | likes 0 | created 2026-10-06 | https://huggingface.co/mradermacher/qwen3.5-9b-uncensored-i1-GGUF
+20. webmp3/Sakura-K2-Horizon-7B-GGUF | downloads 3038 | likes 0 | created 2026-10-04 | https://huggingface.co/webmp3/Sakura-K2-Horizon-7B-GGUF
+21. sriram1983007/SRA-RiskGate-4B | downloads 2951 | likes 1 | created 2026-10-03 | https://huggingface.co/sriram1983007/SRA-RiskGate-4B
+22. bartowski/K2-Horizon-32B-GGUF | downloads 2808 | likes 0 | created 2026-10-07 | https://huggingface.co/bartowski/K2-Horizon-32B-GGUF
+23. IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-MiniPlus-V2.1-GGUF | downloads 2760 | likes 4 | created 2026-10-06 | https://huggingface.co/IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-MiniPlus-V2.1-GGUF
+24. webmp3/Sakura-K2-Horizon-3.7B-GGUF | downloads 2462 | likes 0 | created 2026-10-03 | https://huggingface.co/webmp3/Sakura-K2-Horizon-3.7B-GGUF
+25. LMLiutenant/Qwen3.6-35B-A3B-abliterated-v2-gguf | downloads 2447 | likes 0 | created 2026-10-04 | https://huggingface.co/LMLiutenant/Qwen3.6-35B-A3B-abliterated-v2-gguf
+
+--- details (top 10) ---
+## Hob-forge/Kolibri-1-GGUF
+   base_model: Aleph-Alpha/Kolibri-1
+   license: apache-2.0
+   params: None
+   excerpt: GGUF quantizations of [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1), a 78B-parameter Mixture-of-Experts reasoning model (3.46B active per token) for German and English, released by Aleph Alpha under Apache-2.0. This is an independent conversion. It is not made or endorsed by Aleph Alpha or the llama.cpp project. For the split files (Q5_K_M, Q6_K, Q8_0), point llama.cpp at the first part. The second part loads automatically. The weights were converted from Aleph Alpha's FP8 checkpoint (FP8 e4m3 with 128×128 block scales). The converter dequantizes them to BF16, and the Q
+   coverage: Kolibri AI Review: Germany's Free 78B Model, Scored (2026) | AI Tool Verdict <https://theaitoolverdict.com/blog/kolibri-ai/>
+   coverage: Kolibri Review: 78B English-German Open MoE (2026) | HokAI <https://hokai.io/hub/models/kolibri>
+   coverage: Kolibri-1 Benchmarks: How Aleph Alpha's Model Stacks Up | MindStudio <https://www.mindstudio.ai/blog/kolibri-1-benchmarks>
+   coverage: Kolibri-1: Apache 2.0, 78B MoE, one B200, trails Qwen <https://theterminal.space/ai/aleph-alpha-kolibri-1-apache-qwen-gap>
+## JackKozmo29/depguard-jev-style-1.5b
+   base_model: Qwen/Qwen2.5-1.5B-Instruct
+   license: apache-2.0
+   params: 1543714304
+   excerpt: **Local System One model for dependency security review. JEV-compatible typed verdicts, no API key required.** > *Drop-in local alternative to TypeSafe Jev for supply-chain review pipelines. > Returns safe/caution/block per package update — swap the endpoint, keep the agent.* --- depguard-jev-style-1.5b is a fine-tuned [Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) that produces **typed dependency security verdicts** — matching the output contract of [TypeSafe System One / Jev](https://docs.typesafe.ai) for supply-chain review use cases. It outputs a single JSON obj
+   coverage: Comparing v1.5.1...v1.6.0 · mopanc/depguard <https://github.com/mopanc/depguard/compare/v1.5.1...v1.6.0>
+   coverage: jev-on-a-laptop · Awesome Jev <https://awesomejev.vercel.app/p/jev-on-a-laptop/>
+   coverage: LocalJev Review: Jev's API on Any Local Model | MrJev <https://mrjev.com/projects/githubnext-localjev/>
+## JackKozmo29/sevclassifier-jev-style-1.5b
+   base_model: Qwen/Qwen2.5-1.5B-Instruct
+   license: apache-2.0
+   params: 1543714304
+   excerpt: **Local System One model for incident severity classification. JEV-compatible typed decisions, no API key required.** > *Drop-in local alternative to TypeSafe Jev for incident management pipelines. > Returns SEV1-4, escalation flag, and blast radius — swap the endpoint, keep the agent.* --- sevclassifier-jev-style-1.5b is a fine-tuned [Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) that produces **typed incident severity classifications** — matching the output contract of [TypeSafe System One / Jev](https://docs.typesafe.ai) for incident triage pipelines. It outputs 
+   coverage: jev-on-a-laptop · Awesome Jev <https://awesomejev.vercel.app/p/jev-on-a-laptop/>
+   coverage: LocalJev Review: Jev's API on Any Local Model | MrJev <https://mrjev.com/projects/githubnext-localjev/>
+   coverage: Open-Source Jev Alternatives: Local Models vs Jev | JevStation <https://jevstation.com/compare/jev-vs-open-models>
+## JackKozmo29/codeguard-jev-style-1.5b
+   base_model: Qwen/Qwen2.5-1.5B-Instruct
+   license: apache-2.0
+   params: 1543714304
+   excerpt: **Local System One model for PR code-review triage. JEV-compatible typed verdicts, no API key required.** > *Drop-in local alternative to TypeSafe Jev for code-review pipelines. > Returns verdict, risk level, and flags per PR — swap the endpoint, keep the agent.* --- codeguard-jev-style-1.5b is a fine-tuned [Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) that produces **typed code-review verdicts** from PR diffs — matching the output contract of [TypeSafe System One / Jev](https://docs.typesafe.ai) without requiring an API subscription. It outputs a single JSON objec
+   coverage: How Jev works: calibrated decision models | Victor Dibia <https://victordibia.com/explainers/jev/>
+   coverage: jev-style-guard | jev-style <https://www.claudepluginhub.com/skills/lawrence3699-jev-style/jev-style-guard>
+   coverage: TypeSafe Jev review (2026): the System One model, tested <https://www.eesel.ai/blog/typesafe-jev-review>
+   coverage: Jev Code Reviewer puts priorities beside GitHub diffs — canberk.me <https://canberk.me/blog/jev-code-reviewer-ai-code-review/>
+## ConwayResearch/Underdog-Saluki-27B-1.0
+   base_model: ['Qwen/Qwen3.8-27B', 'ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF']
+   license: apache-2.0
+   params: None
+   excerpt: Qwen3.8-27B in under 8 GB, tuned to keep tool calling intact. A standard GGUF for stock llama.cpp. huggingface-cli download ConwayResearch/Underdog-Saluki-27B-1.0 Underdog-Saluki-27B-1.0-IQ2-mix.gguf --local-dir . llama-server -m Underdog-Saluki-27B-1.0-IQ2-mix.gguf --jinja -ngl 99 -fa on -c 32768 **Add vision.** Download the vision add-on too, and pass it with `--mmproj`. Then send images through the OpenAI chat API as usual. huggingface-cli download ConwayResearch/Underdog-Saluki-27B-1.0 mmproj-Underdog-Saluki-27B-1.0-F16.gguf --local-dir . llama-server -m Underdog-Saluki-27B-1.0-IQ2-mix.ggu
+   coverage: Underdog Saluki 27B: Tool Calling Gains vs Full-Size Qwen3.8 Losses | MindStudio <https://www.mindstudio.ai/blog/underdog-saluki-27b-benchmarks>
+   coverage: ConwayResearch/Underdog-Saluki-27B-1.0 · Pirate Face <https://pirateface.co/ConwayResearch/Underdog-Saluki-27B-1.0>
+   coverage: Saluki 27B：7.89GB 本機模型、96%評測與工具呼叫限制 <https://www.aiposthub.com/underdog-saluki-27b-quantization-tool-calling-benchmarks/>
+   coverage: Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling - MarkTechPost <https://www.marktechpost.com/2026/10/09/meet-the-underdog-saluki-27b-a-2-bit-qwen3-8-27b-that-beats-the-original-at-tool-calling/>
+## peasantsmith/GLM-5.3-Flash-Maya-GGUF
+   base_model: zai-org/GLM-5.3-Flash
+   license: mit
+   params: None
+   excerpt: **Maya-L: 99.2% of the full FP8 model's accuracy** on zero-shot tasks (ARC, HellaSwag, WinoGrande, PIQA), in 156 GB. **Maya-S: 97.9%** in a 96 GB file. **Maya-S24: 97.7%, and up to 14% faster decode on 24 GB cards**, in 94.7 GB. **Maya-M: 97.9%, and closer to the full model token by token**, in 116 GB. GGUF quantizations of [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) (321 B parameters, a mixture of experts with about 18 B active per token), made for **Project Maya**. Project Maya keeps the most-used experts on the GPU, the next in RAM and the rest on the SSD, so all f
+   coverage: mw00/project-maya: Project Maya - GLM-5.3-Fla… — Shadowgraph <https://shadowgraph.io/mw00/project-maya>
+   coverage: GLM-5.3-Flash: Frontier Intelligence, Flash Cost <https://z.ai/blog/glm-5.3-flash>
+   coverage: GLM-5.3 Flash Review: Multimodal Coding, WebGL, and Long-Running Agents <https://atoms.dev/blog/glm-5-3-flash-multimodal-visual-coding-agent-review>
+   coverage: GLM-5.3 Flash Review — Zhipu's First Multimodal GLM at Flash Prices | AI Agents & Agentic Workflows Guide <https://agentguides.dev/reviews/glm-5-3-flash-review/>
+## kindlingai/glm-5.3-exlr8-k2-k3-k4
+   base_model: zai-org/GLM-5.3-BF16
+   license: other
+   params: None
+   excerpt: Version 0.3 (git tag `v0.3`). See the [changelog](#changelog). Weight set ID: `2011c0cedde962d19fc43e74c1d409279e398d40d27a6fdb4bcb7b49ea2ea6fb` (see [Identifying the weights](#identifying-the-weights)). > **Status: draft / preview.** End-to-end gates (TP agreement, held-out KL against BF16, decode speed) are running. > Metrics on this card will be updated as they land. > **These weights cannot be used without E4M3 rounding.** A loader must round every value the trellis > codebook produces to FP8 E4M3 (round to nearest even, saturating) before applying the side vectors. The > encoder searched 
+## SlickPulla/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF
+   base_model: ['Qwen/Qwen3.8-27B']
+   license: apache-2.0
+   params: None
+   excerpt: **RVN** is a double-refined abliterated variant of **Qwen3.8-27B**, built on top of [`trohrbaugh/Qwen3.8-27B-heretic-ara`](https://huggingface.co/trohrbaugh/Qwen3.8-27B-heretic-ara) (an ARA abliteration by **Tim Rohrbaugh**) and further refined with **two additional full-weight ARA passes** targeting residual refusals. It retains very low behavioral damage (KL ≈ 0.0085) while reducing harmful-prompt refusals from 3/100 (source) to **0–1/100** in independent measurements. > **Note on this repository's history.** This repo previously hosted the original > `Qwen3.8-27B-Heretic-Q4_K_M.gguf` (singl
+   coverage: Three ARA passes on Qwen3.8-27B: the RVN refinement story — ABLITERATED.cloud <https://abliterated.cloud/blog/qwen3-8-27b-rvn-heretic-abliterated-uncensored/>
+   coverage: Abliterated Qwen3.8-27B: Compare 4 Editions and Choose | Deepent Research <https://deepentresearch.com/en/journal/qwen-abliterated>
+   coverage: 8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics <https://bittide.aicompass.dev/article/7b981477-29e5-4074-904d-cd0f7c34741a>
+## xannie1/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF
+   base_model: ['Qwen/Qwen3.8-27B']
+   license: apache-2.0
+   params: None
+   excerpt: **RVN** is a double-refined abliterated variant of **Qwen3.8-27B**, built on top of [`trohrbaugh/Qwen3.8-27B-heretic-ara`](https://huggingface.co/trohrbaugh/Qwen3.8-27B-heretic-ara) (an ARA abliteration by **Tim Rohrbaugh**) and further refined with **two additional full-weight ARA passes** targeting residual refusals. It retains very low behavioral damage (KL ≈ 0.0085) while reducing harmful-prompt refusals from 3/100 (source) to **0–1/100** in independent measurements. > **Note on this repository's history.** This repo previously hosted the original > `Qwen3.8-27B-Heretic-Q4_K_M.gguf` (singl
+   coverage: Three ARA passes on Qwen3.8-27B: the RVN refinement story — ABLITERATED.cloud <https://abliterated.cloud/blog/qwen3-8-27b-rvn-heretic-abliterated-uncensored/>
+   coverage: Abliterated Qwen3.8-27B: Compare 4 Editions and Choose | Deepent Research <https://deepentresearch.com/en/journal/qwen-abliterated>
+   coverage: 8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics <https://bittide.aicompass.dev/article/7b981477-29e5-4074-904d-cd0f7c34741a>
+## OS-Software/Ternary-Bonsai-2-27B-Uncensored-Heretic-v2-GGUF
+   base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
+   license: apache-2.0
+   params: None
+   excerpt: A decensored version of [Prism ML's Ternary-Bonsai-2-27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf), with an OT-Ridge LoRA baked into the ternary weights. It succeeds [Ternary-Bonsai-2-27B-Uncensored-Heretic-GGUF](https://huggingface.co/OS-Software/Ternary-Bonsai-2-27B-Uncensored-Heretic-GGUF) (v1). Compared with v1: - **Thinking that finishes**: responses with no final answer within 4,096 tokens (thinking on) 22% → 9%; with greedy decoding 70% → 16%. - **Smaller capability cost**: MMLU −1.63 → −0.66 points against the original model; HumanEval −1.83 → −0.61 points (not signif
+   coverage: Ternary-Bonsai-2-27B-Uncensored-Heretic-v2 — Abliterated Model Card <https://abliteratedmodels.org/ternary-bonsai-2-27b-uncensored-heretic-v2/>
+   coverage: Ternary Bonsai 2 27B: What the 98.2% Claim Really Means <https://www.orcarouter.ai/blog/ternary-bonsai-2-27b>
