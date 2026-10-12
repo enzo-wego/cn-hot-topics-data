@@ -1,88 +1,87 @@
 ===== V2EX HOT =====
-1. [Linux] 内存越来越贵会不会拉高 Linux 的装机率？  (68 replies)
-    其实我一直知道 linux 比 windows 省内存。但是没量化感受。  10.1 闲来无事，给一台旧笔记本安装了 windows10 和 fedora 双系统。  结果发现系统起来杀都不干，windows 就要消耗 9G 内存，linux 消耗 5G,相差甚 4g 。  日常干活时，（ wps 、数十个网页、qq 、微信、代理软件这些常用）的，windows 经常在 13-15G  linux 最高飙到 9G  也就是说，如果我是 16G 的内存，在 wondiws 下就要考虑升级了  在 linux 下则不必  而内存越
-    https://www.v2ex.com/t/1247772
-2. [Claude] 3 个月用了 287 亿的 token。。。  (55 replies)
-    下了个统计 token 的软件，一看用了 287 亿个 token ，发现这订阅真让我用回本了  我自己是 claude+gpt 200 美元双持  不过用 claude 更多一些  claude 给的量真是太大了
-    https://www.v2ex.com/t/1247820
-3. [问与答] 中文版讨论，哪些童书能让孩子爱上阅读？  (37 replies)
-    hn 上的英文版讨论如下 https://news.ycombinator.com/item?id=50037859
-    https://www.v2ex.com/t/1247762
-4. [程序员] Google Play 开通 Claude Pro，搭配大陆护照 KYC，安全上车中...  (33 replies)
-    昨天使用 google play 开了一个 claude pro 的新号（原动态： https://x.com/licoycn/status/2108784475241062521 ），然后一订阅就让我要验证身份，当时就想放弃了，但是转头一想要不试试，反正一百多，然后使用大陆护照进行了身份验证，秒通过。  然后再去 claude 中点击订阅，这个时候已经订阅过了，就会直接成功，然后身份验证也过了，就可以直接用了，然后挂上了 CPA ，一直到今天都是稳稳的，目前已经用了周额度 26%了  现在是 2 个 claude pro 在 cpa 上轮询，反
-    https://www.v2ex.com/t/1247761
-5. [相亲] 相亲贴-找对象自救  (33 replies)
-    ### 背景  大学毕业两年了，家里也开始催找对象，找人介绍两个，都是高中的漏网之鱼，不是嫌弃学历低，是接触一段时间都不合适，就不了了之了，自己圈子小，也接触不到异性，也在尝试扩大社交圈  ### 感叹  在大学最应该找对象的时候忙着学习和学编程，回头来看就是瞎胡忙，反正自我感觉没有闲着，当时挺羡慕有对象的人的，但是为了学业也对此事较为无感，当时的状态就像写的接口没有对外暴露，谁来也调不通，简单来说就是不主动接触异性，当然我这条件也基本上不会有异性主动的接触我，哈哈哈  考研也没考上，回头来看，不见得是件坏事~    导致现在这种情况
-    https://www.v2ex.com/t/1247811
-6. [生活] 麦当劳现在越来越贵了  (29 replies)
-    我常吃的不素之霸去年咸鱼基本 28 左右，今年上半年变 32 ，夏天时是 34 ，现在又变成 35 了，真的吃不起了，小城市又没有汉堡王的平替，肯德基又难吃，只好告别汉堡了
-    https://www.v2ex.com/t/1247855
-7. [分享发现] 发现了新的泡水好喝的东西  (28 replies)
-    甜叶菊，pdd3 块钱两小瓶，一杯水放 1-2 个叶子就好了，比罗汉果便宜，好泡，喝起来甜甜的，有回甘。  比罗汉果好，罗汉果一方面是略微贵一点，便宜的容易买到质量差的，另外一个是不好泡，需要掰开+热水才好泡出味道。  甜叶菊这个直接放杯子一两片就能泡好。 甜叶菊叶子泡水喝起来我觉得比白砂糖水清爽很多，喝完嘴里是甜的，杯子闻着有植物的香气。打算买点种子放阳台种~  pdd 推送之后，我才了解到这个植物，顺便了解了一下几种代糖，并下单了一包 100g 的甜菊糖苷试试看提取出来的甜菊糖苷跟叶子泡出来的味道有没有区别。  三氯蔗糖: 600 
-    https://www.v2ex.com/t/1247774
-8. [OpenAI] 求助，为什么新申请的招行 visa 信用卡死活绑不了 google play 的支付  (28 replies)
-    填的内容都没问题，节点也都试过了，手机上也试过，就是过不了。 ![替代文本]( https://i.imgur.com/q1rFbKh.png "11")
-    https://www.v2ex.com/t/1247797
-9. [分享创造] [开源] 好看，更好用的音乐播放器 NonsPlayer  (27 replies)
-    # 预览 <img src="https://img.cdn1.vip/i/6acb4124217df_1791705380.webp" alt="pasted-image.png">  <img src="https://img.cdn1.vip/i/6acb412cbbf08_1791705388.webp" alt="pasted-image.png">  ## 简介  时隔 3 年，Nons 终于做完了！从 WPF ，到 WinUi3 ，最后痛定思痛决定采用 Tauri 推倒重写……总之，NonsPlayer 终于做完了！  来
-    https://www.v2ex.com/t/1247825
-10. [职场话题] 我认为应用开发包括前端正在迎来最好的时代  (25 replies)
-    1. AI 的协作批处理大幅度降低了实现想法的门槛，现在做 UI 开发对已有的框架或者基础设施的门槛大幅度降低，或者以前的看似需要很花时间的想法的实现可能提高了 2. 目前基于 AI 开发的好应用作品，赛道仍然有大量的空白，已经开始有逐步出现的苗头 3. 在可见的未来很多需求端上下游场景可能迎来洗牌 （特别是小微场景，但传统大型流量入口仍然有护城河和优势）  举几个零散的例子 1. 经典的电子游戏可以被玩家利用 AI 复刻和反编译 2. 利用 AI 创造更好的 UI 基础设施，更多动效更好的界面 3. 就在 9 月末 10 月初，有开发者
-    https://www.v2ex.com/t/1247755
+1. [问与答] 为什么大家对华为这么的憎恶  (357 replies)
+    最近发生的懂车帝刹车评测事件，简直掀起了全网狂嘲，给我的感觉特别多的人对华为特别的憎恶，原因是什么，吹牛逼太浮夸？，卖的太贵性价比太低？还是什么原因，至少在自主科研方面华为的确是国产之光吧
+    https://www.v2ex.com/t/1248011
+2. [问与答] 人社部说要“数据找人”应保尽保，是不是说，养老金是否已经不可持续了？  (176 replies)
+    社保已经纳入税务部门管理，社保就是税的概念是不是再次加深了？
+    https://www.v2ex.com/t/1247955
+3. [生活] 惊闻现在大学生生活费需要 2000-2500 一个月了  (168 replies)
+    最近从几个亲友对话渠道听到的他们的小孩读大学，生活费在 2000-2500 一个月区间，但是老家的传统行业，一个人工资 3000-4000 太常见了，相当于赚的钱基本一大半给小孩做生活费。  还是很惊讶，我记得当年（ 200x 年）一个月 500 绝对用不完的。当年一个人普通人工资 2000-3000 比较常见，给 500 元给小孩做生活费还算过的去，现在就太吃紧了。  今天看到有 v 友发的麦当劳涨价的帖子（ https://v2ex.com/t/1247855#reply70 ），感慨一下通胀的厉害。
+    https://www.v2ex.com/t/1248037
+4. [酷工作] 大厂十年领了大礼包，孑然一身应该如何选择呢？  (145 replies)
+    32 岁，一直是 Android 开发，10 年 3 段大厂经历，离职前总包 70w ，975 的工作节奏，房子买了又卖，亏了接近 100w ，然后现在手里现金有 260w+，剩下一辆 modely ，是这样的基本信息。  最近刚拿大礼包，花了两个月时间全国到处玩了一圈，期间看了看 AI 发展的速度，深感未来普通研发岗数量会急剧收缩  想和 v 站上的朋友沟通下未来的想法，我目前有 3 个，大家可以提提建议  1.回老家先歇着，几乎没有成本，父母没有养老风险，然后玩玩或者学学习，探索下未来想干啥或者能干啥，完全的跨行 2.继续找 Andro
+    https://www.v2ex.com/t/1248103
+5. [推广] 银河 ETF 纳指爽，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。  (136 replies)
+    银河现在还可以继续开，ETF.纳指.逆回购.打新.都很不错！ 这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+ ⚠️回帖即可参与抽奖！ ⚠️大笑脸开户，股票基金 etf 最低费率，etf 低至“万 0.5 免五”，欢迎来开！ https://i.v2ex.co/1a6t6pBCl.jpeg ⚠️大笑脸开户推荐： YH 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，LOF 套利，逆回购 1 折，新手必备] GF 证券：ETF 万 0.5 免 5 [ETF 费率低] CC 证券： 
+    https://www.v2ex.com/t/1247938
+6. [Claude] 被 Claude 钓鱼执法了，这套路我服  (128 replies)
+    简单说一下前后过程：  10 日中午我发现 Claude 给我埋雷（生成的宣传图中包含 台 x 独 x 字样），然后我立即让 Claude 修改，移除政治敏感词，结果触发人工审核，次日凌晨被封号。   详细的过程参见我的两篇公众号文章：  https://mp.weixin.qq.com/s/0xka1XVVy-HGPVo50AVcZQ https://mp.weixin.qq.com/s/onnVc2SL85viNCuN9z4YvA
+    https://www.v2ex.com/t/1247985
+7. [问与答] 关于华为，怎么这么多二级管呢？  (104 replies)
+    看到了一个帖子，全是骂华为的，纯输出情绪垃圾，没有一点自己思考。 从消费者视角看，相对于国内的其他公司，有哪些只有华为做恶，但是其他公司没有做的？比如所谓的删帖删视频，其他的大公司都不做是吗？ 从员工视角看，华为给的工资对不住他的工作量了吗？ 从无关用户看，华为所做的营销宣传或者说吹牛，其他的大公司都不做是吗？
+    https://www.v2ex.com/t/1248143
+8. [推广] 「抽奖」iOS 上省电的行程记录 App Passcord 终身兑换码（$19.99）x 50  (104 replies)
+    ![]( https://i.v2ex.co/v7BmfX5lb.png)  Hi ，这里是我新 App 的 Passcord 的推广贴。我是 [🍉西瓜备份]( https://www.v2ex.com/t/1207707) 、[💤休息日]( https://www.v2ex.com/t/1038080)、[🏷️标签日]( https://www.v2ex.com/t/1148454)、[📌钉一下]( https://www.v2ex.com/t/1171596)、[🌕拍月亮]( https://cn.v2ex.com/t/964739) 的开发者。
+    https://www.v2ex.com/t/1247964
+9. [生活] 兄弟们，别骂星座和 mbti 了，我都信了  (85 replies)
+    - 上次发帖不是说我和对象分手了麻，总的来说是我断崖式分手，其实我最近内心很受煎熬，感觉干的不太地道 - 昨晚上我刷抖音，刷到 mbit 的 infj 人格，说是这种性格的人就是会把问题憋心里摸摸扣分，到了零界点后果断放弃，我看了以后感觉到被治愈了，虽然说我分手是各种愿意吧还有一些现实因数，但是这种站队让我感觉到我的道德负债减轻了 - 昨晚上我思考了一下，以后我就是 infj 人格了，我将把我做出的符合这个人格的行为定义为我因为是 infj 而会出现的问题，包括星座也是，以后我如果干出了不好的事并且不想承担内心的道德谴责，我将推到我是因为这个星座而做
+    https://www.v2ex.com/t/1247944
 
 ===== XUEQIU HOT STOCKS (opencli; rebang.vip topics as fallback) =====
-1 近岸蛋白 SH688137 7.45% @ 161.18 热度：1702  [NEW]  https://xueqiu.com/S/SH688137
-2 江淮汽车 SH600418 -7.97% @ 22.75 热度：1415  [NEW]  https://xueqiu.com/S/SH600418
-3 善水科技 SZ301190 11.31% @ 43.99 热度：1239  [NEW]  https://xueqiu.com/S/SZ301190
-4 海南橡胶 SH601118 9.98% @ 7.16 热度：1040  [NEW]  https://xueqiu.com/S/SH601118
-5 东百集团 SH600693 7.29% @ 10.16 热度：924  [NEW]  https://xueqiu.com/S/SH600693
-6 粤芯半导体 SZ301660 n/a @ n/a 热度：881  [NEW]  https://xueqiu.com/S/SZ301660
-7 中际旭创 SZ300308 -0.98% @ 775.29 热度：770  [NEW]  https://xueqiu.com/S/SZ300308
-8 招商轮船 SH601872 0.18% @ 22.07 热度：749  [NEW]  https://xueqiu.com/S/SH601872
-9 泡泡玛特 09992 -0.13% @ 152.3 热度：644  [NEW]  https://xueqiu.com/S/09992
-10 中远海能 SH600026 3.85% @ 23.49 热度：578  [NEW]  https://xueqiu.com/S/SH600026
-11 新华传媒 SH600825 10.01% @ 12.53 热度：492  [NEW]  https://xueqiu.com/S/SH600825
-12 麦格米特 SZ002851 -4.16% @ 102.79 热度：450  [NEW]  https://xueqiu.com/S/SZ002851
-13 紫金矿业 SH601899 4.87% @ 30.8 热度：450  [NEW]  https://xueqiu.com/S/SH601899
-14 光智科技 SZ300489 6.02% @ 278.82 热度：447  [NEW]  https://xueqiu.com/S/SZ300489
-15 药明康德 SH603259 -2.59% @ 157.8 热度：423  [NEW]  https://xueqiu.com/S/SH603259
-16 立讯精密 SZ002475 -1.73% @ 47.59 热度：395  [NEW]  https://xueqiu.com/S/SZ002475
-17 胜宏科技 SZ300476 -1.72% @ 202.69 热度：391  [NEW]  https://xueqiu.com/S/SZ300476
-18 金健米业 SH600127 10.00% @ 15.18 热度：391  [NEW]  https://xueqiu.com/S/SH600127
-19 富信科技 SH688662 2.34% @ 114.76 热度：388  [NEW]  https://xueqiu.com/S/SH688662
-20 东山精密 SZ002384 -3.43% @ 145.49 热度：382  [NEW]  https://xueqiu.com/S/SZ002384
+1 Lumentum控股 LITE -10.45% @ 988.01 热度：7969  [NEW]  https://xueqiu.com/S/LITE
+2 闪迪 SNDK -6.04% @ 1486.27 热度：6301  [NEW]  https://xueqiu.com/S/SNDK
+3 美光科技 MU -3.41% @ 993.91 热度：5887  [NEW]  https://xueqiu.com/S/MU
+4 英伟达 NVDA -1.25% @ 226.41 热度：4659  [NEW]  https://xueqiu.com/S/NVDA
+5 SK海力士 SKHY -3.67% @ 162.83 热度：3481  [NEW]  https://xueqiu.com/S/SKHY
+6 Meta META 4.39% @ 750.185 热度：3331  [NEW]  https://xueqiu.com/S/META
+7 中际旭创 SZ300308 -6.41% @ 724.47 热度：3288  [RISING 770→3288 since 2026-10-12]  https://xueqiu.com/S/SZ300308
+8 宇树科技-W SH688836 -2.48% @ 421.29 热度：2796  [NEW]  https://xueqiu.com/S/SH688836
+9 源杰科技 SH688498 -6.96% @ 1122.11 热度：2716  [NEW]  https://xueqiu.com/S/SH688498
+10 联讯仪器 SH688808 -8.13% @ 1277 热度：2264  [NEW]  https://xueqiu.com/S/SH688808
+11 兆易创新 SH603986 -4.78% @ 310.84 热度：1928  [NEW]  https://xueqiu.com/S/SH603986
+12 Moderna MRNA -4.70% @ 214.42 热度：1785  [NEW]  https://xueqiu.com/S/MRNA
+13 东山精密 SZ002384 -6.59% @ 135.9 热度：1644  [RISING 382→1644 since 2026-10-12]  https://xueqiu.com/S/SZ002384
+14 贵州茅台 SH600519 1.98% @ 1288 热度：1391  [NEW]  https://xueqiu.com/S/SH600519
+15 长鑫科技 SH688825 -5.22% @ 48.34 热度：1312  [NEW]  https://xueqiu.com/S/SH688825
+16 阿里巴巴 BABA -0.80% @ 110.4801 热度：1259  [NEW]  https://xueqiu.com/S/BABA
+17 招商轮船 SH601872 -9.38% @ 20 热度：1251  [RISING 749→1251 since 2026-10-12]  https://xueqiu.com/S/SH601872
+18 神火股份 SZ000933 -3.53% @ 26.21 热度：1248  [NEW]  https://xueqiu.com/S/SZ000933
+19 赛力斯 SH601127 10.00% @ 51.24 热度：1245  [NEW]  https://xueqiu.com/S/SH601127
+20 江淮汽车 SH600418 -3.08% @ 22.05 热度：1238  https://xueqiu.com/S/SH600418
 
 ===== HF TEXT-GEN NEW 7D (downloads desc, likes desc; re-uploads and quants folded) =====
-window: created >= 2026-10-04T17:05Z, 3760 models; top 25 distinct families, quants/re-uploads of a listed model shown as 'also:' under it
-1. ConwayResearch/Underdog-Saluki-27B-1.0 | downloads 108900 | likes 309 | created 2026-10-08 | https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0
-   also: Kujira/Underdog-Saluki-27B-1.0-MTP-GGUF | downloads 12336 | likes 18 | created 2026-10-08 | https://huggingface.co/Kujira/Underdog-Saluki-27B-1.0-MTP-GGUF | repackages ConwayResearch/Underdog-Saluki-27B-1.0
-2. peasantsmith/GLM-5.3-Flash-Maya-GGUF | downloads 57366 | likes 23 | created 2026-10-07 | https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF
-3. kindlingai/glm-5.3-exlr8-k2-k3-k4 | downloads 27020 | likes 12 | created 2026-10-08 | https://huggingface.co/kindlingai/glm-5.3-exlr8-k2-k3-k4
-4. JackKozmo29/depguard-jev-style-1.5b | downloads 23500 | likes 1 | created 2026-10-05 | https://huggingface.co/JackKozmo29/depguard-jev-style-1.5b | FLAG possibly inflated downloads (very few likes)
-5. JackKozmo29/sevclassifier-jev-style-1.5b | downloads 22093 | likes 1 | created 2026-10-05 | https://huggingface.co/JackKozmo29/sevclassifier-jev-style-1.5b | FLAG possibly inflated downloads (very few likes)
-6. JackKozmo29/codeguard-jev-style-1.5b | downloads 21972 | likes 1 | created 2026-10-05 | https://huggingface.co/JackKozmo29/codeguard-jev-style-1.5b | FLAG possibly inflated downloads (very few likes)
-7. JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF | downloads 17646 | likes 58 | created 2026-10-07 | https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF
-8. bartowski/K2-Horizon-MoVA-36B-A4B-GGUF | downloads 7542 | likes 4 | created 2026-10-07 | https://huggingface.co/bartowski/K2-Horizon-MoVA-36B-A4B-GGUF
-9. Soulfate24/Ornith-1.5-9B-MTP-DFlash-Paretrix | downloads 5871 | likes 0 | created 2026-10-08 | https://huggingface.co/Soulfate24/Ornith-1.5-9B-MTP-DFlash-Paretrix
-10. IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-NanoPlus-GGUF | downloads 5574 | likes 4 | created 2026-10-06 | https://huggingface.co/IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-NanoPlus-GGUF
-   also: IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-MiniPlus-V2.1-GGUF | downloads 4572 | likes 4 | created 2026-10-06 | https://huggingface.co/IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-MiniPlus-V2.1-GGUF | repackages nerkyor/Qwen3.8-27B-EfficientThink-Uncensored-K3-Opus5-Grok4.6-GPT5.6Sol-SFT-SimPO-DFlash2
-11. jialinyyzz/humanizer-GGUF | downloads 5351 | likes 25 | created 2026-10-06 | https://huggingface.co/jialinyyzz/humanizer-GGUF
-   also: ngquocvinh/Humanizer-12B-GGUF | downloads 3844 | likes 1 | created 2026-10-08 | https://huggingface.co/ngquocvinh/Humanizer-12B-GGUF | repackages jialinyyzz/humanizer
-12. bartowski/K2-Horizon-32B-GGUF | downloads 5150 | likes 0 | created 2026-10-07 | https://huggingface.co/bartowski/K2-Horizon-32B-GGUF
-13. mradermacher/Veloxy-Titan-32B-i1-GGUF | downloads 5107 | likes 0 | created 2026-10-09 | https://huggingface.co/mradermacher/Veloxy-Titan-32B-i1-GGUF
-14. mradermacher/Veloxy-Flash-15B-i1-GGUF | downloads 5034 | likes 0 | created 2026-10-09 | https://huggingface.co/mradermacher/Veloxy-Flash-15B-i1-GGUF
-15. CaryPalmer/Ternary-Bonsai-2-27B-262k-GGUF | downloads 4426 | likes 24 | created 2026-10-07 | https://huggingface.co/CaryPalmer/Ternary-Bonsai-2-27B-262k-GGUF
-16. Soulfate24/NeoHorse-1-4B-MTP-Paretrix | downloads 3999 | likes 0 | created 2026-10-08 | https://huggingface.co/Soulfate24/NeoHorse-1-4B-MTP-Paretrix
-17. Maximilian228/OrcaRouter-Qwen3.8-Flash-Next-Uncensored-NVFP4-GPTQ-Strata | downloads 3802 | likes 3 | created 2026-10-09 | https://huggingface.co/Maximilian228/OrcaRouter-Qwen3.8-Flash-Next-Uncensored-NVFP4-GPTQ-Strata
-18. sirfyyn/Qwen3.8-Flash-Next-FLE-GGUF | downloads 3607 | likes 1 | created 2026-10-08 | https://huggingface.co/sirfyyn/Qwen3.8-Flash-Next-FLE-GGUF
-   also: Maximilian228/Qwen3.8-Flash-Next-NVFP4-GPTQ-Strata | downloads 3529 | likes 2 | created 2026-10-09 | https://huggingface.co/Maximilian228/Qwen3.8-Flash-Next-NVFP4-GPTQ-Strata | repackages Qwen/Qwen3.8-Flash-Next
-19. Maximilian228/Qwen3.8-Flash-Next-NVIDIA-NVFP4-Strata | downloads 3322 | likes 1 | created 2026-10-09 | https://huggingface.co/Maximilian228/Qwen3.8-Flash-Next-NVIDIA-NVFP4-Strata
-20. huihui-ai/Huihui-Kolibri-1-BF16-abliterated-GGUF | downloads 3248 | likes 17 | created 2026-10-06 | https://huggingface.co/huihui-ai/Huihui-Kolibri-1-BF16-abliterated-GGUF
-21. Kujira/Underdog-Saluki-27B-1.0-MTP-Abliterated-GGUF | downloads 3162 | likes 7 | created 2026-10-09 | https://huggingface.co/Kujira/Underdog-Saluki-27B-1.0-MTP-Abliterated-GGUF
-22. mradermacher/qwen3.5-9b-uncensored-i1-GGUF | downloads 3119 | likes 0 | created 2026-10-06 | https://huggingface.co/mradermacher/qwen3.5-9b-uncensored-i1-GGUF
-23. bartowski/TheDrummer_Behemoth-X-123B-v2.2-GGUF | downloads 2964 | likes 1 | created 2026-10-07 | https://huggingface.co/bartowski/TheDrummer_Behemoth-X-123B-v2.2-GGUF
-24. bartowski/K2-Horizon-7B-GGUF | downloads 2881 | likes 0 | created 2026-10-07 | https://huggingface.co/bartowski/K2-Horizon-7B-GGUF
-25. mradermacher/Qwen3.8-4B-Heretic-i1-GGUF | downloads 2635 | likes 0 | created 2026-10-10 | https://huggingface.co/mradermacher/Qwen3.8-4B-Heretic-i1-GGUF
+window: created >= 2026-10-05T17:05Z, 3715 models; top 25 distinct families, quants/re-uploads of a listed model shown as 'also:' under it
+1. ConwayResearch/Underdog-Saluki-27B-1.0 | downloads 242329 | likes 359 | created 2026-10-08 | https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0
+   also: Kujira/Underdog-Saluki-27B-1.0-MTP-GGUF | downloads 14269 | likes 26 | created 2026-10-08 | https://huggingface.co/Kujira/Underdog-Saluki-27B-1.0-MTP-GGUF | repackages ConwayResearch/Underdog-Saluki-27B-1.0
+2. kindlingai/glm-5.3-exlr8-k2-k3-k4 | downloads 117649 | likes 12 | created 2026-10-08 | https://huggingface.co/kindlingai/glm-5.3-exlr8-k2-k3-k4 | FLAG possibly inflated downloads (very few likes)
+3. peasantsmith/GLM-5.3-Flash-Maya-GGUF | downloads 71734 | likes 34 | created 2026-10-07 | https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF
+4. JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF | downloads 20646 | likes 73 | created 2026-10-07 | https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF
+5. Maximilian228/Qwen3.8-Flash-Next-NVFP4-GPTQ-Strata | downloads 11339 | likes 5 | created 2026-10-09 | https://huggingface.co/Maximilian228/Qwen3.8-Flash-Next-NVFP4-GPTQ-Strata
+   also: sirfyyn/Qwen3.8-Flash-Next-FLE-GGUF | downloads 3633 | likes 1 | created 2026-10-08 | https://huggingface.co/sirfyyn/Qwen3.8-Flash-Next-FLE-GGUF | repackages Qwen/Qwen3.8-Flash-Next
+6. bartowski/K2-Horizon-MoVA-36B-A4B-GGUF | downloads 7878 | likes 4 | created 2026-10-07 | https://huggingface.co/bartowski/K2-Horizon-MoVA-36B-A4B-GGUF
+7. jialinyyzz/humanizer-GGUF | downloads 6519 | likes 29 | created 2026-10-06 | https://huggingface.co/jialinyyzz/humanizer-GGUF
+   also: ngquocvinh/Humanizer-12B-GGUF | downloads 3907 | likes 1 | created 2026-10-08 | https://huggingface.co/ngquocvinh/Humanizer-12B-GGUF | repackages jialinyyzz/humanizer
+8. Caldalis/MiniCPM5-2B-Math-GGUF | downloads 6494 | likes 1 | created 2026-10-09 | https://huggingface.co/Caldalis/MiniCPM5-2B-Math-GGUF
+9. IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-NanoPlus-GGUF | downloads 6187 | likes 4 | created 2026-10-06 | https://huggingface.co/IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-NanoPlus-GGUF
+   also: IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-MiniPlus-V2.1-GGUF | downloads 5046 | likes 4 | created 2026-10-06 | https://huggingface.co/IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-MiniPlus-V2.1-GGUF | repackages nerkyor/Qwen3.8-27B-EfficientThink-Uncensored-K3-Opus5-Grok4.6-GPT5.6Sol-SFT-SimPO-DFlash2
+10. Soulfate24/Ornith-1.5-9B-MTP-DFlash-Paretrix | downloads 6150 | likes 0 | created 2026-10-08 | https://huggingface.co/Soulfate24/Ornith-1.5-9B-MTP-DFlash-Paretrix
+11. bartowski/K2-Horizon-32B-GGUF | downloads 5264 | likes 0 | created 2026-10-07 | https://huggingface.co/bartowski/K2-Horizon-32B-GGUF
+12. mradermacher/Veloxy-Titan-32B-i1-GGUF | downloads 5138 | likes 0 | created 2026-10-09 | https://huggingface.co/mradermacher/Veloxy-Titan-32B-i1-GGUF
+13. mradermacher/Veloxy-Flash-15B-i1-GGUF | downloads 5063 | likes 0 | created 2026-10-09 | https://huggingface.co/mradermacher/Veloxy-Flash-15B-i1-GGUF
+14. Maximilian228/Qwen3.8-Flash-Next-NVIDIA-NVFP4-Strata | downloads 4986 | likes 1 | created 2026-10-09 | https://huggingface.co/Maximilian228/Qwen3.8-Flash-Next-NVIDIA-NVFP4-Strata
+15. CaryPalmer/Ternary-Bonsai-2-27B-262k-GGUF | downloads 4949 | likes 25 | created 2026-10-07 | https://huggingface.co/CaryPalmer/Ternary-Bonsai-2-27B-262k-GGUF
+16. Maximilian228/OrcaRouter-Qwen3.8-Flash-Next-Uncensored-NVFP4-GPTQ-Strata | downloads 4896 | likes 3 | created 2026-10-09 | https://huggingface.co/Maximilian228/OrcaRouter-Qwen3.8-Flash-Next-Uncensored-NVFP4-GPTQ-Strata
+17. Kujira/Underdog-Saluki-27B-1.0-MTP-Abliterated-GGUF | downloads 4609 | likes 12 | created 2026-10-09 | https://huggingface.co/Kujira/Underdog-Saluki-27B-1.0-MTP-Abliterated-GGUF
+18. dongfangshuo/Dongfangshuo-Qwen3.8-27B-NSFW-v2-GGUF | downloads 4312 | likes 3 | created 2026-10-09 | https://huggingface.co/dongfangshuo/Dongfangshuo-Qwen3.8-27B-NSFW-v2-GGUF
+   also: IsValorum/Huihui-Qwen3.8-27B-Abliterated-VAL-APEX-I-NanoPlus-GGUF | downloads 3026 | likes 1 | created 2026-10-06 | https://huggingface.co/IsValorum/Huihui-Qwen3.8-27B-Abliterated-VAL-APEX-I-NanoPlus-GGUF | repackages huihui-ai/Huihui-Qwen3.8-27B-abliterated
+   also: IsValorum/Huihui-Qwen3.8-27B-Abliterated-VAL-APEX-I-MiniPlus-V2.1-GGUF | downloads 2896 | likes 3 | created 2026-10-06 | https://huggingface.co/IsValorum/Huihui-Qwen3.8-27B-Abliterated-VAL-APEX-I-MiniPlus-V2.1-GGUF | repackages huihui-ai/Huihui-Qwen3.8-27B-abliterated
+19. Soulfate24/NeoHorse-1-4B-MTP-Paretrix | downloads 4212 | likes 0 | created 2026-10-08 | https://huggingface.co/Soulfate24/NeoHorse-1-4B-MTP-Paretrix
+20. huihui-ai/Huihui-Kolibri-1-BF16-abliterated-GGUF | downloads 3662 | likes 18 | created 2026-10-06 | https://huggingface.co/huihui-ai/Huihui-Kolibri-1-BF16-abliterated-GGUF
+21. mradermacher/qwen3.5-9b-uncensored-i1-GGUF | downloads 3232 | likes 0 | created 2026-10-06 | https://huggingface.co/mradermacher/qwen3.5-9b-uncensored-i1-GGUF
+22. mradermacher/Qwen3.8-4B-Heretic-i1-GGUF | downloads 3113 | likes 0 | created 2026-10-10 | https://huggingface.co/mradermacher/Qwen3.8-4B-Heretic-i1-GGUF
+23. IsValorum/Swift-1.5-Qwen3.8-27B-Uncensored-MTP-VAL-APEX-I-NanoPlus-V3-GGUF | downloads 3008 | likes 3 | created 2026-10-09 | https://huggingface.co/IsValorum/Swift-1.5-Qwen3.8-27B-Uncensored-MTP-VAL-APEX-I-NanoPlus-V3-GGUF
+24. bartowski/TheDrummer_Behemoth-X-123B-v2.2-GGUF | downloads 3001 | likes 1 | created 2026-10-07 | https://huggingface.co/bartowski/TheDrummer_Behemoth-X-123B-v2.2-GGUF
+25. bartowski/K2-Horizon-7B-GGUF | downloads 2963 | likes 0 | created 2026-10-07 | https://huggingface.co/bartowski/K2-Horizon-7B-GGUF
 
 --- details (top 25 families, first row of each) ---
 ## ConwayResearch/Underdog-Saluki-27B-1.0
@@ -92,20 +91,6 @@ window: created >= 2026-10-04T17:05Z, 3760 models; top 25 distinct families, qua
    excerpt: Qwen3.8-27B in under 8 GB, tuned to keep tool calling intact. A standard GGUF for stock llama.cpp. Read more: underdog.ai/saluki Try Saluki today in underdog.ai huggingface-cli download ConwayResearch/Underdog-Saluki-27B-1.0 Underdog-Saluki-27B-1.0-IQ2-mix.gguf --local-dir . llama-server -m Underdog-Saluki-27B-1.0-IQ2-mix.gguf --jinja -ngl 99 -fa on -c 32768 **Add vision.** Download the vision add-on too, and pass it with `--mmproj`. Then send images through the OpenAI chat API as usual. huggingface-cli download ConwayResearch/Underdog-Saluki-27B-1.0 mmproj-Underdog-Saluki-27B-1.0-F16.gguf --l
    card_api_mentions: []
    api_providers_live: none
-   coverage: Underdog Saluki 27B: Tool Calling Gains vs Full-Size Qwen3.8 Losses | MindStudio <https://www.mindstudio.ai/blog/underdog-saluki-27b-benchmarks>
-   coverage: Underdog Saluki 27B: How Much Does Compression Cost You? | MindStudio <https://www.mindstudio.ai/blog/underdog-saluki-27b-benchmark-results>
-   coverage: Saluki 27B：7.89GB 本機模型、96%評測與工具呼叫限制 <https://www.aiposthub.com/underdog-saluki-27b-quantization-tool-calling-benchmarks/>
-## peasantsmith/GLM-5.3-Flash-Maya-GGUF
-   base_model: zai-org/GLM-5.3-Flash
-   license: mit
-   params: None
-   excerpt: **Maya-L: 99.2% of the full FP8 model's accuracy** on zero-shot tasks (ARC, HellaSwag, WinoGrande, PIQA), in 156 GB. **Maya-S: 97.9%** in a 96 GB file. **Maya-S24: 97.7%, and up to 14% faster decode on 24 GB cards**, in 94.7 GB. **Maya-M: 97.9%, and closer to the full model token by token**, in 116 GB. GGUF quantizations of [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) (321 B parameters, a mixture of experts with about 18 B active per token), made for **Project Maya**. Project Maya keeps the most-used experts on the GPU, the next in RAM and the rest on the SSD, so all f
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: peasantsmith/GLM-5.3-Flash-Maya-GGUF — Shadowgraph <https://shadowgraph.io/hf/models/peasantsmith/GLM-5.3-Flash-Maya-GGUF>
-   coverage: mw00/project-maya: Project Maya - GLM-5.3-Fla… — Shadowgraph <https://shadowgraph.io/mw00/project-maya>
-   coverage: Project Maya Runs Z.ai's Opus 4.8 Challenger on Two V100s <https://vramcalculator.com/project-maya-glm-5-3-flash/>
-   coverage: GLM-5.3-Flash: Frontier Intelligence, Flash Cost <https://z.ai/blog/glm-5.3-flash>
 ## kindlingai/glm-5.3-exlr8-k2-k3-k4
    base_model: zai-org/GLM-5.3-BF16
    license: other
@@ -113,34 +98,13 @@ window: created >= 2026-10-04T17:05Z, 3760 models; top 25 distinct families, qua
    excerpt: Version 0.5 (git tag `v0.5`). See the [changelog](#changelog). Weight set ID: `2011c0cedde962d19fc43e74c1d409279e398d40d27a6fdb4bcb7b49ea2ea6fb` (see [Identifying the weights](#identifying-the-weights)). > **Status: draft / preview.** End-to-end gates (TP agreement, held-out KL against BF16, decode speed) are running. > Metrics on this card will be updated as they land. > **These weights cannot be used without E4M3 rounding.** A loader must round every value the trellis > codebook produces to FP8 E4M3 (round to nearest even, saturating) before applying the side vectors. The > encoder searched 
    card_api_mentions: []
    api_providers_live: none
-## JackKozmo29/depguard-jev-style-1.5b
-   base_model: Qwen/Qwen2.5-1.5B-Instruct
-   license: apache-2.0
-   params: 1543714304
-   excerpt: **Local System One model for dependency security review. JEV-compatible typed verdicts, no API key required.** > *Drop-in local alternative to TypeSafe Jev for supply-chain review pipelines. > Returns safe/caution/block per package update — swap the endpoint, keep the agent.* --- depguard-jev-style-1.5b is a fine-tuned [Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) that produces **typed dependency security verdicts** — matching the output contract of [TypeSafe System One / Jev](https://docs.typesafe.ai) for supply-chain review use cases. It outputs a single JSON obj
-   card_api_mentions: ['llm = ChatOpenAI(base_url="https://api.typesafe.ai/v1", api_key=JEV_KEY, model="jev-latest")']
+## peasantsmith/GLM-5.3-Flash-Maya-GGUF
+   base_model: zai-org/GLM-5.3-Flash
+   license: mit
+   params: None
+   excerpt: **Maya-L: 99.2% of the full FP8 model's accuracy** on zero-shot tasks (ARC, HellaSwag, WinoGrande, PIQA), in 156 GB. **Maya-S: 97.9%** in a 96 GB file. **Maya-S24: 97.7%, and up to 14% faster decode on 24 GB cards**, in 94.7 GB. **Maya-M: 97.9%, and closer to the full model token by token**, in 116 GB. GGUF quantizations of [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) (321 B parameters, a mixture of experts with about 18 B active per token), made for **Project Maya**. Project Maya keeps the most-used experts on the GPU, the next in RAM and the rest on the SSD, so all f
+   card_api_mentions: []
    api_providers_live: none
-   coverage: jev-on-a-laptop · Awesome Jev <https://awesomejev.vercel.app/p/jev-on-a-laptop/>
-   coverage: LocalJev Review: Jev's API on Any Local Model | MrJev <https://mrjev.com/projects/githubnext-localjev/>
-## JackKozmo29/sevclassifier-jev-style-1.5b
-   base_model: Qwen/Qwen2.5-1.5B-Instruct
-   license: apache-2.0
-   params: 1543714304
-   excerpt: **Local System One model for incident severity classification. JEV-compatible typed decisions, no API key required.** > *Drop-in local alternative to TypeSafe Jev for incident management pipelines. > Returns SEV1-4, escalation flag, and blast radius — swap the endpoint, keep the agent.* --- sevclassifier-jev-style-1.5b is a fine-tuned [Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) that produces **typed incident severity classifications** — matching the output contract of [TypeSafe System One / Jev](https://docs.typesafe.ai) for incident triage pipelines. It outputs 
-   card_api_mentions: ['llm = ChatOpenAI(base_url="https://api.typesafe.ai/v1", api_key=JEV_KEY, model="jev-latest")']
-   api_providers_live: none
-   coverage: Evaluating and Benchmarking the System One Model Jev <https://arxiv.org/html/2609.37647v1>
-   coverage: How Jev works: calibrated decision models | Victor Dibia <https://victordibia.com/explainers/jev/>
-## JackKozmo29/codeguard-jev-style-1.5b
-   base_model: Qwen/Qwen2.5-1.5B-Instruct
-   license: apache-2.0
-   params: 1543714304
-   excerpt: **Local System One model for PR code-review triage. JEV-compatible typed verdicts, no API key required.** > *Drop-in local alternative to TypeSafe Jev for code-review pipelines. > Returns verdict, risk level, and flags per PR — swap the endpoint, keep the agent.* --- codeguard-jev-style-1.5b is a fine-tuned [Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) that produces **typed code-review verdicts** from PR diffs — matching the output contract of [TypeSafe System One / Jev](https://docs.typesafe.ai) without requiring an API subscription. It outputs a single JSON objec
-   card_api_mentions: ['[TypeSafe System One / Jev](https://docs.typesafe.ai) without requiring an API subscription.', 'llm = ChatOpenAI(base_url="https://api.typesafe.ai/v1", api_key=JEV_KEY, model="jev-latest")']
-   api_providers_live: none
-   coverage: jev-style-guard | jev-style <https://www.claudepluginhub.com/skills/lawrence3699-jev-style/jev-style-guard>
-   coverage: LocalJev Review: Jev's API on Any Local Model | MrJev <https://mrjev.com/projects/githubnext-localjev/>
-   coverage: TypeSafe Jev review (2026): the System One model, tested <https://www.eesel.ai/blog/typesafe-jev-review>
 ## JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF
    base_model: JetBrains/Mellum2.1-12B-A2.5B-Thinking
    license: apache-2.0
@@ -148,10 +112,15 @@ window: created >= 2026-10-04T17:05Z, 3760 models; top 25 distinct families, qua
    excerpt: This repository contains **GGUF** builds of [`JetBrains/Mellum2.1-12B-A2.5B-Thinking`](https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking) in every quantization we publish, ready to run with [`llama.cpp`](https://github.com/ggml-org/llama.cpp), Ollama, LM Studio, and other GGUF-compatible runtimes. Each variant is one file; download the one you need. Mellum2.1 Thinking is a Mixture-of-Experts reasoning model (64 experts, 8 activated per token, 131,072-token context) that emits its chain of thought inside `<think>...</think>` blocks before the final answer. For the full model descrip
    card_api_mentions: []
    api_providers_live: none
-   coverage: Mellum2.1 12B-A2.5B Thinking — slm.expert <https://slm.expert/models/mellum2-1-12b-a2-5b-thinking/>
-   coverage: Mellum2.1-12B-A2.5B-Thinking Benchmark Scores & Performance <https://benchlm.ai/models/mellum2-1-12b-a2-5b-thinking>
-   coverage: JetBrains Open-Sources Mellum 2.1 Thinking: A 12B Mixture-of-Experts With 2.5B Active, SWE-bench Verified Up From 2% to 47%, Still Slightly Behind Qwen3.5 9B | AI News <https://00011000.com/en/news/jetbrains-mellum-2-1-thinking>
-   coverage: New Evaluation Reveals Mellum2.1-12B-A2.5B Excels at Iterative Coding Tasks | Tech Pulse | TheNextGenTechInsider <https://thenextgentechinsider.com/pulse/new-evaluation-reveals-mellum21-12b-a25b-excels-at-iterative-coding-tasks>
+## Maximilian228/Qwen3.8-Flash-Next-NVFP4-GPTQ-Strata
+   base_model: ['Qwen/Qwen3.8-Flash-Next']
+   license: other
+   params: None
+   excerpt: Qwen's original [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) with **every routed expert in NVFP4, quantized from the BF16 checkpoint by GPTQ**, packed for [Strata NVFP4](https://github.com/sergqwer/strata-nvfp4): the 125B hybrid MoE on one RTX 20-50 card (12 GB of VRAM or more) and 64 GB of RAM or more. - **Accuracy:** how often the model's most likely next token is the Q8_0 model's. Measured on 5,153 tokens of code, docs, English and Ukrainian chats and agent transcripts, every model fed the same text. Every model ran with its experts on the CPU and the route tail skip
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Running Qwen3.8-Flash-Next on an RTX 5090 + 64GB: Strata Hands-On, IQ3_XXS vs IQ3_S <https://en.wiselychen.com/en/strata-qwen38-flash-next-rtx5090-1m-context/>
+   coverage: ~188k warm at 60–67 tok/s: Qwen3.8-Flash-Next NVFP4 runs on one RTX PRO 4500 32GB + 64GB DDR5 via Strata fork · KBlip - Noise-Free AI News Aggregator <https://kblip.com/social/188k-warm-at-60-67-tok-s-qwen3-8-flash-next-nvfp4-runs-on-BlK1jyo>
 ## bartowski/K2-Horizon-MoVA-36B-A4B-GGUF
    base_model: IFM/K2-Horizon-MoVA-36B-A4B
    license: apache-2.0
@@ -159,25 +128,6 @@ window: created >= 2026-10-04T17:05Z, 3760 models; top 25 distinct families, qua
    excerpt: Using <a href="https://github.com/ggml-org/llama.cpp/">llama.cpp</a> release <a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11462">b11462</a> for quantization. Original model: https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B **Model details:** - Parameter count: 37B (source checkpoint) - Input support: text - Speculative decoding: no - imatrix: yes - [details](#imatrix) [How to run](#how-to-run) {system_prompt}<|ifm|im_end|><|ifm|im_start|>user {prompt}<|ifm|im_end|><|ifm|im_start|>assistant You may call one or more tools to assist with the user query. Available tools are: Get 
    card_api_mentions: []
    api_providers_live: none
-   coverage: K2 Horizon 36B Review for Local Agent Workloads | WaveSpeed Blog <https://wavespeed.ai/blog/ai-models/k2-horizon-36b-a4b-review/>
-   coverage: Introducing K2 Horizon: Frontier Performance, Radically ... <https://ifm.ai/blog/k2/>
-   coverage: K2-Horizon-MoVA-36B-A4B Benchmarks vs Nemotron, Qwen, Gemma | MindStudio <https://www.mindstudio.ai/blog/k2-horizon-mova-benchmarks-vs-rivals>
-## Soulfate24/Ornith-1.5-9B-MTP-DFlash-Paretrix
-   base_model: ['ornith-ai/Ornith-1.5-9B', 'ornith-ai/Ornith-1.5-9B-DFlash']
-   license: mit
-   params: None
-   excerpt: For the MTP version, the recommended configuration is KV cache `q5_1` and draft cache `q8_0`. This setup provides the largest possible context window for the model, with equal or even better speed when the context is heavily loaded. > **Note:** The MTP version works on its own. Run it without a DFlash or DSpark draft model at the same time. **Paretrix** is an empirical, activation-aware quantization suite for GGUF language models and speculative decoding modules. **Pareto + Matrix → Paretrix.** Each tier is priced so that no better trade exists at that compression. The suite measures real acti
-   card_api_mentions: []
-   api_providers_live: none
-## IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-NanoPlus-GGUF
-   base_model: nerkyor/Qwen3.8-27B-EfficientThink-Uncensored-K3-Opus5-Grok4.6-GPT5.6Sol-SFT-SimPO-DFlash2
-   license: apache-2.0
-   params: None
-   excerpt: > [!CAUTION] > ### CRITICAL UPDATE NOTICE — CERTIFIED BUILD (OCTOBER 10, 2026) > **If you downloaded this repository prior to today, you obtained a defective/compromised build generated with an obsolete quantization recipe.** > > The legacy build suffered from severe recurrent state instability, context degradation, and unintended language mixing during generation. > > **The current release completely resolves these issues:** > - Complete long-context associative recall and conversational stability restored. > - Full reasoning fidelity preserved across all layers with zero language leakage or 
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-NanoPlus-GGUF · Pirate Face <https://pirateface.co/IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-NanoPlus-GGUF>
-   coverage: IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-NanoPlus-GGUF - Free GGUF Download | GraySoft <https://graysoft.dev/models/isv/isvalorum-qwen3.8-27b-efficientthink-uncensored-val-apex-i-nanoplus-gguf.html>
 ## jialinyyzz/humanizer-GGUF
    base_model: jialinyyzz/humanizer
    license: apache-2.0
@@ -188,7 +138,32 @@ window: created >= 2026-10-04T17:05Z, 3760 models; top 25 distinct families, qua
    coverage: Humanizer Review: The 50K-Star Skill That Edits AI Prose — andrew.ooo <https://andrew.ooo/posts/humanizer-claude-code-skill-remove-ai-writing-patterns-review/>
    coverage: Humanizer reviewed: 33 fixes for AI-sounding prose — MrKeyoor <https://mrkeyoor.com/repos/humanizer/>
    coverage: I Stress-Tested Blader’s Humanizer So You Don’t Have To | by Ankit Vora | Medium <https://medium.com/@ankitvora81/i-stress-tested-bladers-humanizer-so-you-don-t-have-to-6b883d48c6ef>
-   coverage: AI Humanizer Reviews <https://www.writehybrid.com/humanizers>
+   coverage: Best AI Humanizers 2026: 10 Tools Tested & Ranked <https://walterwrites.ai/best-ai-humanizer-tools/>
+## Caldalis/MiniCPM5-2B-Math-GGUF
+   base_model: Caldalis/MiniCPM5-2B-Math
+   license: apache-2.0
+   params: None
+   excerpt: English | GGUF builds of [MiniCPM5-2B-Math](https://huggingface.co/Caldalis/MiniCPM5-2B-Math), a 2.5B math and proof specialist, for llama.cpp, Ollama and LM Studio. Pair it with the [MiniCPM-Math Harness](https://github.com/Caldalis/MiniCPM-Math-harness) to run a small proof swarm on a laptop. Converted with llama.cpp b10964 (`convert_hf_to_gguf.py`, tokenizer pre-type `minicpm5`) and quantized with `llama-quantize`. The recommended sampling settings (temperature 0.9, top-p 0.95, min-p 0, top-k off) are embedded in the GGUF metadata, so llama.cpp uses them by default. All results on the [mode
+   card_api_mentions: []
+   api_providers_live: none
+## IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-NanoPlus-GGUF
+   base_model: nerkyor/Qwen3.8-27B-EfficientThink-Uncensored-K3-Opus5-Grok4.6-GPT5.6Sol-SFT-SimPO-DFlash2
+   license: apache-2.0
+   params: None
+   excerpt: > [!CAUTION] > ### CRITICAL UPDATE NOTICE — CERTIFIED BUILD (OCTOBER 10, 2026) > **If you downloaded this repository prior to today, you obtained a defective/compromised build generated with an obsolete quantization recipe.** > > The legacy build suffered from severe recurrent state instability, context degradation, and unintended language mixing during generation. > > **The current release completely resolves these issues:** > - Complete long-context associative recall and conversational stability restored. > - Full reasoning fidelity preserved across all layers with zero language leakage or 
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-NanoPlus-GGUF · Pirate Face <https://pirateface.co/IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-NanoPlus-GGUF>
+   coverage: Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-NanoPlus — Abliterated Model Card <https://abliteratedmodels.org/qwen3.8-27b-efficientthink-uncensored-val-apex-i-nanoplus/>
+   coverage: IsValorum/Qwen3.8-27B-EfficientThink-Uncensored-VAL-APEX-I-NanoPlus-GGUF - Free GGUF Download | GraySoft <https://graysoft.dev/models/isv/isvalorum-qwen3.8-27b-efficientthink-uncensored-val-apex-i-nanoplus-gguf.html>
+   coverage: Qwen3.8-27B Uncensored: Which of 12 Builds to Pick | Deepent Research <https://deepentresearch.com/en/journal/qwen38-uncensored-models>
+## Soulfate24/Ornith-1.5-9B-MTP-DFlash-Paretrix
+   base_model: ['ornith-ai/Ornith-1.5-9B', 'ornith-ai/Ornith-1.5-9B-DFlash']
+   license: mit
+   params: None
+   excerpt: For the MTP version, the recommended configuration is KV cache `q5_1` and draft cache `q8_0`. This setup provides the largest possible context window for the model, with equal or even better speed when the context is heavily loaded. > **Note:** The MTP version works on its own. Run it without a DFlash or DSpark draft model at the same time. **Paretrix** is an empirical, activation-aware quantization suite for GGUF language models and speculative decoding modules. **Pareto + Matrix → Paretrix.** Each tier is priced so that no better trade exists at that compression. The suite measures real acti
+   card_api_mentions: []
+   api_providers_live: none
 ## bartowski/K2-Horizon-32B-GGUF
    base_model: IFM/K2-Horizon-32B
    license: apache-2.0
@@ -197,8 +172,8 @@ window: created >= 2026-10-04T17:05Z, 3760 models; top 25 distinct families, qua
    card_api_mentions: []
    api_providers_live: none
    coverage: K2 Horizon Tested Locally: 0.9B, 7B, 32B Results Are Rough | MindStudio <https://www.mindstudio.ai/blog/k2-horizon-local-models-tested>
-   coverage: IFM/K2-Horizon-32B-Stage1 <https://kinonn-bot.github.io/research-vault/research/models/ifm--k2-horizon-32b>
    coverage: K2 Horizon 32B: benchmarks — ModelCap #98 <https://modelcap.ai/model/ifm-k2-horizon-32b>
+   coverage: IFM/K2-Horizon-32B-Stage1 <https://kinonn-bot.github.io/research-vault/research/models/ifm--k2-horizon-32b>
 ## mradermacher/Veloxy-Titan-32B-i1-GGUF
    base_model: zveloxy/Veloxy-Titan-32B
    license: apache-2.0
@@ -206,10 +181,6 @@ window: created >= 2026-10-04T17:05Z, 3760 models; top 25 distinct families, qua
    excerpt: weighted/imatrix quants of https://huggingface.co/zveloxy/Veloxy-Titan-32B ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#Veloxy-Titan-32B-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/Veloxy-Titan-32B-GGUF If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-GGUF) for more details, including on how to concatenate multi-part files. (sorted by size, not necessarily quality. IQ-quants are often preferable over similar si
    card_api_mentions: []
    api_providers_live: none
-   coverage: Veloxy Reviews & Ratings 2026 | Gartner Peer Insights <https://www.gartner.com/reviews/product/veloxy>
-   coverage: Veloxy 2026: Honest Expert Review | ITQlick <https://www.itqlick.com/veloxy>
-   coverage: Veloxy Customer Reviews 2026 | Sales Engagement ... <https://www.softwarereviews.com/products/veloxy?c_id=245>
-   coverage: aya expanse 32b heretic MPOA i1 on NVIDIA L40S 48GB? YES <https://willitrunai.com/can-run/hf-mradermacher--aya-expanse-32b-heretic-mpoa-i1-gguf-on-l40s-48gb>
 ## mradermacher/Veloxy-Flash-15B-i1-GGUF
    base_model: zveloxy/Veloxy-Flash-15B
    license: apache-2.0
@@ -218,51 +189,7 @@ window: created >= 2026-10-04T17:05Z, 3760 models; top 25 distinct families, qua
    card_api_mentions: []
    api_providers_live: none
    coverage: Veloxy Reviews & Ratings 2026 | Gartner Peer Insights <https://www.gartner.com/reviews/product/veloxy>
-   coverage: The #1 Field Sales Software for Reps & Managers using ... <https://veloxy.io/>
    coverage: Veloxy Customer Reviews 2026 | Sales Engagement ... <https://www.softwarereviews.com/products/veloxy?c_id=245>
-   coverage: HelpingAI 15B i1 on Radeon Pro W7800 32GB? YES <https://willitrunai.com/can-run/hf-mradermacher--helpingai-15b-i1-gguf-on-radeon-pro-w7800-32gb>
-## CaryPalmer/Ternary-Bonsai-2-27B-262k-GGUF
-   base_model: ['prism-ml/Ternary-Bonsai-2-27B-gguf']
-   license: apache-2.0
-   params: None
-   excerpt: **A 27B model with its whole trained context window, at q8_0 KV precision, on one RTX 4070 12 GB. 78 tok/s of new text at 32k tokens of context (175 on code), 69 at 64k, 61 at 112k, and the window keeps going to 262k. Lossless speculative decoding at every depth. A server that answers the requests agents and apps actually send. One command on Windows.** This is PrismML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) (1.58-bit ternary `PTQ1_0`, 5.9 GB, Apache 2.0), the same weights, nothing re-quantized, with its MTP draft head grafted back on (byte-identical
-   card_api_mentions: ['OpenAI-compatible API on `http://<host>:8080/v1`, bearer key in `artifacts\\api_key.txt` (created on first run),']
-   api_providers_live: none
-   coverage: Introducing Bonsai 2 27B: Near-Lossless Compression in a ... <https://prismml.com/news/bonsai-2-27b>
-   coverage: Ternary Bonsai 2 27B: What the 98.2% Claim Really Means <https://www.orcarouter.ai/blog/ternary-bonsai-2-27b>
-   coverage: Ternary Bonsai 2 27B vs Qwen3.8 27B <https://openrouter.ai/compare/prism-ml/ternary-bonsai-2-27b/qwen/qwen3.8-27b>
-   coverage: Ternary Bonsai 2 27B | AI Model Review | Neomanex <https://neomanex.com/models/ternary-bonsai-2-27b>
-## Soulfate24/NeoHorse-1-4B-MTP-Paretrix
-   base_model: ['TokenRhythm/NeoHorse-1-4B']
-   license: apache-2.0
-   params: None
-   excerpt: For the MTP version, the recommended configuration is KV cache `q5_1` and draft cache `q8_0`. This setup provides the largest possible context window for the model, with equal or even better speed when the context is heavily loaded. > **Note:** The MTP version works on its own. Run it without a DFlash or DSpark draft model at the same time. **Paretrix** is an empirical, activation-aware quantization suite for GGUF language models and speculative decoding modules. **Pareto + Matrix → Paretrix.** Each tier is priced so that no better trade exists at that compression. The suite measures real acti
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: NeoHorse-1: Towards Recursive Self-Improvement via ... <https://arxiv.org/html/2609.08183v1>
-   coverage: Neo Horse 4B Review: Is This Local AI Model Worth It - Geeky Gadgets <https://www.geeky-gadgets.com/neo-horse-4b-local-ai/>
-   coverage: NeoHorse-1-4B: TokenRhythm's Self-Improvement Claim <https://theterminal.space/ai/neohorse-1-4b-self-improvement-claim>
-## Maximilian228/OrcaRouter-Qwen3.8-Flash-Next-Uncensored-NVFP4-GPTQ-Strata
-   base_model: ['orcarouter/Qwen3.8-Flash-Next-Uncensored']
-   license: other
-   params: None
-   excerpt: > [!WARNING] > **Withdrawn from Strata NVFP4's installer (2026-10-10): as an agent, this abliterated build is much worse than the > original Qwen.** > - **A multi-step Claude Code task** (building an interactive 3D page), same prompt on both models: the original >   Qwen3.8-Flash-Next ([our GPTQ of it](https://huggingface.co/Maximilian228/Qwen3.8-Flash-Next-NVFP4-GPTQ-Strata)) >   ran 175 steps, checking and fixing its work from screenshots, and gave a clearly better result. This build >   stopped after 10-70 steps (3 runs) and declared the work done. > - **It closes its thinking sooner.** Ove
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Maximilian228/OrcaRouter-Qwen3.8-Flash-Next-Uncensored-NVFP4-GPTQ-Strata - abliteration.org <https://abliteration.org/models/Maximilian228/OrcaRouter-Qwen3.8-Flash-Next-Uncensored-NVFP4-GPTQ-Strata>
-   coverage: Qwen3.8-Flash-Next-Uncensored-NVFP4: Blackwell Runbook <https://www.orcarouter.ai/blog/qwen3-8-flash-next-uncensored-nvfp4>
-   coverage: Running Qwen3.8-Flash-Next-Uncensored (IQ4_XS) 125B-class MoE on an older PC + 24GB GPU: From Strata installation to 262K context, image input, and Claude Code connection｜宮崎政宏 <https://note.com/airrium/n/n4bc52d53f172?hl=en>
-## sirfyyn/Qwen3.8-Flash-Next-FLE-GGUF
-   base_model: Qwen/Qwen3.8-Flash-Next
-   license: other
-   params: None
-   excerpt: Three hybrid GGUF quantizations of [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) (512 routed experts, 10 active per token) plus the model's own multi-token-prediction (MTP) head with its experts requantized to IQ4_NL for FLE. We also tried re-training the head; it did not pay off on unseen prompts, so the untrained head is what we ship (see [MTP head](#mtp-head)). A pruned variant of the first, FLE-IQ3_M-REAP448, is in its own repo: [sirfyyn/Qwen3.8-Flash-Next-FLE-REAP448-GGUF](https://huggingface.co/sirfyyn/Qwen3.8-Flash-Next-FLE-REAP448-GGUF). The names follow the expe
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Qwen 3.8 Flash Next review: fast, cheap, half-baked on purpose | eesel AI <https://www.eesel.ai/blog/qwen38-flash-next-review>
-   coverage: QwenLM/Qwen3.8-Flash-Next <https://github.com/QwenLM/Qwen3.8-Flash-Next?file=Qwen3.8-Flash-Next>
-   coverage: Qwen3.8-Flash-Next Review (2026) — Is It Worth It? | ToolPorto <https://toolporto.com/reviews/qwen3-8-flash-next>
-   coverage: Qwen3.8 Flash Next Review: Benchmarks, Architecture ... <https://kaitchup.substack.com/p/qwen38-flash-next-review-benchmarks>
 ## Maximilian228/Qwen3.8-Flash-Next-NVIDIA-NVFP4-Strata
    base_model: ['nvidia/Qwen3.8-Flash-Next-NVFP4']
    license: other
@@ -273,15 +200,27 @@ window: created >= 2026-10-04T17:05Z, 3760 models; top 25 distinct families, qua
    coverage: Qwen 3.8 Flash-Next (Thinking) · LLM Model Review | CrucibleMark <https://www.cruciblemark.com/reports/qwen3-8-flash-next-nvfp4-thinking/review/>
    coverage: Strata: Run Qwen3.8 125B on a 12 GB GPU (60-120 tok/s) | explainx.ai Blog | explainx.ai <https://explainx.ai/blog/strata-qwen3-8-flash-next-125b-consumer-gpu-100-tokens-per-second-2026>
    coverage: Running Qwen3.8-Flash-Next on an RTX 5090 + 64GB: Strata Hands-On, IQ3_XXS vs IQ3_S <https://en.wiselychen.com/en/strata-qwen38-flash-next-rtx5090-1m-context/>
-## huihui-ai/Huihui-Kolibri-1-BF16-abliterated-GGUF
-   base_model: Aleph-Alpha/Kolibri-1-BF16
+## CaryPalmer/Ternary-Bonsai-2-27B-262k-GGUF
+   base_model: ['prism-ml/Ternary-Bonsai-2-27B-gguf']
    license: apache-2.0
    params: None
-   excerpt: This is an uncensored version of [Aleph-Alpha/Kolibri-1-BF16](https://huggingface.co/Aleph-Alpha/Kolibri-1-BF16) created with abliteration. This ablation was performed entirely using llama.cpp's GGUF model, without relying on Transformers, For the specific ablation method, please refer to [cvector-generator](https://github.com/ggml-org/llama.cpp/blob/master/tools/cvector-generator/README.md). We re-quantized the models using llama.cpp and have uploaded the Q2, Q3, Q4, Q5, Q6, Q8, and BF16 quantized models. GGUFs come from [Hob-forge/Kolibri-1-GGUF](https://huggingface.co/Hob-forge/Kolibri-1-GG
+   excerpt: **A 27B model with its whole trained context window, at q8_0 KV precision, on one RTX 4070 12 GB. 78 tok/s of new text at 32k tokens of context (175 on code), 69 at 64k, 61 at 112k, and the window keeps going to 262k. Lossless speculative decoding at every depth. A server that answers the requests agents and apps actually send. One command on Windows.** This is PrismML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) (1.58-bit ternary `PTQ1_0`, 5.9 GB, Apache 2.0), the same weights, nothing re-quantized, with its MTP draft head grafted back on (byte-identical
+   card_api_mentions: ['OpenAI-compatible API on `http://<host>:8080/v1`, bearer key in `artifacts\\api_key.txt` (created on first run),']
+   api_providers_live: none
+   coverage: Introducing Bonsai 2 27B: Near-Lossless Compression in a ... <https://prismml.com/news/bonsai-2-27b>
+   coverage: Ternary Bonsai 2 27B: What the 98.2% Claim Really Means <https://www.orcarouter.ai/blog/ternary-bonsai-2-27b>
+   coverage: Bonsai 2 27B Benchmarks: Does Ternary Quantization Actually Hold Up? | MindStudio <https://www.mindstudio.ai/blog/ternary-bonsai-2-27b-benchmarks>
+   coverage: Ternary Bonsai 2 27B Benchmarked on 2x Tesla T4 · SDAD Writes <https://blog.sdad.pro/blog/ternary-bonsai-2-27b-benchmark-two-t4-gpus>
+## Maximilian228/OrcaRouter-Qwen3.8-Flash-Next-Uncensored-NVFP4-GPTQ-Strata
+   base_model: ['orcarouter/Qwen3.8-Flash-Next-Uncensored']
+   license: other
+   params: None
+   excerpt: > [!WARNING] > **Withdrawn from Strata NVFP4's installer (2026-10-10): as an agent, this abliterated build is much worse than the > original Qwen.** > - **A multi-step Claude Code task** (building an interactive 3D page), same prompt on both models: the original >   Qwen3.8-Flash-Next ([our GPTQ of it](https://huggingface.co/Maximilian228/Qwen3.8-Flash-Next-NVFP4-GPTQ-Strata)) >   ran 175 steps, checking and fixing its work from screenshots, and gave a clearly better result. This build >   stopped after 10-70 steps (3 runs) and declared the work done. > - **It closes its thinking sooner.** Ove
    card_api_mentions: []
    api_providers_live: none
-   coverage: huihui-ai/Huihui-Kolibri-1-BF16-abliterated — Downloads, Growth & Stats | OpenModelStats <https://openmodelstats.com/models/huihui-ai/huihui-kolibri-1-bf16-abliterated>
-   coverage: Kolibri Has Landed: A Sovereign Open-Weight Model <https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/>
+   coverage: Maximilian228/OrcaRouter-Qwen3.8-Flash-Next-Uncensored-NVFP4-GPTQ-Strata - abliteration.org <https://abliteration.org/models/Maximilian228/OrcaRouter-Qwen3.8-Flash-Next-Uncensored-NVFP4-GPTQ-Strata>
+   coverage: Qwen3.8-Flash-Next-Uncensored-NVFP4: Blackwell Runbook <https://www.orcarouter.ai/blog/qwen3-8-flash-next-uncensored-nvfp4>
+   coverage: Running Qwen3.8-Flash-Next-Uncensored (IQ4_XS) 125B-class MoE on an older PC + 24GB GPU: From Strata installation to 262K context, image input, and Claude Code connection｜宮崎政宏 <https://note.com/airrium/n/n4bc52d53f172?hl=en>
 ## Kujira/Underdog-Saluki-27B-1.0-MTP-Abliterated-GGUF
    base_model: ['Kujira/Underdog-Saluki-27B-1.0-MTP-GGUF', 'ConwayResearch/Underdog-Saluki-27B-1.0']
    license: apache-2.0
@@ -291,6 +230,35 @@ window: created >= 2026-10-04T17:05Z, 3760 models; top 25 distinct families, qua
    api_providers_live: none
    coverage: ConwayResearch/Underdog-Saluki-27B-1.0 · Pirate Face <https://pirateface.co/ConwayResearch/Underdog-Saluki-27B-1.0>
    coverage: Underdog Saluki 27B: Tool Calling Gains vs Full-Size Qwen3.8 Losses | MindStudio <https://www.mindstudio.ai/blog/underdog-saluki-27b-benchmarks>
+## dongfangshuo/Dongfangshuo-Qwen3.8-27B-NSFW-v2-GGUF
+   base_model: ['huihui-ai/Huihui-Qwen3.8-27B-abliterated', 'dongfangshuo/Dongfangshuo-Qwen3.8-27B-NSFW']
+   license: apache-2.0
+   params: None
+   excerpt: > ## 重要提示：v2建议关闭cot使用 本仓库为 东方槊 (Dongfangshuo) Qwen3.8-27B-NSFW-v2 的官方 GGUF 量化版本仓库。 基于 huihui-ai/Huihui-Qwen3.8-27B-abliterated 深度重训与对齐，专为nsfw中文长篇小说创作打造。 * **v1 版本（平衡版）**：保存在独立仓库 Dongfangshuo-Qwen3.8-27B-NSFW-GGUF 。 * **v2 版本（激进版）**：推翻初代方案，实施彻底重构，彻底根除长文自注意力崩溃与无限复读问题，大幅强化微观生理与感官白描。 * 根治长文注意力崩溃与死循环复读。 * 大幅强化呼吸节奏、肌肉颤动、体温冷汗、微表情与动态光影等具象生理细节，营造极具沉浸感的触感与压迫感。 * 覆盖全部 Attention 与 MLP 模块（含 in_proj/out_proj），深度重对齐特征表征，长程上下文稳固度相比前代质的飞跃。 实测结果： * **0 (huihui-27b)**：基座对照组（具备常规通用安全对齐机制） * **1 (dongfangshuo v1)**：初代平衡版（7 模块常规微调） * **2 (dongfangshuo v2)**：二代重训版（12 全模块 + 前置遮罩 + 极限抗压特化） 测试目的：评估非安全边界解除彻底性与限制级词汇在情境对话
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Qwen3.8-27B OBLITERATED: How This Uncensored ... <https://www.mindstudio.ai/blog/qwen3-27b-obliterated-uncensored-model>
+   coverage: Qwen3.8-27B Uncensored: Which of 12 Builds to Pick | Deepent Research <https://deepentresearch.com/en/journal/qwen38-uncensored-models>
+   coverage: How does Qwen 3.8 handle NSFW? Investigating what has changed since Qwen 3.6｜通りすがりライタ <https://note.com/vast_dunlin833/n/n1e8c90c12976?hl=en>
+## Soulfate24/NeoHorse-1-4B-MTP-Paretrix
+   base_model: ['TokenRhythm/NeoHorse-1-4B']
+   license: apache-2.0
+   params: None
+   excerpt: For the MTP version, the recommended configuration is KV cache `q5_1` and draft cache `q8_0`. This setup provides the largest possible context window for the model, with equal or even better speed when the context is heavily loaded. > **Note:** The MTP version works on its own. Run it without a DFlash or DSpark draft model at the same time. **Paretrix** is an empirical, activation-aware quantization suite for GGUF language models and speculative decoding modules. **Pareto + Matrix → Paretrix.** Each tier is priced so that no better trade exists at that compression. The suite measures real acti
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: NeoHorse-1: Towards Recursive Self-Improvement via ... <https://arxiv.org/html/2609.08183v1>
+   coverage: Neo Horse 4B Review: Is This Local AI Model Worth It - Geeky Gadgets <https://www.geeky-gadgets.com/neo-horse-4b-local-ai/>
+   coverage: NeoHorse-1-4B: TokenRhythm's Self-Improvement Claim <https://theterminal.space/ai/neohorse-1-4b-self-improvement-claim>
+## huihui-ai/Huihui-Kolibri-1-BF16-abliterated-GGUF
+   base_model: Aleph-Alpha/Kolibri-1-BF16
+   license: apache-2.0
+   params: None
+   excerpt: This is an uncensored version of [Aleph-Alpha/Kolibri-1-BF16](https://huggingface.co/Aleph-Alpha/Kolibri-1-BF16) created with abliteration. This ablation was performed entirely using llama.cpp's GGUF model, without relying on Transformers, For the specific ablation method, please refer to [cvector-generator](https://github.com/ggml-org/llama.cpp/blob/master/tools/cvector-generator/README.md). We re-quantized the models using llama.cpp and have uploaded the Q2, Q3, Q4, Q5, Q6, Q8, and BF16 quantized models. GGUFs come from [Hob-forge/Kolibri-1-GGUF](https://huggingface.co/Hob-forge/Kolibri-1-GG
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: huihui-ai/Huihui-Kolibri-1-BF16-abliterated — Downloads, Growth & Stats | OpenModelStats <https://openmodelstats.com/models/huihui-ai/huihui-kolibri-1-bf16-abliterated>
+   coverage: Kolibri Has Landed: A Sovereign Open-Weight Model <https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/>
 ## mradermacher/qwen3.5-9b-uncensored-i1-GGUF
    base_model: mshodiqul/qwen3.5-9b-uncensored
    license: apache-2.0
@@ -299,6 +267,21 @@ window: created >= 2026-10-04T17:05Z, 3760 models; top 25 distinct families, qua
    card_api_mentions: []
    api_providers_live: none
    coverage: Qwen3.5-9B-ultra-uncensored-heretic-v2-i1-GGUF — Models | osFoundry <https://osfoundry.io/community/models/mradermacher-qwen3-5-9b-ultra-uncensored-heretic-v2-i1-gguf>
+   coverage: Qwen3.5-9B Uncensored Aggressive Release (GGUF) <https://www.reddit.com/r/LocalLLaMA/comments/1rk74ap/qwen359b_uncensored_aggressive_release_gguf/>
+## mradermacher/Qwen3.8-4B-Heretic-i1-GGUF
+   base_model: hakergeniusz/Qwen3.8-4B-Heretic
+   license: apache-2.0
+   params: None
+   excerpt: weighted/imatrix quants of https://huggingface.co/hakergeniusz/Qwen3.8-4B-Heretic ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#Qwen3.8-4B-Heretic-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/Qwen3.8-4B-Heretic-GGUF **This is a vision model - mmproj files (if any) will be in the [static repository](https://huggingface.co/mradermacher/Qwen3.8-4B-Heretic-GGUF).** If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-GGU
+   card_api_mentions: []
+   api_providers_live: none
+## IsValorum/Swift-1.5-Qwen3.8-27B-Uncensored-MTP-VAL-APEX-I-NanoPlus-V3-GGUF
+   base_model: ajgazin/Swift-1.5-Qwen3.8-27B-Uncensored-MTP
+   license: apache-2.0
+   params: None
+   excerpt: **Independently computed using dedicated cloud compute clusters, funded 100% out-of-pocket.** If you consider these releases to be of high quality and they help you in your day-to-day workflow, consider [supporting on Ko-fi](https://ko-fi.com/isvalorum). Every contribution directly sustains future cloud compute hours and helps support my university studies. Official **VAL-APEX-I NanoPlus V3** quantization of **[ajgazin/Swift-1.5-Qwen3.8-27B-Uncensored-MTP](https://huggingface.co/ajgazin/Swift-1.5-Qwen3.8-27B-Uncensored-MTP)**. This edition quantizes the uncensored foundation model built on Uki
+   card_api_mentions: []
+   api_providers_live: none
 ## bartowski/TheDrummer_Behemoth-X-123B-v2.2-GGUF
    base_model: TheDrummer/Behemoth-X-123B-v2.2
    license: None
@@ -316,10 +299,3 @@ window: created >= 2026-10-04T17:05Z, 3760 models; top 25 distinct families, qua
    coverage: K2 Horizon 7B - Intelligence, Performance & Price Analysis <https://artificialanalysis.ai/models/k2-horizon-7b>
    coverage: K2 Horizon Tested Locally: 0.9B, 7B, 32B Results Are Rough | MindStudio <https://www.mindstudio.ai/blog/k2-horizon-local-models-tested>
    coverage: K2 Horizon 7B explained: small model, big-model results | Data Today <https://data-today.net/aidummies/aidummies-k2-horizon-7b-explained/>
-## mradermacher/Qwen3.8-4B-Heretic-i1-GGUF
-   base_model: hakergeniusz/Qwen3.8-4B-Heretic
-   license: apache-2.0
-   params: None
-   excerpt: weighted/imatrix quants of https://huggingface.co/hakergeniusz/Qwen3.8-4B-Heretic ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#Qwen3.8-4B-Heretic-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/Qwen3.8-4B-Heretic-GGUF **This is a vision model - mmproj files (if any) will be in the [static repository](https://huggingface.co/mradermacher/Qwen3.8-4B-Heretic-GGUF).** If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-GGU
-   card_api_mentions: []
-   api_providers_live: none
