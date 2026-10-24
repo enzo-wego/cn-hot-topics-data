@@ -1,83 +1,92 @@
 ===== V2EX HOT =====
-1. [问与答] V 友们，胡姓，帮忙取一个好听的名字  (207 replies)
-    https://www.v2ex.com/t/1251126
-2. [程序员] 上午刚给自己项目开源，下午就收到 hr 裁员，卧槽了，我还没发育完呢  (169 replies)
-    花了小一年时间迭代一个项目，刚开源呢，新的 star 还没摸热乎，下午 hr 就像我招手，示意我去聊下  寒暄两句，再就是进入主题，也就是聊我的工作态度，我就觉得对味了 hr:听说最近你的工作态度有点问题呀，不太积极呀  me:em 我现在的想法就是 拿多少钱 干多少活  hr:站在个人角度我非常理解你的想法，拿多少钱干多少活，但上面人（那些所谓的创始人）的想法就是，哎 我们是创业公司，我们希望付出更多的努力 巴拉巴拉（就是不加钱 让你多干活）  me:那就三个选择咯，a.保持现状 b.价钱多干活 c.走裁员流程 我拿 n+1 走人 
-    https://www.v2ex.com/t/1251200
-3. [问与答] 如果，我是说如果，谈婚论嫁时，女方父母提出让男方婚后工资给女方管理，怎么破局。  (128 replies)
-    女方家经济情况不差，女方不是那种以父母为首的人，女方父母接触下来也不是那种不讲道理的人。  彩礼三金之前和女朋友沟通过，都是正常范围，大概是 8-10 区间，给到女朋友，女方父母同样给这么多给女朋友。  女方年收入 14w 左右  男方年收入 30w 左右，房贷剩 50 w  如果，我是说如果，万一谈结婚时女方父母为了给女方争取到最大的利益，问出了这个话，在不破坏关系的前提下怎么破局。  比较明确的是不可能给女方管理，最多共同账户，当然用随便用。  问这个是因为女朋友说她妈妈私下问过她这个问题说婚后双方资金怎么管理。
-    https://www.v2ex.com/t/1251151
-4. [程序员] 老实回答，你们硬要用 Claude 的人是不是有 M 倾向？  (107 replies)
-    https://www.v2ex.com/t/1251139
-5. [问与答] 大家会记得很久之前发生的事情吗？  (104 replies)
-    去年和喜欢的小学同桌恢复了联系，闲聊时我提到咱两坐同桌那会发生了什么，她说：“咱两没坐过同桌”，我很诧异，我俩小学四年级可是做了一学期同桌的，怎么会没有呢？  转念一想，可能我对她并不重要，人们只会记住自己在意的事情，也很正常。 我对关于她的事情记得很清楚，到现在还清晰记得小学某个周末我专程去给她送试卷，她妈妈笑着迎接我，戴的眼镜上挂着一条银色的链子，闪闪发光。  ---  最近和两个女性朋友聊了关于感情的话题，无一例外都说自己将几年前恋爱的事情忘记了，只记得自己分手时很伤心也挽留过，但对面的长相、怎么认识的、甚至连名字都已经模糊不清了，也不
-    https://www.v2ex.com/t/1251119
-6. [程序员] 远程收入 如何优雅的避税  (79 replies)
-    最近开始远程工作  每两周发一次薪水  会转成人民币发到国内的银行卡上  附言里包含了 Contractor consultant on technology services  已经被银行拦截过一次了 索要合同/协议文件 已经提供了   不清楚这次的拦截会不会跟税务关联上  而且银行工作人员说 跨境人民币每笔都需要提供材料   看看下次什么情况吧  还有什么别的收款的方式吗 能够不被税务盯上
-    https://www.v2ex.com/t/1251173
-7. [问与答] 求助，刚结婚一百多天，老婆生气不见我怎么办  (79 replies)
-    事情是这样的，刚结婚就问我要工资，但是我们在婚前就说过这个话题，她说她不管钱的， 后来就说找个共同资金都卡都放进去，我们用了记一下账，这样都方便也都知道钱花到哪里，都能方便使用，她不愿意，然后国庆假期出去玩机票什么都买好了临出发的时候不去了，我当时也在气头上，我就自己去了，出去玩了两天我就回来了，然后就是电话不接微信拉黑，就剩抖音没拉黑了（因为续着火花），现在见不到人，这都是生活中的点点，才结婚一百多天就这样了，我知道自己可能也有问题，但是我也低头了，为自己的任性买单，她不理我怎么办呀，欸，也不想因为这点事惊动家里人
-    https://www.v2ex.com/t/1251212
-8. [职场话题] 忍辱负重还是勇敢跳槽  (77 replies)
-    请教各位大佬个事，我现在这算传统行业，目前也算个管理层，在深圳年收入 30 多万，不高不低，但 2 年前新业务线老板过来以后，我已经算被架空了，重要管理层会议基本没我份（由我直接上级参会），目前一亩三分地依然负责不变，但我不用汇报给业务线老板了，每次季度大型会议总是觉得屈辱，自我内耗想跳槽，但实话说，我现在 base 远离业务总部，也就是我现在其实居家办公，远程打个卡报道，日常在家边工作边带娃，工资绩效也不变，算是非常非常舒服的工作，而且跳槽外面行情也一般，说不定跳完以后工作更辛苦工资收入反而拿不到目前水平，有时候想想未来又觉得自己这样边缘化下去浪费时间
-    https://www.v2ex.com/t/1251190
-9. [问与答] 京东提供的 4 年只换不修你们会买吗  (73 replies)
-    今天下单了个石头扫地机器人 3200 多，只换不修要 392 纠结。 石头售后官方是 2 年保修。
-    https://www.v2ex.com/t/1251142
+1. [程序员] 为什么很多人都把 DeepSeek 神化了，看不起国内豆包和其它 LLM？  (85 replies)
+    我认为 DeepSeek 、MiniMax 、Kimi 、GLM 这些 LLM 公司被严重高估了：  **月活（ MAU ）**： 豆包 4.2 亿，千问 1.7 亿，DeepSeek 1.2 亿，智谱 2000 万，Kimi 1000 万；  **商业化（ ARR ）**： 豆包 272 亿，智谱 68 亿、阿里 80 亿、DeepSeek 27-34 亿、Kimi 20 亿；  **开源贡献**： Qwen：开源了超过 460 个模型，衍生模型超 30 万个，全球下载量破 20 亿次； GLM：开源 50 余款模型，GLM-5.2
+    https://www.v2ex.com/t/1251402
+2. [程序员] 别说开发了, 这把运维真给干没了把  (71 replies)
+    以前运维不说多少技术  反正是个幸苦活, 公司必须养着  毕竟经常晚上 2,3 点上线得有人盯着啊  现在 ai 弄个定时任务, 到 3 点上去怕怕一顿忙活, 可能几分钟就搞定了  现在 ai 写脚本, sql, 干运维等东西肯定远比人强多了 还能 24 小时干活, 谁能比
+    https://www.v2ex.com/t/1251410
+3. [问与答] 用单位电脑开代理，如何逃避后台监测？  (50 replies)
+    OP 不是公务员，是教育事业单位，电脑网络连着教育局服务端口，那边有网络日志，随时可以倒查  开了两年多代理查资料用 AI 也没被警告处理。但前段时间突然开始宣传网络安全，特别强调不能翻墙，有点慌了，不怎么敢用了。因为听说朋友公务员单位内部有使用代理被处分的，害怕自己的饭碗也会受影响  有什么技术手段能够保证不被追踪或者监测吗？实在没有，也让我死心吧。今后用还是会用的，不然实在不方便，被查了再说
+    https://www.v2ex.com/t/1251432
+4. [程序员] Kimi K3.1 Pro 发布, 比 K3 快、性能逼近 Opus，但额度 10 分钟就烧光了  (34 replies)
+    官方公众号: https://mp.weixin.qq.com/s/Q6Z-skAUH_na9g37VWbHew  我对 kimi 已经没啥感情了, 额度太不透明了.速度还慢...
+    https://www.v2ex.com/t/1251425
+5. [电动汽车] 特斯拉到底有什么魔力, 销量这么高的毛坯房  (33 replies)
+    去实际体验了一下特斯拉的 model Y, 并没有什么明显的突出感受啊, 和之前体验的 yu7 su7 i6 ls6 07 这些都没什么明显的区别啊, 操控到底好在哪里了? 最让我绷不住的是智驾, 只能试驾体验六万的, 那年落地都没定, 还要三万才给自动泊车, 屏幕换挡反而是最小的槽点了, 更别说什么座椅按摩 零重力 hud 这些了, 啥都没有  一辆 modelY 最丐的也要 26 万 model3 23 万, 智驾还要选装, 要是论舒适度的话, 我感觉 23 万的 yu7 20 万的阿维塔 07 什么都不加都能吊打了吧? 就为了那个超级跟脚的油门
+    https://www.v2ex.com/t/1251551
+6. [分享创造] 月入零到月入百刀，自已没变，外人一直在变。  (30 replies)
+    relabel.me 这个网站三个月破百刀。relabel.me 这个网站三个月零收入。看到不同的结果，外人的评价总会大变。实际上我们自己，我们要做的事情一直没变。却总被各种片面误解，恶意揣测影响到，有幸坚持下去了当初的人又会马上找补回来。这个网站会模拟各种评价，还能输入新的变化看评论如何反转。坚持不下去了模拟一下爽文男主，被别的言论伤害了可以模拟看到施暴者另一幅嘴脸。总之希望我们可以更好的做自己，做自己坚持想做的事情，没有人真正了解自己，持续去做就好了。
+    https://www.v2ex.com/t/1251417
+7. [程序员] Personal Agent 大家平时都拿来干啥？都有啥定时任务？  (29 replies)
+    AI 助理（ Grok Bot 、Dots 、Muse 之类的）也出了一段时间了，确实在某些方面省了点事 但是感觉到最后还是个美丽的小废物，也就是看看邮件，看看活动啥的。。。 有没有真离不开的用法？感觉我做的那些定时任务玩两天就吃灰了
+    https://www.v2ex.com/t/1251415
+8. [iPhone] 国行 iPhone Duo 如何在境内写入境外 eSIM？  (25 replies)
+    如题 - iPhone Duo 国行 - iOS 27.0.1 - 中国联通 eSIM 已安装  1 ，我用 Anygo 把 iPhone Duo 的定位改到了纽约 2 ，用另一台 iPhone 上的 Tello 美国流量共享热点  当在 iPhone Duo 国行上点击添加 eSIM ，会显示“ 请开启定位服务” 但我的定位服务并没有关闭。  各位大神 ， 有办法不出境的情况下将境外 eSIM 添加到国行 iPhone 里？  请纯技术讨论。谢谢。
+    https://www.v2ex.com/t/1251454
+9. [推广] 智友社回馈 V 站新老客户，抽送第 11 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 6  (24 replies)
+    各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。  我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！  由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众
+    https://www.v2ex.com/t/1251411
+10. [分享发现] 来了一个到处搬运帖子起号的用户：@cjkcjkcjk  (23 replies)
+    t/1251383 年轻人的出路在哪里？ 6 小时 48 分钟前 t/1251369 我发现张本智和、张本美和不仅球打得好，人也很有意思 7 小时前 t/1251256 想起了我以前工作的医院的一件事 14 小时 57 分钟前 t/1250785 结婚三年，现在跟我说不生小孩，我该怎么办？求建议  1 天前 t/1250112 不婚不生可行么？怎么养老？ 4 天前 t/1249853 vps 的 IP 送中了能用来给 Claude 做代理么？ 4 天前 t/1249815 怎么改用户名呢？  5 天前
+    https://www.v2ex.com/t/1251407
 
 ===== XUEQIU HOT STOCKS (opencli; rebang.vip topics as fallback) =====
-1 SK海力士 SKHY 4.21% @ 137.2399 热度：4715  https://xueqiu.com/S/SKHY
-2 英伟达 NVDA -0.19% @ 211.81 热度：3548  https://xueqiu.com/S/NVDA
-3 美光科技 MU 3.47% @ 886.22 热度：3098  https://xueqiu.com/S/MU
-4 Moderna MRNA 0.20% @ 203.04 热度：3055  https://xueqiu.com/S/MRNA
-5 宇树科技-W SH688836 20.00% @ 624 热度：2963  [RISING 1186→2963 since 2026-10-20]  https://xueqiu.com/S/SH688836
-6 宁德时代 SZ300750 7.80% @ 237.6 热度：2608  https://xueqiu.com/S/SZ300750
-7 风华高科 SZ000636 1.44% @ 40.15 热度：2366  [NEW]  https://xueqiu.com/S/SZ000636
-8 紫金矿业 SH601899 3.41% @ 28.79 热度：1959  [RISING 373→1959 since 2026-10-19]  https://xueqiu.com/S/SH601899
-9 阿里巴巴 BABA -1.87% @ 99.92 热度：1830  https://xueqiu.com/S/BABA
-10 寒武纪 SH688256 5.46% @ 932.2 热度：1658  [NEW]  https://xueqiu.com/S/SH688256
-11 中际旭创 SZ300308 3.82% @ 612.63 热度：1510  https://xueqiu.com/S/SZ300308
-12 腾讯控股 00700 0.94% @ 386 热度：1314  https://xueqiu.com/S/00700
-13 SpaceX SPCX 1.75% @ 147.2899 热度：1250  https://xueqiu.com/S/SPCX
-14 Bloom Energy BE -12.33% @ 190.91 热度：1082  [NEW]  https://xueqiu.com/S/BE
-15 Lumentum控股 LITE 2.22% @ 769.235 热度：1081  https://xueqiu.com/S/LITE
-16 闪迪 SNDK 0.72% @ 1270.07 热度：1077  https://xueqiu.com/S/SNDK
-17 苹果 AAPL -0.45% @ 346.64 热度：999  https://xueqiu.com/S/AAPL
-18 西方石油 OXY 3.34% @ 64.59 热度：977  [NEW]  https://xueqiu.com/S/OXY
-19 长鑫科技 SH688825 7.93% @ 42.85 热度：972  https://xueqiu.com/S/SH688825
-20 凡拓数创 SZ301313 20.00% @ 61.44 热度：943  [NEW]  https://xueqiu.com/S/SZ301313
+1 五粮液 SZ000858 2.97% @ 73.86 热度：1272  [RISING 305→1272 since 2026-10-19]  https://xueqiu.com/S/SZ000858
+2 宇树科技-W SH688836 20.00% @ 624 热度：804  https://xueqiu.com/S/SH688836
+3 奥比中光-W SH688322 18.97% @ 108 热度：714  [NEW]  https://xueqiu.com/S/SH688322
+4 宁德时代 SZ300750 7.80% @ 237.6 热度：695  https://xueqiu.com/S/SZ300750
+5 中际旭创 SZ300308 3.82% @ 612.63 热度：635  https://xueqiu.com/S/SZ300308
+6 泡泡玛特 09992 2.49% @ 131.7 热度：621  https://xueqiu.com/S/09992
+7 凡拓数创 SZ301313 20.00% @ 61.44 热度：529  https://xueqiu.com/S/SZ301313
+8 长鑫科技 SH688825 7.93% @ 42.85 热度：481  https://xueqiu.com/S/SH688825
+9 腾讯控股 00700 0.94% @ 386 热度：476  https://xueqiu.com/S/00700
+10 紫金矿业 SH601899 3.41% @ 28.79 热度：445  https://xueqiu.com/S/SH601899
+11 药明康德 SH603259 2.41% @ 144.72 热度：379  https://xueqiu.com/S/SH603259
+12 Moderna MRNA -1.25% @ 200.1 热度：368  https://xueqiu.com/S/MRNA
+13 胜宏科技 SZ300476 3.08% @ 183.48 热度：367  https://xueqiu.com/S/SZ300476
+14 智谱 02513 8.29% @ 499 热度：360  [NEW]  https://xueqiu.com/S/02513
+15 东山精密 SZ002384 0.63% @ 114.22 热度：353  https://xueqiu.com/S/SZ002384
+16 XD招商轮 SH601872 2.73% @ 16.58 热度：344  https://xueqiu.com/S/SH601872
+17 贵州茅台 SH600519 1.25% @ 1335 热度：327  https://xueqiu.com/S/SH600519
+18 亿纬锂能 SZ300014 6.08% @ 44.33 热度：302  [NEW]  https://xueqiu.com/S/SZ300014
+19 中国平安 SH601318 1.61% @ 51.76 热度：297  https://xueqiu.com/S/SH601318
+20 康方生物 09926 3.22% @ 86.6 热度：293  [NEW]  https://xueqiu.com/S/09926
 
 ===== HF TEXT-GEN NEW 7D (downloads desc, likes desc; re-uploads and quants folded) =====
-window: created >= 2026-10-16T17:05Z, 3375 models; top 25 distinct families, quants/re-uploads of a listed model shown as 'also:' under it
-1. taronaeo/Granite-4.2-3B-BE-GGUF | downloads 116119 | likes 1 | created 2026-10-18 | https://huggingface.co/taronaeo/Granite-4.2-3B-BE-GGUF | FLAG possibly inflated downloads (very few likes)
-2. peasantsmith/DeepSeek-V4.1-Flash-1017-Maya-GGUF | downloads 53767 | likes 37 | created 2026-10-19 | https://huggingface.co/peasantsmith/DeepSeek-V4.1-Flash-1017-Maya-GGUF
-   also: lxe/DeepSeek-V4.1-Flash-1017-dsx-2bit | downloads 5901 | likes 4 | created 2026-10-18 | https://huggingface.co/lxe/DeepSeek-V4.1-Flash-1017-dsx-2bit | repackages deepseek-ai/DeepSeek-V4.1-Flash-1017
-3. ornith-ai/Ornith-1.5-122B-GGUF | downloads 50374 | likes 37 | created 2026-10-20 | https://huggingface.co/ornith-ai/Ornith-1.5-122B-GGUF
-4. unsloth/flint-GGUF | downloads 33277 | likes 179 | created 2026-10-20 | https://huggingface.co/unsloth/flint-GGUF
-5. VarunHujan/Karna-49M-SFT-Model | downloads 25863 | likes 0 | created 2026-10-17 | https://huggingface.co/VarunHujan/Karna-49M-SFT-Model | FLAG possibly inflated downloads (very few likes)
-6. InternScience/Sage-A1.5-Q4_K_M-GGUF | downloads 20332 | likes 47 | created 2026-10-21 | https://huggingface.co/InternScience/Sage-A1.5-Q4_K_M-GGUF
-   also: na0x2c6/Sage-A1.5-GGUF | downloads 8687 | likes 2 | created 2026-10-21 | https://huggingface.co/na0x2c6/Sage-A1.5-GGUF | repackages InternScience/Sage-A1.5
-   also: InternScience/Sage-A1.5-F16-GGUF | downloads 6624 | likes 6 | created 2026-10-21 | https://huggingface.co/InternScience/Sage-A1.5-F16-GGUF | repackages InternScience/Sage-A1.5
-7. ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF | downloads 19177 | likes 115 | created 2026-10-17 | https://huggingface.co/ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF
-8. ornith-ai/Ornith-1.5-122B-FP8 | downloads 19088 | likes 12 | created 2026-10-20 | https://huggingface.co/ornith-ai/Ornith-1.5-122B-FP8
-9. ReadyArt/Wicked-Tutu-31B-v0.1-GGUF | downloads 17951 | likes 113 | created 2026-10-16 | https://huggingface.co/ReadyArt/Wicked-Tutu-31B-v0.1-GGUF
-10. unsloth/Ornith-1.5-122B-GGUF | downloads 14766 | likes 70 | created 2026-10-20 | https://huggingface.co/unsloth/Ornith-1.5-122B-GGUF
-   also: dealignai/Ornith-1.5-122B-UNCENSORED-GGUF | downloads 5125 | likes 13 | created 2026-10-20 | https://huggingface.co/dealignai/Ornith-1.5-122B-UNCENSORED-GGUF | repackages ornith-ai/Ornith-1.5-122B
-11. ornith-ai/Ornith-1.5-122B-NVFP4 | downloads 13414 | likes 20 | created 2026-10-20 | https://huggingface.co/ornith-ai/Ornith-1.5-122B-NVFP4
-12. tencent/Hy-Memory-30B-A3B-GGUF | downloads 12593 | likes 22 | created 2026-10-19 | https://huggingface.co/tencent/Hy-Memory-30B-A3B-GGUF
-13. XHToken/Spark-X2.6-4B-GGUF | downloads 9824 | likes 96 | created 2026-10-19 | https://huggingface.co/XHToken/Spark-X2.6-4B-GGUF
-14. AtomicChat/Ling-3.0-flash-Sante-GGUF | downloads 9053 | likes 6 | created 2026-10-21 | https://huggingface.co/AtomicChat/Ling-3.0-flash-Sante-GGUF
-15. mradermacher/Gemma-4-31B-Heretic-i1-GGUF | downloads 8117 | likes 1 | created 2026-10-21 | https://huggingface.co/mradermacher/Gemma-4-31B-Heretic-i1-GGUF
-16. KRAFTON/Raon-1-mini-preview-gguf | downloads 7661 | likes 43 | created 2026-10-20 | https://huggingface.co/KRAFTON/Raon-1-mini-preview-gguf
-17. RecursiveSI/flint-int4-gguf | downloads 7245 | likes 18 | created 2026-10-21 | https://huggingface.co/RecursiveSI/flint-int4-gguf
-18. mradermacher/gemma-4-E2B-it-heretic-v1-i1-GGUF | downloads 6490 | likes 1 | created 2026-10-21 | https://huggingface.co/mradermacher/gemma-4-E2B-it-heretic-v1-i1-GGUF
-19. ReadyArt/Wicked-Tutu-31B-Final-GGUF | downloads 6192 | likes 13 | created 2026-10-20 | https://huggingface.co/ReadyArt/Wicked-Tutu-31B-Final-GGUF
-20. ornith-ai/Ornith-1.5-122B-MLX | downloads 5872 | likes 2 | created 2026-10-20 | https://huggingface.co/ornith-ai/Ornith-1.5-122B-MLX
-21. ReadyArt/Omega-Arsenal-31B-Final-GGUF | downloads 5843 | likes 13 | created 2026-10-22 | https://huggingface.co/ReadyArt/Omega-Arsenal-31B-Final-GGUF
-22. kaushikvira/DeepSeek-V4.1-Flash-1017-GSQ-agentic-strata | downloads 5199 | likes 27 | created 2026-10-19 | https://huggingface.co/kaushikvira/DeepSeek-V4.1-Flash-1017-GSQ-agentic-strata
-23. RecursiveSI/flint-nvfp4-gguf | downloads 4669 | likes 13 | created 2026-10-21 | https://huggingface.co/RecursiveSI/flint-nvfp4-gguf
-24. ReadyArt/Swish-26B-A4B-GGUF | downloads 4217 | likes 7 | created 2026-10-19 | https://huggingface.co/ReadyArt/Swish-26B-A4B-GGUF
-25. eaddario/IQ2_K-IQ6_K-Test-Models | downloads 4152 | likes 2 | created 2026-10-16 | https://huggingface.co/eaddario/IQ2_K-IQ6_K-Test-Models
+window: created >= 2026-10-17T17:05Z, 3325 models; top 25 distinct families, quants/re-uploads of a listed model shown as 'also:' under it
+1. taronaeo/Granite-4.2-3B-BE-GGUF | downloads 116676 | likes 1 | created 2026-10-18 | https://huggingface.co/taronaeo/Granite-4.2-3B-BE-GGUF | FLAG possibly inflated downloads (very few likes)
+2. ornith-ai/Ornith-1.5-122B-GGUF | downloads 110005 | likes 41 | created 2026-10-20 | https://huggingface.co/ornith-ai/Ornith-1.5-122B-GGUF
+3. peasantsmith/DeepSeek-V4.1-Flash-1017-Maya-GGUF | downloads 82504 | likes 43 | created 2026-10-19 | https://huggingface.co/peasantsmith/DeepSeek-V4.1-Flash-1017-Maya-GGUF
+   also: ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF | downloads 32479 | likes 172 | created 2026-10-23 | https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF | repackages deepseek-ai/DeepSeek-V4.1-Flash-1017
+   also: lxe/DeepSeek-V4.1-Flash-1017-dsx-2bit | downloads 6967 | likes 4 | created 2026-10-18 | https://huggingface.co/lxe/DeepSeek-V4.1-Flash-1017-dsx-2bit | repackages deepseek-ai/DeepSeek-V4.1-Flash-1017
+4. unsloth/flint-GGUF | downloads 78891 | likes 212 | created 2026-10-20 | https://huggingface.co/unsloth/flint-GGUF
+   also: bartowski/RecursiveSI_flint-GGUF | downloads 9091 | likes 3 | created 2026-10-22 | https://huggingface.co/bartowski/RecursiveSI_flint-GGUF | repackages RecursiveSI/flint
+   also: ggml-org/Flint-GGUF | downloads 8414 | likes 7 | created 2026-10-22 | https://huggingface.co/ggml-org/Flint-GGUF | repackages RecursiveSI/flint
+   also: RecursiveSI/flint | downloads 4795 | likes 745 | created 2026-10-21 | https://huggingface.co/RecursiveSI/flint | repackages RecursiveSI/flint
+5. ornith-ai/Ornith-1.5-122B-FP8 | downloads 50413 | likes 12 | created 2026-10-20 | https://huggingface.co/ornith-ai/Ornith-1.5-122B-FP8
+6. ornith-ai/Ornith-1.5-122B-NVFP4 | downloads 36820 | likes 20 | created 2026-10-20 | https://huggingface.co/ornith-ai/Ornith-1.5-122B-NVFP4
+7. InternScience/Sage-A1.5-Q4_K_M-GGUF | downloads 28757 | likes 48 | created 2026-10-21 | https://huggingface.co/InternScience/Sage-A1.5-Q4_K_M-GGUF
+   also: na0x2c6/Sage-A1.5-GGUF | downloads 9218 | likes 3 | created 2026-10-21 | https://huggingface.co/na0x2c6/Sage-A1.5-GGUF | repackages InternScience/Sage-A1.5
+   also: InternScience/Sage-A1.5-F16-GGUF | downloads 6980 | likes 6 | created 2026-10-21 | https://huggingface.co/InternScience/Sage-A1.5-F16-GGUF | repackages InternScience/Sage-A1.5
+8. unsloth/Ornith-1.5-122B-GGUF | downloads 26030 | likes 73 | created 2026-10-20 | https://huggingface.co/unsloth/Ornith-1.5-122B-GGUF
+   also: dealignai/Ornith-1.5-122B-UNCENSORED-GGUF | downloads 6206 | likes 16 | created 2026-10-20 | https://huggingface.co/dealignai/Ornith-1.5-122B-UNCENSORED-GGUF | repackages ornith-ai/Ornith-1.5-122B
+9. XHToken/Spark-X2.6-4B-GGUF | downloads 18556 | likes 116 | created 2026-10-19 | https://huggingface.co/XHToken/Spark-X2.6-4B-GGUF
+10. unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF | downloads 17529 | likes 82 | created 2026-10-23 | https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF
+11. RecursiveSI/flint-int4-gguf | downloads 17515 | likes 23 | created 2026-10-21 | https://huggingface.co/RecursiveSI/flint-int4-gguf
+12. tencent/Hy-Memory-30B-A3B-GGUF | downloads 15872 | likes 24 | created 2026-10-19 | https://huggingface.co/tencent/Hy-Memory-30B-A3B-GGUF
+13. AtomicChat/Ling-3.0-flash-Sante-GGUF | downloads 12459 | likes 6 | created 2026-10-21 | https://huggingface.co/AtomicChat/Ling-3.0-flash-Sante-GGUF
+14. ornith-ai/Ornith-1.5-122B-MLX | downloads 10748 | likes 2 | created 2026-10-20 | https://huggingface.co/ornith-ai/Ornith-1.5-122B-MLX | FLAG possibly inflated downloads (very few likes)
+15. KRAFTON/Raon-1-mini-preview-gguf | downloads 9823 | likes 48 | created 2026-10-20 | https://huggingface.co/KRAFTON/Raon-1-mini-preview-gguf
+16. agentionai/Qwen3.8-Flash-Next-Gyro-Coder-GGUF | downloads 9332 | likes 44 | created 2026-10-21 | https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-Coder-GGUF
+17. RecursiveSI/flint-nvfp4-gguf | downloads 9010 | likes 19 | created 2026-10-21 | https://huggingface.co/RecursiveSI/flint-nvfp4-gguf
+18. ornith-ai/Ornith-1.5-122B-MLX-8bit | downloads 8365 | likes 1 | created 2026-10-20 | https://huggingface.co/ornith-ai/Ornith-1.5-122B-MLX-8bit
+19. mradermacher/Gemma-4-31B-Heretic-i1-GGUF | downloads 8226 | likes 1 | created 2026-10-21 | https://huggingface.co/mradermacher/Gemma-4-31B-Heretic-i1-GGUF
+20. ReadyArt/Omega-Arsenal-31B-Final-GGUF | downloads 7242 | likes 14 | created 2026-10-22 | https://huggingface.co/ReadyArt/Omega-Arsenal-31B-Final-GGUF
+21. kaushikvira/DeepSeek-V4.1-Flash-1017-GSQ-agentic-strata | downloads 6710 | likes 30 | created 2026-10-19 | https://huggingface.co/kaushikvira/DeepSeek-V4.1-Flash-1017-GSQ-agentic-strata
+22. mradermacher/gemma-4-E2B-it-heretic-v1-i1-GGUF | downloads 6605 | likes 1 | created 2026-10-21 | https://huggingface.co/mradermacher/gemma-4-E2B-it-heretic-v1-i1-GGUF
+23. ReadyArt/Wicked-Tutu-31B-Final-GGUF | downloads 6530 | likes 14 | created 2026-10-20 | https://huggingface.co/ReadyArt/Wicked-Tutu-31B-Final-GGUF
+24. dendriteholdings/Ingot-genesis-27B-Q2 | downloads 5623 | likes 1 | created 2026-10-22 | https://huggingface.co/dendriteholdings/Ingot-genesis-27B-Q2
+25. hotocooo/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-DFlash | downloads 4969 | likes 1 | created 2026-10-20 | https://huggingface.co/hotocooo/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-DFlash
 
 --- details (top 25 families, first row of each) ---
 ## taronaeo/Granite-4.2-3B-BE-GGUF
@@ -90,6 +99,16 @@ window: created >= 2026-10-16T17:05Z, 3375 models; top 25 distinct families, qua
    coverage: Granite 4.2 3B - Intelligence, Performance & Price Analysis | Artificial Analysis <https://artificialanalysis.ai/models/granite-4-2-3b>
    coverage: Granite 4.2 <https://www.ibm.com/granite/docs/models/granite4-2>
    coverage: ibm-granite/granite-4.2-language-models <https://github.com/ibm-granite/granite-4.2-language-models>
+## ornith-ai/Ornith-1.5-122B-GGUF
+   base_model: None
+   license: mit
+   params: None
+   excerpt: Chirp Chirp! 🐦 We are introducing Ornith-1.5, a major step toward building foundation models through end-to-end self-improvement. Ornith-1.5 extends Ornith-1.0 (which was developed on top of Qwen3.5 and Gemma4 with additional continued pretraining, mid-training, and post-training) by expanding the self-improvement loop from scaffold and rollout optimization to jointly optimizing task generation, scaffold construction, and solution rollouts. Rather than relying on a fixed set of human-curated tasks and manually designed harnesses, Ornith-1.5 continuously generates new training tasks, discovers 
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: How Does Ornith-1.5-122B Perform on Real Tasks? Hands-On Test Results <https://goremy.ai/blog/articles/ornith-1-5-122b-hands-on-review>
+   coverage: Ornith-1.5-122B: Results <https://benchlm.ai/models/ornith-1-5-122b>
+   coverage: Ornith-1.5-122B: MIT Open Weights, Ollama and Benchmarks <https://promptblueprints.tech/ai-releases/ornith-1-5-122b-released-mit-licensed-open-weights-quantised-builds-and-ollama-support/>
 ## peasantsmith/DeepSeek-V4.1-Flash-1017-Maya-GGUF
    base_model: deepseek-ai/DeepSeek-V4.1-Flash-1017
    license: mit
@@ -101,16 +120,6 @@ window: created >= 2026-10-16T17:05Z, 3375 models; top 25 distinct families, qua
    coverage: Run DeepSeek-V4.1-Flash (748B) locally with Project Maya on one RTX 5090 - DEV Community <https://dev.to/seppegadeyne/run-deepseek-v41-flash-748b-locally-with-project-maya-on-one-rtx-5090-4i4a>
    coverage: Project Maya Deepseek V4.1 Flash 1017 + GLM 5.3 Local Ai Review <https://www.artofsm.art/t/project-maya-deepseek-v4-1-flash-1017-glm-5-3-local-ai-review/26423>
    coverage: Mia's TP4 recipe: DeepSeek-V4.1-Flash-1017 — Results v2 — niklaslenz.com <https://niklaslenz.com/v2/deepseek-v41-flash-4sparks-mia-tp4/>
-## ornith-ai/Ornith-1.5-122B-GGUF
-   base_model: None
-   license: mit
-   params: None
-   excerpt: Chirp Chirp! 🐦 We are introducing Ornith-1.5, a major step toward building foundation models through end-to-end self-improvement. Ornith-1.5 extends Ornith-1.0 (which was developed on top of Qwen3.5 and Gemma4 with additional continued pretraining, mid-training, and post-training) by expanding the self-improvement loop from scaffold and rollout optimization to jointly optimizing task generation, scaffold construction, and solution rollouts. Rather than relying on a fixed set of human-curated tasks and manually designed harnesses, Ornith-1.5 continuously generates new training tasks, discovers 
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Ornith-1.5 122B Tested: Vision, Coding, and Reasoning Up Close | MindStudio <https://www.mindstudio.ai/blog/ornith-1-5-122b-vision-creative-reasoning>
-   coverage: Ornith-1.5-122B: 84.5 SWE-bench Verified on One GPU? <https://explainx.ai/blog/ornith-1-5-122b-open-weights-mit-single-80gb-gpu-swe-bench-verified-84-5-claimed-vs-verified-2026>
-   coverage: Ornith 1.5 122B <https://kinonn-bot.github.io/research-vault/research/models/ornith-ai--ornith-1.5-122b>
 ## unsloth/flint-GGUF
    base_model: ['RecursiveSI/flint']
    license: apache-2.0
@@ -122,34 +131,6 @@ window: created >= 2026-10-16T17:05Z, 3375 models; top 25 distinct families, qua
    coverage: Springboards - Flint Alpha <https://springboards.ai/models/flint-alpha>
    coverage: Day-0 Support for Flint on vLLM | vLLM Blog <https://vllm-project.github.io/2026/10/21/flint.html>
    coverage: Flint Review 2026: Smartest 40B Coder? | CogitoDaily <https://cogitodaily.com/articles/flint-review-2026-smartest-40b-coder>
-## VarunHujan/Karna-49M-SFT-Model
-   base_model: None
-   license: mit
-   params: None
-   excerpt: **Karna-49M** is a hyper-optimized **49.38 Million parameter Small Language Model (SLM)** engineered for long-form narrative generation, character-anchored dialogues, and multi-genre creative writing. Trained from scratch and fine-tuned using Supervised Fine-Tuning (SFT) with ChatML format, it achieves fluent, coherent storytelling with instant Time-To-First-Token (<100ms) and ~35+ tokens/second on standard laptop CPUs. --- --- * **Parameters**: 49,384,384 (~49.38M) * **Backbone**: LLaMA-style Transformer Decoder * **Attention**: Grouped-Query Attention (GQA 8 Query Heads : 4 KV Heads) * **Con
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Evaluating SFT Models on Alignment Goals <https://apxml.com/courses/how-to-build-a-large-language-model/chapter-25-supervised-fine-tuning-alignment/evaluating-sft-models>
-   coverage: SFT, LoRA, and ICL in Data-Scarce Scenarios <https://arxiv.org/html/2511.00130v1>
-   coverage: Chapter 16: SFT and instruction tuning: turning a base model into an assistant — The Holy Grail <https://www.kunwar.page/chapter/016-sft-and-instruction-tuning-turning-a-base-model-into-an-assistant>
-   coverage: Understanding and Using Supervised Fine-Tuning (SFT) for ... <https://cameronrwolfe.substack.com/p/understanding-and-using-supervised>
-## InternScience/Sage-A1.5-Q4_K_M-GGUF
-   base_model: InternScience/Sage-A1.5
-   license: apache-2.0
-   params: None
-   excerpt: > [!Note] > This repository contains **GGUF** model weights for Sage-A1.5, quantized to **Q4_K_M**, for deployment with [llama.cpp](https://github.com/ggml-org/llama.cpp), Ollama, LM Studio, and other GGUF-compatible runtimes. > > For the original Hugging Face Transformers weights (compatible with Transformers, vLLM, SGLang, etc.), see [InternScience/Sage-A1.5](https://huggingface.co/InternScience/Sage-A1.5). --- **Sage‑A1.5** is a 35B Mixture‑of‑Experts agentic model based on **[Qwen3.6](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)** and **[Agents-A1](https://huggingface.co/InternScience/Agen
-   card_api_mentions: ['[llama.cpp](https://github.com/ggml-org/llama.cpp) provides `llama-server` (an OpenAI-compatible API server) and `llama-cli` (interactive terminal). Use a recent version that supports the `qwen35moe` ']
-   api_providers_live: none
-   coverage: Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition <https://arxiv.org/html/2610.28578>
-   coverage: Sage-A1.5 | OpenLM.ai <https://openlm.ai/sage-a1.5/>
-## ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF
-   base_model: ['HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF', 'DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF']
-   license: apache-2.0
-   params: None
-   excerpt: Defiance puts DavidAU's Turbo-Brilliance "AI Construct" modes on HauhauCS's uncensored Qwen3.8-27B. You pick a mode (Joker, Dr. House, a 20-agent Einstein panel, a Socratic tutor) per request, and the uncensored weights answer it without hedging. - **Weights:** [HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF](https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF), byte for byte. I checked all 866 tensors against the upstream files. - **Modes:** the chat template from [DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF](https
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF <http://bittide.aicompass.dev/article/26e5b1e0-f7b5-4bc9-90eb-e35c26b44452?cache=1>
 ## ornith-ai/Ornith-1.5-122B-FP8
    base_model: None
    license: mit
@@ -160,26 +141,6 @@ window: created >= 2026-10-16T17:05Z, 3375 models; top 25 distinct families, qua
    coverage: How Does Ornith-1.5-122B Perform on Real Tasks? Hands-On Test Results <https://goremy.ai/blog/articles/ornith-1-5-122b-hands-on-review>
    coverage: Ornith-1.5-122B: MIT Open Weights, Ollama and Benchmarks <https://promptblueprints.tech/ai-releases/ornith-1-5-122b-released-mit-licensed-open-weights-quantised-builds-and-ollama-support/>
    coverage: Ornith-1.5-122B: 84.5 SWE-bench Verified on One GPU? | explainx.ai Blog | explainx.ai <https://explainx.ai/blog/ornith-1-5-122b-open-weights-mit-single-80gb-gpu-swe-bench-verified-84-5-claimed-vs-verified-2026>
-## ReadyArt/Wicked-Tutu-31B-v0.1-GGUF
-   base_model: ['ReadyArt/Wicked-Tutu-31B-v0.1']
-   license: apache-2.0
-   params: None
-   excerpt: /* Import a cleaner font */ @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&family=Outfit:wght@300;500;800&display=swap'); :root { /* Light Mode Palette */ --primary-pink: #ff1493; --secondary-pink: #ff69b4; --accent-pink: #d4005e; --bg-pink-light: #ffe6ee; --bg-pink-dark: #ffd1dc; --glass-bg: rgba(255, 255, 255, 0.7); --glass-border: rgba(255, 20, 147, 0.3); --text-main: #8b005d; --glow-color: rgba(255, 20, 147, 0.4); --section-bg: rgba(255, 255, 255, 0.5); } /* Dark Mode Palette - High Contrast Neon */ @media (prefers-color-scheme: dark) { :root { --bg-pink-l
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Wicked Tutu 31B: uncensored local fiction?: Rocky Tested <https://rockytested.com/reviews/readyart-wicked-tutu-31b-v0-1/>
-   coverage: Wicked-Tutu-31B-v0.1-GGUF vs GLM-5.1 Comparison (2026) <https://nerq.ai/compare/readyart-wicked-tutu-31b-v0-1-gguf-vs-zai-org-glm-5-1>
-   coverage: Wicked-Tutu-31B packages mature roleplay for local inference <https://alphasignal.ai/news/readyart-s-wicked-tutu-31b-brings-private-mature-roleplay-to-local-hardware>
-## unsloth/Ornith-1.5-122B-GGUF
-   base_model: ['ornith-ai/Ornith-1.5-122B']
-   license: mit
-   params: None
-   excerpt: --- Chirp Chirp! 🐦 We are introducing Ornith-1.5, a major step toward building foundation models through end-to-end self-improvement. Ornith-1.5 extends Ornith-1.0 (which was developed on top of Qwen3.5 and Gemma4 with additional continued pretraining, mid-training, and post-training) by expanding the self-improvement loop from scaffold and rollout optimization to jointly optimizing task generation, scaffold construction, and solution rollouts. Rather than relying on a fixed set of human-curated tasks and manually designed harnesses, Ornith-1.5 continuously generates new training tasks, discov
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Ornith-1.5 122B Tested: Vision, Coding, and Reasoning Up Close | MindStudio <https://www.mindstudio.ai/blog/ornith-1-5-122b-vision-creative-reasoning>
-   coverage: Ornith-1.5-122B: 84.5 SWE-bench Verified on One GPU? <https://explainx.ai/blog/ornith-1-5-122b-open-weights-mit-single-80gb-gpu-swe-bench-verified-84-5-claimed-vs-verified-2026>
-   coverage: Ornith-1.5-122B | NLP.COM.AI <https://nlp.com.ai/models/ornith-15-122b/>
 ## ornith-ai/Ornith-1.5-122B-NVFP4
    base_model: None
    license: mit
@@ -189,16 +150,25 @@ window: created >= 2026-10-16T17:05Z, 3375 models; top 25 distinct families, qua
    api_providers_live: none
    coverage: How Does Ornith-1.5-122B Perform on Real Tasks? Hands-On Test Results <https://goremy.ai/blog/articles/ornith-1-5-122b-hands-on-review>
    coverage: ornith-1.5:122b-nvfp4 <https://ollama.com/library/ornith-1.5:122b-nvfp4>
-## tencent/Hy-Memory-30B-A3B-GGUF
-   base_model: tencent/Hy-Memory-30B-A3B
+## InternScience/Sage-A1.5-Q4_K_M-GGUF
+   base_model: InternScience/Sage-A1.5
    license: apache-2.0
    params: None
-   excerpt: --- This repository provides GGUF quantizations of [Hy-Memory-30B-A3B](https://huggingface.co/tencent/Hy-Memory-30B-A3B) for efficient local inference with [llama.cpp](https://github.com/ggml-org/llama.cpp). The releases use **Tencent Hunyuan's Hy-Memory quantization recipe**: imatrix calibration plus MoE-aware mixed precision. Routed experts, which dominate parameter count, can be compressed aggressively, while shared experts, attention, and input/output layers keep higher precision. On the same fixed Mem0 LoCoMo setup, even the **~8 GB** expert-mixed build stays within about **1.5 points** o
+   excerpt: > [!Note] > This repository contains **GGUF** model weights for Sage-A1.5, quantized to **Q4_K_M**, for deployment with [llama.cpp](https://github.com/ggml-org/llama.cpp), Ollama, LM Studio, and other GGUF-compatible runtimes. > > For the original Hugging Face Transformers weights (compatible with Transformers, vLLM, SGLang, etc.), see [InternScience/Sage-A1.5](https://huggingface.co/InternScience/Sage-A1.5). --- **Sage‑A1.5** is a 35B Mixture‑of‑Experts agentic model based on **[Qwen3.6](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)** and **[Agents-A1](https://huggingface.co/InternScience/Agen
+   card_api_mentions: ['[llama.cpp](https://github.com/ggml-org/llama.cpp) provides `llama-server` (an OpenAI-compatible API server) and `llama-cli` (interactive terminal). Use a recent version that supports the `qwen35moe` ']
+   api_providers_live: none
+   coverage: Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition <https://arxiv.org/html/2610.28578>
+   coverage: Sage-A1.5 | OpenLM.ai <https://openlm.ai/sage-a1.5/>
+## unsloth/Ornith-1.5-122B-GGUF
+   base_model: ['ornith-ai/Ornith-1.5-122B']
+   license: mit
+   params: None
+   excerpt: --- Chirp Chirp! 🐦 We are introducing Ornith-1.5, a major step toward building foundation models through end-to-end self-improvement. Ornith-1.5 extends Ornith-1.0 (which was developed on top of Qwen3.5 and Gemma4 with additional continued pretraining, mid-training, and post-training) by expanding the self-improvement loop from scaffold and rollout optimization to jointly optimizing task generation, scaffold construction, and solution rollouts. Rather than relying on a fixed set of human-curated tasks and manually designed harnesses, Ornith-1.5 continuously generates new training tasks, discov
    card_api_mentions: []
    api_providers_live: none
-   coverage: Hy-Memory-30B-A3B: Attributed Reinforcement Learning for Long-Term Memory Writing <https://arxiv.org/html/2610.22196>
-   coverage: Tencent Hunyuan: Hy-Memory 2.0 — Model, Framework and ... <https://memory.hunyuan.tencent.com/en/>
-   coverage: Hy-Memory-30B-A3B: Attributed Reinforcement Learning for Long-Term Memory Writing · Pith <https://pith.science/paper/2610.22196>
+   coverage: How Does Ornith-1.5-122B Perform on Real Tasks? Hands-On Test Results <https://goremy.ai/blog/articles/ornith-1-5-122b-hands-on-review>
+   coverage: Ornith-1.5-122B: Results <https://benchlm.ai/models/ornith-1-5-122b>
+   coverage: Ornith-1.5-122B: MIT Open Weights, Ollama and Benchmarks <https://promptblueprints.tech/ai-releases/ornith-1-5-122b-released-mit-licensed-open-weights-quantised-builds-and-ollama-support/>
 ## XHToken/Spark-X2.6-4B-GGUF
    base_model: ['XHToken/Spark-X2.6-4B']
    license: apache-2.0
@@ -210,6 +180,36 @@ window: created >= 2026-10-16T17:05Z, 3375 models; top 25 distinct families, qua
    coverage: Spark-X2.6-4B | NLP.COM.AI <https://nlp.com.ai/models/spark-x26-4b/>
    coverage: How does Spark-X2.6-4B compare with Qwen3.5-4B and Gemma-E4B? <https://goremy.ai/blog/articles/spark-x2-6-4b-vs-qwen-3-5-4b-gemma-e4b>
    coverage: Spark X2.6 4B benchmark, quants and memory | DaBench <https://dabench.ai/model/spark-x-2-6-4b>
+## unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF
+   base_model: nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-BF16
+   license: other
+   params: None
+   excerpt: --- **NVIDIA-Nemotron-3.5-Bolt-E4B-4GB** is a small language model (SLM) further post-trained from [Gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B-it) by NVIDIA. Nemotron-3.5-Bolt-E4B carries forward Gemma’s strong conversational capabilities and further improves multi-turn tool use, instruction following, and input grounding for fast local voice/device assistants, interactive personas, and embedded/edge interfaces. Designed for low-memory, low-TTFT operation, the model allows agents to respond quickly while preserving headroom for applications or adjacent model pipelines. For specu
+   card_api_mentions: ['| [Court Listener](https://www.courtlistener.com/help/api/bulk-data/) | Legacy Download |']
+   api_providers_live: none
+   coverage: 4GB の会話モデル「Nemotron 3.5 Bolt E4B」を DGX Spark で動かしてみた | DevelopersIO <https://dev.classmethod.jp/articles/dgx-spark-nemotron-3-5-bolt-e4b-4gb-first-touch/>
+   coverage: NVIDIA Nemotron 3.5 Bolt E4B 4GB <https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-E4B-4GB/>
+   coverage: Nemotron 3.5 Bolt E4B Model by NVIDIA | NVIDIA NIM <https://build.nvidia.com/nvidia/nemotron-3.5-bolt-e4b/modelcard>
+   coverage: Nemotron 3.5 Bolt E4B 4GB: What Really Shipped <https://www.orcarouter.ai/blog/nemotron-3-5-bolt-e4b-4gb-what-shipped>
+## RecursiveSI/flint-int4-gguf
+   base_model: None
+   license: apache-2.0
+   params: None
+   excerpt: **Q4_1 GGUF** weights for [Recursive Flint](https://huggingface.co/RecursiveSI/flint), primarily intended for Apple Silicon using llama.cpp with Metal. The **26.0 GB** file includes weights, tokenizer, and chat template. See [Flint’s model card](https://huggingface.co/RecursiveSI/flint) for model details, benchmarks, chat conventions, and limitations. **Requires an Apple Silicon Mac with at least 48 GB of unified memory.** Follow [llama.cpp’s Metal installation/build guide](https://github.com/ggml-org/llama.cpp/blob/master/docs/build.md#metal-build), using a release with Flint support, and put
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Flint's speed claims hold only for one runtime at short context, and nobody has measured it on a laptop at long context - New Runtime <https://newruntime.com/analysis/flint-s-speed-claims-hold-only-for-one-runtime-at-short-context-and-nobody-has/>
+   coverage: Day-0 Support for Flint on vLLM | vLLM Blog <https://vllm-project.github.io/2026/10/21/flint.html>
+## tencent/Hy-Memory-30B-A3B-GGUF
+   base_model: tencent/Hy-Memory-30B-A3B
+   license: apache-2.0
+   params: None
+   excerpt: --- This repository provides GGUF quantizations of [Hy-Memory-30B-A3B](https://huggingface.co/tencent/Hy-Memory-30B-A3B) for efficient local inference with [llama.cpp](https://github.com/ggml-org/llama.cpp). The releases use **Tencent Hunyuan's Hy-Memory quantization recipe**: imatrix calibration plus MoE-aware mixed precision. Routed experts, which dominate parameter count, can be compressed aggressively, while shared experts, attention, and input/output layers keep higher precision. On the same fixed Mem0 LoCoMo setup, even the **~8 GB** expert-mixed build stays within about **1.5 points** o
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Hy-Memory-30B-A3B: Attributed Reinforcement Learning for Long-Term Memory Writing <https://arxiv.org/html/2610.22196>
+   coverage: Tencent Hunyuan: Hy-Memory 2.0 — Model, Framework and ... <https://memory.hunyuan.tencent.com/en/>
+   coverage: Hy-Memory-30B-A3B: Attributed Reinforcement Learning for Long-Term Memory Writing · Pith <https://pith.science/paper/2610.22196>
 ## AtomicChat/Ling-3.0-flash-Sante-GGUF
    base_model: inclusionAI/Ling-3.0-flash-Sante
    license: mit
@@ -220,14 +220,16 @@ window: created >= 2026-10-16T17:05Z, 3375 models; top 25 distinct families, qua
    coverage: Ling 3.0 Flash Sante: Ant's free medical model, unverified <https://www.orcarouter.ai/blog/what-is-ling-3-0-flash-sante>
    coverage: Ling 3.0 Flash Sante vs Ling 3.0 Flash: medical or verified? <https://www.orcarouter.ai/blog/ling-3-0-flash-sante-vs-ling-3-0-flash>
    coverage: Ling-3.0-flash-Sante | NLP.COM.AI <https://nlp.com.ai/models/ling-30-flash-sante/>
-## mradermacher/Gemma-4-31B-Heretic-i1-GGUF
-   base_model: Luni/Gemma-4-31B-Heretic
-   license: gemma
-   params: None
-   excerpt: weighted/imatrix quants of https://huggingface.co/Luni/Gemma-4-31B-Heretic ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#Gemma-4-31B-Heretic-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/Gemma-4-31B-Heretic-GGUF **This is a vision model - mmproj files (if any) will be in the [static repository](https://huggingface.co/mradermacher/Gemma-4-31B-Heretic-GGUF).** If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-GGUF) f
+## ornith-ai/Ornith-1.5-122B-MLX
+   base_model: None
+   license: mit
+   params: 122562817776
+   excerpt: Chirp Chirp! 🐦 We are introducing Ornith-1.5, a major step toward building foundation models through end-to-end self-improvement. Ornith-1.5 extends Ornith-1.0 (which was developed on top of Qwen3.5 and Gemma4 with additional continued pretraining, mid-training, and post-training) by expanding the self-improvement loop from scaffold and rollout optimization to jointly optimizing task generation, scaffold construction, and solution rollouts. Rather than relying on a fixed set of human-curated tasks and manually designed harnesses, Ornith-1.5 continuously generates new training tasks, discovers 
    card_api_mentions: []
    api_providers_live: none
-   coverage: Gemma 4 31B, uncensored from the QAT checkpoint — ABLITERATED.cloud <https://abliterated.cloud/blog/gemma-4-31b-qat-uncensored-heretic/>
+   coverage: Ornith-1.5 122B Tested: Vision, Coding, and Reasoning Up Close | MindStudio <https://www.mindstudio.ai/blog/ornith-1-5-122b-vision-creative-reasoning>
+   coverage: How does Ornith-1.5-122B score against Qwen 3.8 and DeepSeek V4 Flash? <https://goremy.ai/blog/articles/ornith-1-5-122b-benchmarks-vs-qwen-deepseek-nemotron>
+   coverage: Community Benchmarks — oMLX <https://omlx.ai/benchmarks/performance?model=122&order=desc&page=1&sort=created_at>
 ## KRAFTON/Raon-1-mini-preview-gguf
    base_model: ['KRAFTON/Raon-1-mini-preview', 'KRAFTON/Raon-1-mini-preview-dflash2']
    license: apache-2.0
@@ -237,42 +239,43 @@ window: created >= 2026-10-16T17:05Z, 3375 models; top 25 distinct families, qua
    api_providers_live: none
    coverage: krafton-ai/Raon-1-mini-preview <https://github.com/krafton-ai/Raon-1-mini-preview>
    coverage: MathBench · Raon-1 mini preview <https://mathbench.ai/en/models/raon-1-mini-preview>
-## RecursiveSI/flint-int4-gguf
+## agentionai/Qwen3.8-Flash-Next-Gyro-Coder-GGUF
+   base_model: ['Qwen/Qwen3.8-Flash-Next']
+   license: other
+   params: None
+   excerpt: **A 125B-parameter coding model on one 24 GB card.** Qwen3.8-Flash-Next is a 125B mixture-of-experts model, the kind that normally needs a workstation full of GPUs. Gyro-Coder brings it to a single RTX 3090, 4090 or 7900 XTX: 19.9 GiB of GPU memory. **New: Gyro-Coder-L for 32 GB cards.** The same experts at about 3.2 bits per weight: 27.5 GiB of GPU memory, and closer to the full model than Gyro-Coder on every set we measure. On C++ it is closer than Gyro-M, which keeps all 512 experts. Two things make that possible: - **Only the experts that code.** Each layer keeps the 256 of its 512 experts
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Gyro 3.8 Flash Next | Agention <https://agention.ai/models/gyro/>
+   coverage: AgentionAI releases Qwen3.8-Flash-Next-Gyro-Coder for 24 GB GPUs — Digest AI <https://digestai.news/story/agentionai-releases-qwen3-8-flash-next-gyro-coder-for-24-gb-gpus>
+   coverage: Issue #3640 · Strata <https://www.stratat.com/en/issues/3640>
+## RecursiveSI/flint-nvfp4-gguf
    base_model: None
    license: apache-2.0
    params: None
-   excerpt: **Q4_1 GGUF** weights for [Recursive Flint](https://huggingface.co/RecursiveSI/flint), primarily intended for Apple Silicon using llama.cpp with Metal. The **26.0 GB** file includes weights, tokenizer, and chat template. See [Flint’s model card](https://huggingface.co/RecursiveSI/flint) for model details, benchmarks, chat conventions, and limitations. **Requires an Apple Silicon Mac with at least 48 GB of unified memory.** Follow [llama.cpp’s Metal installation/build guide](https://github.com/ggml-org/llama.cpp/blob/master/docs/build.md#metal-build), using a release with Flint support, and put
+   excerpt: NVFP4 GGUF weights for [Recursive Flint](https://huggingface.co/RecursiveSI/flint), primarily intended for NVIDIA GPUs using llama.cpp with CUDA. The **22.9 GB** file includes weights, tokenizer, and chat template. See [Flint’s model card](https://huggingface.co/RecursiveSI/flint) for model details, benchmarks, chat conventions, and limitations. Follow [llama.cpp’s CUDA installation/build guide](https://github.com/ggml-org/llama.cpp/blob/master/docs/build.md#cuda), using a release with Flint support, and put `llama-server` on your PATH. The runtime has been tested on NVIDIA B300, RTX PRO 6000 
    card_api_mentions: []
    api_providers_live: none
-   coverage: Flint's speed claims hold only for one runtime at short context, and nobody has measured it on a laptop at long context - New Runtime <https://newruntime.com/analysis/flint-s-speed-claims-hold-only-for-one-runtime-at-short-context-and-nobody-has/>
-   coverage: Day-0 Support for Flint on vLLM | vLLM Blog <https://vllm-project.github.io/2026/10/21/flint.html>
-## mradermacher/gemma-4-E2B-it-heretic-v1-i1-GGUF
-   base_model: TrueRealRaven/gemma-4-E2B-it-heretic-v1
-   license: gemma
-   params: None
-   excerpt: weighted/imatrix quants of https://huggingface.co/TrueRealRaven/gemma-4-E2B-it-heretic-v1 ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#gemma-4-E2B-it-heretic-v1-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/gemma-4-E2B-it-heretic-v1-GGUF **This is a vision model - mmproj files (if any) will be in the [static repository](https://huggingface.co/mradermacher/gemma-4-E2B-it-heretic-v1-GGUF).** If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggingface.co/TheBlok
-   card_api_mentions: []
-   api_providers_live: none
-## ReadyArt/Wicked-Tutu-31B-Final-GGUF
-   base_model: ['ReadyArt/Wicked-Tutu-31B-Final']
-   license: apache-2.0
-   params: None
-   excerpt: @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&family=Outfit:wght@300;500;800&display=swap'); :root { --primary-pink: #ff1493; --secondary-pink: #ff69b4; --accent-pink: #d4005e; --bg-pink-light: #ffe6ee; --bg-pink-dark: #ffd1dc; --glass-bg: rgba(255, 255, 255, 0.7); --glass-border: rgba(255, 20, 147, 0.3); --text-main: #8b005d; --glow-color: rgba(255, 20, 147, 0.4); --section-bg: rgba(255, 255, 255, 0.5); --card-bg: rgba(255, 255, 255, 0.4); --warning-red: #ff4d4d; } @media (prefers-color-scheme: dark) { :root { --bg-pink-light: #1a050d; --bg-pink-dark: #0a020
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Wicked Tutu 31B Drops for Dark Roleplay — AICrier <https://aicrier.com/post/u7zmqu5ywco7nue86z7q>
-   coverage: Wicked-Tutu-31B packages mature roleplay for local inference <https://alphasignal.ai/news/readyart-s-wicked-tutu-31b-brings-private-mature-roleplay-to-local-hardware>
-   coverage: Wicked-Tutu-31B-v0.1-GGUF vs GLM-5.1 Comparison (2026) <https://nerq.ai/compare/readyart-wicked-tutu-31b-v0-1-gguf-vs-zai-org-glm-5-1>
-## ornith-ai/Ornith-1.5-122B-MLX
+   coverage: Day-0 Support for Flint on vLLM | vLLM Blog <https://vllm.ai/blog/2026-10-21-flint>
+   coverage: dedene/Recursive-Flint-DGX-Spark <https://github.com/dedene/Recursive-Flint-DGX-Spark>
+## ornith-ai/Ornith-1.5-122B-MLX-8bit
    base_model: None
    license: mit
-   params: None
+   params: 122562817776
    excerpt: Chirp Chirp! 🐦 We are introducing Ornith-1.5, a major step toward building foundation models through end-to-end self-improvement. Ornith-1.5 extends Ornith-1.0 (which was developed on top of Qwen3.5 and Gemma4 with additional continued pretraining, mid-training, and post-training) by expanding the self-improvement loop from scaffold and rollout optimization to jointly optimizing task generation, scaffold construction, and solution rollouts. Rather than relying on a fixed set of human-curated tasks and manually designed harnesses, Ornith-1.5 continuously generates new training tasks, discovers 
    card_api_mentions: []
    api_providers_live: none
-   coverage: Ornith-1.5 122B Tested: Vision, Coding, and Reasoning Up Close | MindStudio <https://www.mindstudio.ai/blog/ornith-1-5-122b-vision-creative-reasoning>
-   coverage: How does Ornith-1.5-122B score against Qwen 3.8 and DeepSeek V4 Flash? <https://goremy.ai/blog/articles/ornith-1-5-122b-benchmarks-vs-qwen-deepseek-nemotron>
+   coverage: How Does Ornith-1.5-122B Perform on Real Tasks? Hands-On Test Results <https://goremy.ai/blog/articles/ornith-1-5-122b-hands-on-review>
+   coverage: Ornith-1.5-122B: 84.5 SWE-bench Verified on One GPU? <https://explainx.ai/blog/ornith-1-5-122b-open-weights-mit-single-80gb-gpu-swe-bench-verified-84-5-claimed-vs-verified-2026>
    coverage: Community Benchmarks — oMLX <https://omlx.ai/benchmarks/performance?model=122&order=desc&page=1&sort=created_at>
+## mradermacher/Gemma-4-31B-Heretic-i1-GGUF
+   base_model: Luni/Gemma-4-31B-Heretic
+   license: gemma
+   params: None
+   excerpt: weighted/imatrix quants of https://huggingface.co/Luni/Gemma-4-31B-Heretic ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#Gemma-4-31B-Heretic-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/Gemma-4-31B-Heretic-GGUF **This is a vision model - mmproj files (if any) will be in the [static repository](https://huggingface.co/mradermacher/Gemma-4-31B-Heretic-GGUF).** If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-GGUF) f
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Gemma 4 31B, uncensored from the QAT checkpoint — ABLITERATED.cloud <https://abliterated.cloud/blog/gemma-4-31b-qat-uncensored-heretic/>
 ## ReadyArt/Omega-Arsenal-31B-Final-GGUF
    base_model: ['ReadyArt/Omega-Arsenal-31B-Final']
    license: apache-2.0
@@ -291,33 +294,38 @@ window: created >= 2026-10-16T17:05Z, 3375 models; top 25 distinct families, qua
    coverage: DeepSeek V4.1 Flash 1017 GSQ Agentic Strata by kaushikvira — VRAM 5.7GB | LLM Explorer <https://llm-explorer.com/model/kaushikvira%2FDeepSeek-V4.1-Flash-1017-GSQ-agentic-strata,3CRfTKrwwgV857gD8p0RuL>
    coverage: Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs <https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/>
    coverage: kaushikvira/DeepSeek-V4.1-Flash-1017-GSQ-agentic-strata · Pirate Face <https://pirateface.co/kaushikvira/DeepSeek-V4.1-Flash-1017-GSQ-agentic-strata>
-## RecursiveSI/flint-nvfp4-gguf
-   base_model: None
+## mradermacher/gemma-4-E2B-it-heretic-v1-i1-GGUF
+   base_model: TrueRealRaven/gemma-4-E2B-it-heretic-v1
+   license: gemma
+   params: None
+   excerpt: weighted/imatrix quants of https://huggingface.co/TrueRealRaven/gemma-4-E2B-it-heretic-v1 ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#gemma-4-E2B-it-heretic-v1-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/gemma-4-E2B-it-heretic-v1-GGUF **This is a vision model - mmproj files (if any) will be in the [static repository](https://huggingface.co/mradermacher/gemma-4-E2B-it-heretic-v1-GGUF).** If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggingface.co/TheBlok
+   card_api_mentions: []
+   api_providers_live: none
+## ReadyArt/Wicked-Tutu-31B-Final-GGUF
+   base_model: ['ReadyArt/Wicked-Tutu-31B-Final']
    license: apache-2.0
    params: None
-   excerpt: NVFP4 GGUF weights for [Recursive Flint](https://huggingface.co/RecursiveSI/flint), primarily intended for NVIDIA GPUs using llama.cpp with CUDA. The **22.9 GB** file includes weights, tokenizer, and chat template. See [Flint’s model card](https://huggingface.co/RecursiveSI/flint) for model details, benchmarks, chat conventions, and limitations. Follow [llama.cpp’s CUDA installation/build guide](https://github.com/ggml-org/llama.cpp/blob/master/docs/build.md#cuda), using a release with Flint support, and put `llama-server` on your PATH. The runtime has been tested on NVIDIA B300, RTX PRO 6000 
+   excerpt: @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&family=Outfit:wght@300;500;800&display=swap'); :root { --primary-pink: #ff1493; --secondary-pink: #ff69b4; --accent-pink: #d4005e; --bg-pink-light: #ffe6ee; --bg-pink-dark: #ffd1dc; --glass-bg: rgba(255, 255, 255, 0.7); --glass-border: rgba(255, 20, 147, 0.3); --text-main: #8b005d; --glow-color: rgba(255, 20, 147, 0.4); --section-bg: rgba(255, 255, 255, 0.5); --card-bg: rgba(255, 255, 255, 0.4); --warning-red: #ff4d4d; } @media (prefers-color-scheme: dark) { :root { --bg-pink-light: #1a050d; --bg-pink-dark: #0a020
    card_api_mentions: []
    api_providers_live: none
-   coverage: Day-0 Support for Flint on vLLM | vLLM Blog <https://vllm.ai/blog/2026-10-21-flint>
-   coverage: dedene/Recursive-Flint-DGX-Spark <https://github.com/dedene/Recursive-Flint-DGX-Spark>
-## ReadyArt/Swish-26B-A4B-GGUF
-   base_model: ['ReadyArt/Swish-26B-A4B']
+   coverage: Wicked Tutu 31B: uncensored local fiction?: Rocky Tested <https://rockytested.com/reviews/readyart-wicked-tutu-31b-v0-1/>
+   coverage: Wicked Tutu 31B Drops for Dark Roleplay — AICrier <https://aicrier.com/post/u7zmqu5ywco7nue86z7q>
+   coverage: Wicked-Tutu-31B packages mature roleplay for local inference <https://alphasignal.ai/news/readyart-s-wicked-tutu-31b-brings-private-mature-roleplay-to-local-hardware>
+## dendriteholdings/Ingot-genesis-27B-Q2
+   base_model: ['prism-ml/Ternary-Bonsai-2-27B-gguf', 'Qwen/Qwen3.8-27B']
    license: apache-2.0
    params: None
-   excerpt: /* Import a cleaner font */ @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&family=Outfit:wght@300;500;800&display=swap'); :root { /* Light Mode Palette */ --primary-pink: #ff1493; --secondary-pink: #ff69b4; --accent-pink: #d4005e; --bg-pink-light: #ffe6ee; --bg-pink-dark: #ffd1dc; --glass-bg: rgba(255, 255, 255, 0.7); --glass-border: rgba(255, 20, 147, 0.3); --text-main: #8b005d; --glow-color: rgba(255, 20, 147, 0.4); --section-bg: rgba(255, 255, 255, 0.5); } /* Dark Mode Palette - High Contrast Neon */ @media (prefers-color-scheme: dark) { :root { --bg-pink-l
+   excerpt: The genesis model of Ingot's **27B-Q2** competition: the first king that every q2 submission is scored against. This is an unmodified copy of `Ternary-Bonsai-2-27B-PQ2_0.gguf` from [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) at revision `b072e1d3b35a0a630cece372c2127528e0994386`, renamed to `Ingot-genesis-27B-Q2.gguf`. Created using Bonsai by Prism ML. PQ2_0 needs the [PrismML llama.cpp fork](https://github.com/PrismML-Eng/llama.cpp); stock llama.cpp does not load it. Ingot evaluates with the fork at tag `prism-b10777-e3de715`. llama-cli -m I
    card_api_mentions: []
    api_providers_live: none
-   coverage: Swish-26B-A4B-oQ4e on M5 Pro (20c) — oMLX Benchmark <https://omlx.ai/benchmarks/performance/9m5fxw0h>
-   coverage: Run Swish-26B-A4B API (Easy Deployment & Flat-Rate Pricing) <https://featherless.ai/models/ReadyArt/Swish-26B-A4B>
-   coverage: Swish-26B-A4B-GGUF — HF//RADAR <https://radar-huggingface.686f6c61.dev/models/readyart-swish-26b-a4b-gguf>
-## eaddario/IQ2_K-IQ6_K-Test-Models
-   base_model: ['IFM/K2-Horizon-7B']
-   license: ['apache-2.0']
+   coverage: Reports | Ingot <https://ingot.tools/reports>
+   coverage: Ingot quantizes Qwen 27B to FP8 in one week… · AGI Hunt <https://agihunt.info/en/p/1a160508f7fefa87a0d9fd33588>
+   coverage: How bad is Qwen 3.8 27b Q2 XXL? : r/LocalLLaMA <https://www.reddit.com/r/LocalLLaMA/comments/1w0wgv8/how_bad_is_qwen_38_27b_q2_xxl/>
+   coverage: Free AI model from Alibaba silently alters business records, <https://www.openpr.com/news/4614803/free-ai-model-from-alibaba-silently-alters-business-records>
+## hotocooo/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-DFlash
+   base_model: ['incoai/Qwen3.8-Flash-Next-DFlash2']
+   license: apache-2.0
    params: None
-   excerpt: Quantization test results for [**K2-Horizon-7B**](https://huggingface.co/IFM/K2-Horizon-7B), comparing standard [llama.cpp](https://github.com/ggml-org/llama.cpp) quantization against a [fork](https://github.com/EAddario/llama.cpp/tree/iqX_k-cpu) that adds five new non-linear super-block types: **IQ2_K** to **IQ6_K**. Four of the five new types perform materially better than their counterpart on every quality metric. `IQ2_K` is the exception. The five new types are non-linear (NL) super-block (K) types. Each one splits a super-block into 16 sub-blocks of 16 weights, gives every sub-block a sig
+   excerpt: A DFlash2 draft model fine-tuned for one target: [`DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF`](https://huggingface.co/DavidAU/Qwen3.8-Flash-Next-Abliterated-Uncensored-Turbo-Brilliance-50x-Reasoning-Instruct-GSQ-RCO-GGUF) (IQ3_S). It starts from [`incoai/Qwen3.8-Flash-Next-DFlash2`](https://huggingface.co/incoai/Qwen3.8-Flash-Next-DFlash2), which was trained on the official Qwen3.8-Flash-Next. It is not a standalone language model: it drafts tokens that the target verifies, so the output is the target's own (greedy output is identica
    card_api_mentions: []
    api_providers_live: none
-   coverage: Authors report KLD cuts for IQ2_K to IQ6_K test quants · Tensor Journal <https://tensorjournal.com/en/news/iq-quantization-test-models-kld-claims>
-   coverage: IQ2_K-IQ6_K-Test-Models — HF//RADAR <https://radar-huggingface.686f6c61.dev/models/eaddario-iq2_k-iq6_k-test-models>
-   coverage: The Fork That Finally Forked Back: llama.cpp Adopts ik_llama’s Secret Quantization Sauce - Banandre <https://www.banandre.com/blog/the-fork-that-finally-forked-back-llama-cpp-adopts-ik-llama-secret-quantization-sauce>
-   coverage: Port IQ*_K quants from ik_llama.cpp <https://github.com/ggml-org/llama.cpp/pull/19726>
