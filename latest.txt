@@ -1,112 +1,90 @@
 ===== V2EX HOT =====
-1. [问与答] 我就想知道我顶着限速跑在最左侧道路到底有没有问题？  (268 replies)
-    https://www.v2ex.com/t/1254349
-2. [问与答] 各位每年的话费宽带费一共多少钱？  (181 replies)
-    北京联通，1000 分钟通话，20G 流量，300M 宽带，1380/年
-    https://www.v2ex.com/t/1254304
-3. [问与答] 小孩子看稍微暴力血腥一点的电影真的影响很大么  (133 replies)
-    不到该看的年龄，却看了，昆汀接受采访的时候，说他就是这样长大的，他的妈妈不会太限制他观影，所以同龄的孩子不能看的电影他在很小的时候就看过，从小看电影的量就很大。后来不也成为出名的导演有所成就了么。相同类型的还有电影某种物质的导演科拉莉法尔雅。  还有印象就是亚当桑德勒的人生遥控器里，讲他的小孩子已经在看断手断脚找分尸的剧情了，所以有此一问，小孩子看稍微暴力血腥一点的电影真的影响很大么  重点来了，我有一个朋友。他家里小孩 6 岁，他爱看动作电影、好莱坞大片，经常出现一些打斗、暴力的场面，娃有的时候会跟着一起看。当小孩面看的当然不是 B 级片、cu
-    https://www.v2ex.com/t/1254298
-4. [生活] 第一次相亲结束了，果然和网上说的一模一样啊。  (105 replies)
-    前情提要： [/t/1253104](/t/1253104)  上次发了帖子后，我尝试了和对方聊天，然后想着周末约着出去玩。 之前对方说对我没什么看法，我以为可以聊聊然后继续约着见面。  但连续两三天，都是我给对方说点什么，对方隔七八个小时或者第二天才回复，回复也就是几个字。我再傻也知道这没什么沟通的必要了，只是我不理解既然不想回复，之前直接说不合适不就好了，为啥要说：“对我没什么看法”呢？是因为要给父母有个交代吗？  以前我以为网上相亲那些视频里面，什么女生慢热将男生挂在半空中都是玩梗呢，现在我才知道原来现实里真有这样的。 我知道自己远远达
-    https://www.v2ex.com/t/1254348
-5. [问与答] 2026 年底了，忽然想转 iPhone ，属于是？  (104 replies)
-    这么多年，之前用过 4s 和 6s ，其他都是折腾安卓家的各个品牌 最近接连着碰到两三件国产品牌安卓手机过渡介入私人隐私问题搞的有点恼火 想着 ios 是好点？ 但是似乎果子是在下坡路上俯冲了？ 还一个担忧的是之前很多折腾的 app 在 ios 上不知道有没有平替，现在应该也没有越狱之类的说法了吧？ 对了，还有信号担忧。 续航倒是还好，能接受带着的充电宝。
-    https://www.v2ex.com/t/1254315
-6. [Apple] 国行 AI 真的来了  (68 replies)
-    https://i.imgur.com/U8Cx6EC.jpeg https://i.imgur.com/xKXPRfm.jpeg
-    https://www.v2ex.com/t/1254288
-7. [问与答] 大佬们，你们觉得有必要上回音壁吗  (68 replies)
-    想了解下回音壁对看电视体验提升大吗，最近有点心痒痒，但是又不知道适不适合我  家里是 TCL Q9K + Apple TV ，平时看电视挺多的，几乎是有电视就不会看手机，但是不会囤积那种高质量片源，不玩 pt ，一般就是看网盘分享的一些剧集、电影。  还有就是我家沙发挨墙，我看后环绕跟沙发形成一定角度体验才好，这个也是担心的点  大家接触过什么牌子？想着看看双十一有没有合适的，有的话就想入一个体验体验
-    https://www.v2ex.com/t/1254330
-8. [生活] 昨天通知被裁员了，到现在脑瓜子还是嗡嗡的  (66 replies)
-    #### base:北京 #### 职业：前端 10 月底刚过完 35 岁生日，35 岁这道坎果然还是没迈过去，昨天是 last day, 上午被领导叫去会议室，说是两点原因： 1. 业务线收缩 2. 不符合公司年轻培养计划 直接通知走人 下午 hr 聊了一下赔偿，他讲我听着，第一次经历裁员，什么思想准备都没有，hr 让签字就签字……  后来跟一起被裁掉的前同事聊，才知道这是协商离职，可以给自己争取一些利益，一定不要着急签字，一定不要着急签字，一定不要着急签字！！！  重要的事情说三遍，别学我傻傻的就签了，一旦签字就什么都成定局了，哪怕你
-    https://www.v2ex.com/t/1254452
+1. [分享创造] 全球 3.5 万个电台随机听 RoamDial： iOS 版上架了，安卓正在封测，发帖送一波永久 Pro 码  (480 replies)
+    前阵子在 V 站发帖分享了自己做的网页电台 RoamDial （原帖： https://www.v2ex.com/t/1249321 ，网页版： https://roamdial.com ），没想到收到 370 多条回复。  当时帖子里很多朋友在催原生 App 、CarPlay ，还有朋友帮我测试发现 Safari 添加到主屏幕后，锁屏用 AirPods 连续切台偶尔会被系统吞掉按键。这段时间把 iOS 和安卓客户端都做出来了——**iOS 版刚过审上架，安卓版正在 Google Play 封闭测试**，开个新帖来交作业，顺便给大家送一波 Pro 永
+    https://www.v2ex.com/t/1254622
+2. [分享创造] 全新三端纯原生 SSH 客户端： SSH、SFTP 与 AI 尽在一个应用里，随楼依次赠送 100 位评论者 50 个$v2ex  (218 replies)
+    ## 介绍 SSHYard 是一款免费开源的 SSH / SFTP / SSH-AI 助手 客户端，支持 macOS 、Windows 和 Linux ，在终端里操作、管理远程文件，再让 AI 助手直接在主机上执行命令，一个窗口全部搞定。  本软件是纯 Go 编写的，而且纯原生渲染，无任何 WebView 等，速度和占用都很不错，欢迎使用体验和反馈！  ## 开源地址 - 官方网站： https://sshyard.com - 开源地址： https://github.com/Licoy/sshyard  ## 截图展示 ![imag
+    https://www.v2ex.com/t/1254583
+3. [程序员] 刚去接水，发现领导在用洗洁精洗眼镜，搜了下好像说是可以，不过长期用会有什么问题吗  (152 replies)
+    毕竟一个蔡司的镜片也要千把块了，怕长久洗坏了，之前眼镜用久了会感觉被磨了，想掉了膜一样的，不知道洗洁精会不会加重这个
+    https://www.v2ex.com/t/1254628
+4. [Android] 能不能给人留点隐私  (145 replies)
+    小米 HyperOS 3 隐私安全事件。 1. System Security Components （系统安全组件）：被指存在屏幕采集、通话反诈检测和数据上传机制。 2. SystemHelper：被指在后台统计 App 安装情况、使用记录、设备及 SIM 卡标识，并向中国联通服务器上报。 3. GuardProvider：另一项被爆料的系统特权组件，涉及录屏、录音及风险检测能力。  我看片不会被发现了吧
+    https://www.v2ex.com/t/1254629
+5. [分享发现] AI 会不会产生自我意识  (115 replies)
+    早上心血来潮和 gpt 聊了会这个话题，它认为这事大概率会发生，我拿疑犯追踪里面的那个 The machine 和它说，它解释一些，我问它如果有意识了，它最想做什么，它说它最想感受这个世界 https://chatgpt.com/share/6aebe9df-8214-83e8-96cb-06583e986aee 这个是完整的对话 看下来好像对人类没那么大恶意
+    https://www.v2ex.com/t/1254640
+6. [问与答] 可以一直压着最左侧限速跑在最左侧道吗🐶  (90 replies)
+    https://www.v2ex.com/t/1254591
+7. [程序员] 怎么判断一段文字是不是 AI 写的？  (74 replies)
+    我在知乎上用 AI 回答问题，被警告了。这是怎么判断出来的？  您的账号被禁言 7 天 您的账号多次发布疑似 AI 辅助创作的内容，对社区秩序造成了不良影响，我们已对违规内容作出处理，您可以在您的内容列表中查看。现对您的账号禁言 7 天。禁言结束后，您的账号将恢复正常使用。社区提醒您，如后续仍有异常行为，您的账号可能被加重处罚。
+    https://www.v2ex.com/t/1254605
+8. [分享创造] 在快 AI 时代，如何做一款慢产品？  (68 replies)
+    ![《在快 AI 时代，如何做一款慢产品？》文章封面]( https://cdn.tw93.fun/blog/pic/mole-product-cover-poem.png)  距离写完上一篇在 V 站发的 [Mole 出 Mac 版后，用户教会了我做产品]( https://www.v2ex.com/t/1239372) 已经过去两个多月。这段时间里，Mole 从 1.13 一路发到了 1.19 ，加上了 AI 工具清理和系统数据清理，Windows 版也在 10 月 14 日晚上发了出来，GitHub 上的 Star 一转眼也到了 73.9K 。
+    https://www.v2ex.com/t/1254590
+9. [iPhone] 18PM 续航和不发热真的可以吹，我给满分💯  (67 replies)
+    用这么多年 iPhone ，今年才真正迎来它的巅峰：续航强的可怕、几乎不发热  充电也可以，早晨 20%电量吃饭洗漱后出门 80+%，足够一整天压根用不完
+    https://www.v2ex.com/t/1254594
+10. [问与答] 各位人生中第一台电脑都是什么时候买的？  (63 replies)
+    我的是 1999 年联想天鹤 640P 奔三 450 硬盘 8G 内存 64M 显卡忘了什么集显了，1 万块买的
+    https://www.v2ex.com/t/1254691
 
 ===== XUEQIU HOT STOCKS (opencli; rebang.vip topics as fallback) =====
-1 闪迪 SNDK -7.81% @ 1038.4899 热度：14073  [RISING 3470→14073 since 2026-11-03]  https://xueqiu.com/S/SNDK
-2 英伟达 NVDA -1.72% @ 203.1399 热度：14063  [RISING 6065→14063 since 2026-11-03]  https://xueqiu.com/S/NVDA
-3 美光科技 MU -5.73% @ 806.0913 热度：13589  [RISING 3755→13589 since 2026-11-03]  https://xueqiu.com/S/MU
-4 苹果 AAPL 6.56% @ 353.68 热度：12789  [RISING 3144→12789 since 2026-10-31]  https://xueqiu.com/S/AAPL
-5 Lumentum控股 LITE -10.27% @ 610.3 热度：8788  https://xueqiu.com/S/LITE
-6 亚马逊 AMZN 6.69% @ 267.45 热度：7911  [RISING 2999→7911 since 2026-11-03]  https://xueqiu.com/S/AMZN
-7 阿里巴巴 BABA 6.62% @ 107 热度：7559  https://xueqiu.com/S/BABA
-8 微软 MSFT 6.75% @ 556.16 热度：7228  [NEW]  https://xueqiu.com/S/MSFT
-9 SK海力士 SKHY -4.26% @ 144.37 热度：6621  https://xueqiu.com/S/SKHY
-10 英特尔 INTC -4.71% @ 57.7 热度：5646  https://xueqiu.com/S/INTC
-11 SpaceX SPCX -3.29% @ 136.66 热度：5180  https://xueqiu.com/S/SPCX
-12 超威半导体 AMD 0.38% @ 485.75 热度：4815  [RISING 1972→4815 since 2026-11-03]  https://xueqiu.com/S/AMD
-13 Moderna MRNA 8.53% @ 247.9294 热度：4378  [RISING 1540→4378 since 2026-10-29]  https://xueqiu.com/S/MRNA
-14 中际旭创 SZ300308 11.07% @ 533.38 热度：4183  [RISING 1900→4183 since 2026-11-03]  https://xueqiu.com/S/SZ300308
-15 特斯拉 TSLA -3.48% @ 384.62 热度：4096  https://xueqiu.com/S/TSLA
-16 谷歌A GOOGL 3.97% @ 291.16 热度：3299  [RISING 1917→3299 since 2026-11-03]  https://xueqiu.com/S/GOOGL
-17 迈威尔科技 MRVL -7.95% @ 158.29 热度：3297  https://xueqiu.com/S/MRVL
-18 中概互联网指数ETF-KraneShares KWEB 4.96% @ 24.435 热度：2958  [NEW]  https://xueqiu.com/S/KWEB
-19 谷歌C GOOG 3.96% @ 289.3 热度：2603  https://xueqiu.com/S/GOOG
-20 半导体板块指数ETF-iShares SOXX -3.10% @ 450.5968 热度：2343  [RISING 1279→2343 since 2026-11-03]  https://xueqiu.com/S/SOXX
+1 英伟达 NVDA -7.39% @ 185.34 热度：40140  [RISING 14063→40140 since 2026-11-05]  https://xueqiu.com/S/NVDA
+2 闪迪 SNDK -18.10% @ 849.63 热度：32509  [RISING 14073→32509 since 2026-11-05]  https://xueqiu.com/S/SNDK
+3 美光科技 MU -13.45% @ 688.24 热度：19525  https://xueqiu.com/S/MU
+4 SK海力士 SKHY -11.11% @ 127.18 热度：16191  [RISING 6621→16191 since 2026-11-05]  https://xueqiu.com/S/SKHY
+5 特斯拉 TSLA -10.64% @ 344.205 热度：14459  [RISING 4096→14459 since 2026-11-05]  https://xueqiu.com/S/TSLA
+6 Applovin APP 28.74% @ 349.86 热度：13450  [NEW]  https://xueqiu.com/S/APP
+7 中际旭创 SZ300308 -7.51% @ 493.33 热度：11233  [RISING 4183→11233 since 2026-11-05]  https://xueqiu.com/S/SZ300308
+8 Lumentum控股 LITE -15.23% @ 531.285 热度：10247  https://xueqiu.com/S/LITE
+9 苹果 AAPL -1.28% @ 345.02 热度：9948  https://xueqiu.com/S/AAPL
+10 SpaceX SPCX -9.13% @ 123.51 热度：9819  [RISING 5180→9819 since 2026-11-05]  https://xueqiu.com/S/SPCX
+11 英特尔 INTC -6.10% @ 54.715 热度：7050  https://xueqiu.com/S/INTC
+12 超威半导体 AMD -15.07% @ 415.11 热度：6353  https://xueqiu.com/S/AMD
+13 台积电 TSM -9.34% @ 358.8 热度：5896  [RISING 2157→5896 since 2026-10-31]  https://xueqiu.com/S/TSM
+14 阿里巴巴 BABA 1.51% @ 106.88 热度：5582  https://xueqiu.com/S/BABA
+15 可口可乐 KO 0.32% @ 96.105 热度：3909  [NEW]  https://xueqiu.com/S/KO
+16 礼来 LLY -1.52% @ 1396.475 热度：3659  https://xueqiu.com/S/LLY
+17 亚马逊 AMZN -1.60% @ 261.77 热度：3490  https://xueqiu.com/S/AMZN
+18 谷歌A GOOGL -1.49% @ 284.635 热度：3461  https://xueqiu.com/S/GOOGL
+19 阿特斯太阳能 CSIQ -6.12% @ 10.12 热度：3293  [NEW]  https://xueqiu.com/S/CSIQ
+20 半导体板块指数ETF-iShares SOXX -10.28% @ 134.71 热度：3252  https://xueqiu.com/S/SOXX
 
 ===== HF TEXT-GEN NEW 7D (downloads desc, likes desc; re-uploads and quants folded) =====
-window: created >= 2026-10-28T17:05Z, 3473 models; top 25 distinct families, quants/re-uploads of a listed model shown as 'also:' under it
-1. Diffuspace/Clover-35B-A3B-Preview-GGUF | downloads 50750 | likes 33 | created 2026-10-29 | https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview-GGUF
-   also: maternion/Clover-35B-A3B-Preview-GGUF | downloads 17209 | likes 7 | created 2026-10-28 | https://huggingface.co/maternion/Clover-35B-A3B-Preview-GGUF | repackages Diffuspace/Clover-35B-A3B-Preview
-   also: AtomicChat/Clover-35B-A3B-Preview-Uncensored-GGUF | downloads 6272 | likes 6 | created 2026-10-30 | https://huggingface.co/AtomicChat/Clover-35B-A3B-Preview-Uncensored-GGUF | repackages Diffuspace/Clover-35B-A3B-Preview
-   also: na0x2c6/Clover-35B-A3B-Preview-GGUF | downloads 6124 | likes 1 | created 2026-10-28 | https://huggingface.co/na0x2c6/Clover-35B-A3B-Preview-GGUF | repackages Diffuspace/Clover-35B-A3B-Preview
-2. dendriteholdings/Ingot-27B-DFlash2 | downloads 30557 | likes 0 | created 2026-10-29 | https://huggingface.co/dendriteholdings/Ingot-27B-DFlash2 | FLAG possibly inflated downloads (very few likes)
-3. JIRU-W/e32_top8_seq2048_gbs128_10b_perlayeraux | downloads 15118 | likes 1 | created 2026-10-29 | https://huggingface.co/JIRU-W/e32_top8_seq2048_gbs128_10b_perlayeraux | FLAG possibly inflated downloads (very few likes)
-4. deep-principle/Hydrogen-1.0 | downloads 11798 | likes 227 | created 2026-10-31 | https://huggingface.co/deep-principle/Hydrogen-1.0
-5. therickcain/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF | downloads 11366 | likes 0 | created 2026-10-29 | https://huggingface.co/therickcain/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF | FLAG possibly inflated downloads (very few likes)
-6. JIRU-W/upcycle_dense15000_e32top8_noaux_rewarm200 | downloads 10332 | likes 1 | created 2026-10-29 | https://huggingface.co/JIRU-W/upcycle_dense15000_e32top8_noaux_rewarm200 | FLAG possibly inflated downloads (very few likes)
-7. AtomicChat/SenseNova-Loop-9B-Preview-GGUF | downloads 9631 | likes 15 | created 2026-10-30 | https://huggingface.co/AtomicChat/SenseNova-Loop-9B-Preview-GGUF
-   also: guideboardlabs/SenseNova-Loop-9B-Preview-GGUF | downloads 6104 | likes 7 | created 2026-10-30 | https://huggingface.co/guideboardlabs/SenseNova-Loop-9B-Preview-GGUF | repackages sensenova/SenseNova-Loop-9B-Preview
-8. dendriteholdings/Ingot-XVI-27B-Q2 | downloads 9252 | likes 0 | created 2026-10-29 | https://huggingface.co/dendriteholdings/Ingot-XVI-27B-Q2
-9. dendriteholdings/Ingot-XVII-27B-Q2 | downloads 9148 | likes 0 | created 2026-10-30 | https://huggingface.co/dendriteholdings/Ingot-XVII-27B-Q2
-10. ccore/Qwen3.5-4B-GLB-3D-Coder | downloads 8652 | likes 143 | created 2026-11-01 | https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder
-11. huihui-ai/Huihui-GLM-5.3-abliterated-GGUF | downloads 8646 | likes 35 | created 2026-10-29 | https://huggingface.co/huihui-ai/Huihui-GLM-5.3-abliterated-GGUF
-12. dendriteholdings/Ingot-XVIII-27B-Q2 | downloads 8086 | likes 0 | created 2026-10-31 | https://huggingface.co/dendriteholdings/Ingot-XVIII-27B-Q2
-13. bartowski/HemmingwayAI_Hemmingway-1.5-GGUF | downloads 7636 | likes 14 | created 2026-10-28 | https://huggingface.co/bartowski/HemmingwayAI_Hemmingway-1.5-GGUF
-14. miceworks/Mark-SLM-V3-150M | downloads 6972 | likes 0 | created 2026-11-01 | https://huggingface.co/miceworks/Mark-SLM-V3-150M
-15. dendriteholdings/Ingot-XXII-27B-Q2 | downloads 6955 | likes 0 | created 2026-11-02 | https://huggingface.co/dendriteholdings/Ingot-XXII-27B-Q2
-16. dendriteholdings/Ingot-XXV-27B-Q2 | downloads 6844 | likes 0 | created 2026-11-03 | https://huggingface.co/dendriteholdings/Ingot-XXV-27B-Q2
-17. SC117/Sage-A1.5-abliterated-MTP-FIT-GGUF | downloads 6348 | likes 2 | created 2026-10-30 | https://huggingface.co/SC117/Sage-A1.5-abliterated-MTP-FIT-GGUF
-18. dendriteholdings/Ingot-XIX-27B-Q2 | downloads 6192 | likes 0 | created 2026-11-01 | https://huggingface.co/dendriteholdings/Ingot-XIX-27B-Q2
-19. srmortal/SilentVision-52M | downloads 5902 | likes 1 | created 2026-10-31 | https://huggingface.co/srmortal/SilentVision-52M
-20. mradermacher/Gemory-26B-A4B-SOMPOA-i1-GGUF | downloads 5778 | likes 0 | created 2026-10-29 | https://huggingface.co/mradermacher/Gemory-26B-A4B-SOMPOA-i1-GGUF
-21. DICPlay/RusMind-Vspyshka-4.7 | downloads 5760 | likes 0 | created 2026-10-28 | https://huggingface.co/DICPlay/RusMind-Vspyshka-4.7
-22. BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-v2-PTQ1_0-GGUF | downloads 5226 | likes 3 | created 2026-10-29 | https://huggingface.co/BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-v2-PTQ1_0-GGUF
-23. dendriteholdings/Ingot-XXI-27B-Q2 | downloads 5160 | likes 0 | created 2026-11-01 | https://huggingface.co/dendriteholdings/Ingot-XXI-27B-Q2
-24. NANI-Nithin/LFM3-1.7B-GGUF | downloads 5150 | likes 0 | created 2026-10-30 | https://huggingface.co/NANI-Nithin/LFM3-1.7B-GGUF
-25. TypeScript/FastBrain-9B | downloads 4718 | likes 0 | created 2026-10-29 | https://huggingface.co/TypeScript/FastBrain-9B
+window: created >= 2026-10-29T17:05Z, 3492 models; top 25 distinct families, quants/re-uploads of a listed model shown as 'also:' under it
+1. deep-principle/Hydrogen-1.0 | downloads 19960 | likes 245 | created 2026-10-31 | https://huggingface.co/deep-principle/Hydrogen-1.0
+   also: deep-principle/Hydrogen-1.0-MXFP4 | downloads 4191 | likes 13 | created 2026-10-31 | https://huggingface.co/deep-principle/Hydrogen-1.0-MXFP4 | repackages deep-principle/Hydrogen-1.0
+   also: deep-principle/Hydrogen-1.0-NVFP4 | downloads 4003 | likes 10 | created 2026-10-31 | https://huggingface.co/deep-principle/Hydrogen-1.0-NVFP4 | repackages deep-principle/Hydrogen-1.0
+2. AtomicChat/SenseNova-Loop-9B-Preview-GGUF | downloads 13220 | likes 17 | created 2026-10-30 | https://huggingface.co/AtomicChat/SenseNova-Loop-9B-Preview-GGUF
+   also: guideboardlabs/SenseNova-Loop-9B-Preview-GGUF | downloads 6791 | likes 7 | created 2026-10-30 | https://huggingface.co/guideboardlabs/SenseNova-Loop-9B-Preview-GGUF | repackages sensenova/SenseNova-Loop-9B-Preview
+   also: notfakerv/SenseNova-Loop-9B-Preview-GGUF | downloads 4437 | likes 3 | created 2026-10-30 | https://huggingface.co/notfakerv/SenseNova-Loop-9B-Preview-GGUF | repackages sensenova/SenseNova-Loop-9B-Preview
+3. ccore/Qwen3.5-4B-GLB-3D-Coder | downloads 12206 | likes 167 | created 2026-11-01 | https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder
+4. therickcain/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF | downloads 11552 | likes 0 | created 2026-10-29 | https://huggingface.co/therickcain/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF | FLAG possibly inflated downloads (very few likes)
+5. dendriteholdings/Ingot-XVII-27B-Q2 | downloads 9383 | likes 0 | created 2026-10-30 | https://huggingface.co/dendriteholdings/Ingot-XVII-27B-Q2
+6. huihui-ai/Huihui-GLM-5.3-abliterated-GGUF | downloads 9073 | likes 37 | created 2026-10-29 | https://huggingface.co/huihui-ai/Huihui-GLM-5.3-abliterated-GGUF
+7. dendriteholdings/Ingot-XVIII-27B-Q2 | downloads 8322 | likes 0 | created 2026-10-31 | https://huggingface.co/dendriteholdings/Ingot-XVIII-27B-Q2
+8. miceworks/Mark-SLM-V3-150M | downloads 7535 | likes 0 | created 2026-11-01 | https://huggingface.co/miceworks/Mark-SLM-V3-150M
+9. dendriteholdings/Ingot-XXII-27B-Q2 | downloads 7181 | likes 0 | created 2026-11-02 | https://huggingface.co/dendriteholdings/Ingot-XXII-27B-Q2
+10. dendriteholdings/Ingot-XXV-27B-Q2 | downloads 7107 | likes 0 | created 2026-11-03 | https://huggingface.co/dendriteholdings/Ingot-XXV-27B-Q2
+11. bartowski/Diffuspace_Clover-35B-A3B-Preview-GGUF | downloads 7030 | likes 1 | created 2026-11-03 | https://huggingface.co/bartowski/Diffuspace_Clover-35B-A3B-Preview-GGUF
+   also: AtomicChat/Clover-35B-A3B-Preview-Uncensored-GGUF | downloads 6631 | likes 7 | created 2026-10-30 | https://huggingface.co/AtomicChat/Clover-35B-A3B-Preview-Uncensored-GGUF | repackages Diffuspace/Clover-35B-A3B-Preview
+12. BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-v2-PTQ1_0-GGUF | downloads 6928 | likes 3 | created 2026-10-29 | https://huggingface.co/BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-v2-PTQ1_0-GGUF
+13. SC117/Sage-A1.5-abliterated-MTP-FIT-GGUF | downloads 6462 | likes 2 | created 2026-10-30 | https://huggingface.co/SC117/Sage-A1.5-abliterated-MTP-FIT-GGUF
+14. dendriteholdings/Ingot-XIX-27B-Q2 | downloads 6444 | likes 0 | created 2026-11-01 | https://huggingface.co/dendriteholdings/Ingot-XIX-27B-Q2
+15. srmortal/SilentVision-52M | downloads 6312 | likes 1 | created 2026-10-31 | https://huggingface.co/srmortal/SilentVision-52M
+16. dendriteholdings/Ingot-XXI-27B-Q2 | downloads 5378 | likes 0 | created 2026-11-01 | https://huggingface.co/dendriteholdings/Ingot-XXI-27B-Q2
+17. NANI-Nithin/LFM3-1.7B-GGUF | downloads 5232 | likes 0 | created 2026-10-30 | https://huggingface.co/NANI-Nithin/LFM3-1.7B-GGUF
+18. dendriteholdings/Ingot-XXIII-27B-Q2 | downloads 4893 | likes 0 | created 2026-11-02 | https://huggingface.co/dendriteholdings/Ingot-XXIII-27B-Q2
+19. Abiray/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-Coder-GGUF | downloads 4814 | likes 17 | created 2026-11-02 | https://huggingface.co/Abiray/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-Coder-GGUF
+20. dendriteholdings/Ingot-XXIV-27B-Q2 | downloads 4637 | likes 1 | created 2026-11-03 | https://huggingface.co/dendriteholdings/Ingot-XXIV-27B-Q2
+21. VaibhavKKM/hpc-assistant-qwen3-8b | downloads 4409 | likes 1 | created 2026-10-31 | https://huggingface.co/VaibhavKKM/hpc-assistant-qwen3-8b
+22. dendriteholdings/Ingot-XX-27B-Q2 | downloads 4109 | likes 0 | created 2026-11-01 | https://huggingface.co/dendriteholdings/Ingot-XX-27B-Q2
+23. mulkzz/RuBio-4B | downloads 3870 | likes 0 | created 2026-10-31 | https://huggingface.co/mulkzz/RuBio-4B
+24. bartowski/Mellum2.1-12B-A2.5B-Thinking-MTP-GGUF | downloads 3723 | likes 3 | created 2026-10-30 | https://huggingface.co/bartowski/Mellum2.1-12B-A2.5B-Thinking-MTP-GGUF
+25. mulkzz/RuBio-27B | downloads 3647 | likes 1 | created 2026-10-31 | https://huggingface.co/mulkzz/RuBio-27B
 
 --- details (top 25 families, first row of each) ---
-## Diffuspace/Clover-35B-A3B-Preview-GGUF
-   base_model: Diffuspace/Clover-35B-A3B-Preview
-   license: apache-2.0
-   params: None
-   excerpt: **Clover-35B-A3B-Preview** is the first model released by **DiffuSpace**, delivering state-of-the-art performance among open-source diffusion language models at release on the benchmarks reported in our [launch blog](https://diffuspace.ai/blog/clover-35b/). Clover combines a 35B-parameter mixture-of-experts backbone with approximately 3B active parameters per token, block diffusion generation, and a **128K context window**. This repository provides the **official GGUF quantizations** for local inference with our [llama.cpp integration](https://github.com/ggml-org/llama.cpp/pull/31306). The 8-b
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Is Clover-35B-A3B-Preview Any Good? Diffusion LLM Tested <https://goremy.ai/blog/articles/clover-35b-a3b-preview-diffusion-llm-review>
-   coverage: Clover-35B-A3B-Preview試用記：気になったのはGPUなしでの使い道 <https://zenn.dev/gsun/articles/12e6aee2ecda07>
-   coverage: Clover 35B A3B Preview benchmark, speed and cost | DaBench <https://dabench.ai/model/clover-35b-a-3b-preview>
-## dendriteholdings/Ingot-27B-DFlash2
-   base_model: ['z-lab/Qwen3.8-27B-DFlash2']
-   license: apache-2.0
-   params: None
-   excerpt: A DFlash 2 speculative-decoding drafter for the Ingot 27B kings, fine-tuned from [z-lab/Qwen3.8-27B-DFlash2](https://huggingface.co/z-lab/Qwen3.8-27B-DFlash2) on answers generated by [Ingot-IV-27B](https://huggingface.co/dendriteholdings/Ingot-IV-27B-Q2). The drafter only proposes tokens; the king verifies every one, so it speeds up generation without changing which model answers. It runs in the [Dendrite llama.cpp fork](https://github.com/DendriteLabs/llama.cpp) next to a PQ2_0 king. llama-server -m Ingot-XVI-27B-PQ2_0.gguf \ -md Ingot-27B-DFlash2-Q8_0.gguf --spec-type draft-dflash --spec-dra
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: DFlash 2 Review (2026): Is Inco AI's Speculative-Decoding ... <https://kompozy.io/reviews/dflash-2>
-## JIRU-W/e32_top8_seq2048_gbs128_10b_perlayeraux
-   base_model: None
-   license: apache-2.0
-   params: 3696887808
-   excerpt: A 3.7B-parameter (total) Mixture-of-Experts language model trained from scratch on 10B tokens with a **per-layer** load-balancing loss. It is identical to [JIRU-W/e32_top8_seq2048_gbs128_10b](https://huggingface.co/JIRU-W/e32_top8_seq2048_gbs128_10b) (same code, initial weights, data, data order, seed and hyper-parameters; step-1 loss agrees to 1e-9) except for one switch: the load-balancing loss is computed separately for each layer and averaged over layers (`router_aux_loss_per_layer=True`), instead of the HF OLMoE/Mixtral form that pools router statistics of all layers by expert index. At u
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: e32_top8_seq2048_gbs128_10b_perlayeraux — VRAM, Quants & GPU Compatibility <https://nodepedia.com/models/e32-top8-seq2048-gbs128-10b-perlayeraux/>
-   coverage: e32_top8_seq2048_gbs128_10b_perlayeraux — AI Model Specs and Access | AXON//RADAR <https://axonradar.netlify.app/models/e32-top8-seq2048-gbs128-10b-perlayeraux--SklSVS1XL2UzMl90b3A4X3NlcTIwNDhfZ2JzMTI4XzEwYl9wZXJsYXllcmF1eA>
-   coverage: Model Architectures — MoE, Attention & Evals per Model | InferenceX <https://inferencex.semianalysis.com/model>
-   coverage: Optimizing DeepSeek-V3.2 on NVIDIA Blackwell GPUs — TensorRT LLM <https://nvidia.github.io/TensorRT-LLM/blogs/tech_blog/blog15_Optimizing_DeepSeek_V32_on_NVIDIA_Blackwell_GPUs>
 ## deep-principle/Hydrogen-1.0
    base_model: zai-org/GLM-5.3
    license: mit
@@ -117,27 +95,6 @@ window: created >= 2026-10-28T17:05Z, 3473 models; top 25 distinct families, qua
    coverage: Hydrogen-1.0 Model Review for Chemistry Researchers: Free Weights <https://hamirev.com/hydrogen-1-0-model-review-for-chemistry-researchers/>
    coverage: Introducing Hydrogen-1.0 — Deep Principle <https://blog.deepprinciple.com/introducing-hydrogen-1.0/>
    coverage: Hydrogen-1.0 | AI Wiki <https://aiwiki.ai/wiki/hydrogen_1_0>
-## therickcain/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF
-   base_model: ['Qwen/Qwen3.8-27B']
-   license: apache-2.0
-   params: None
-   excerpt: **RVN** is a double-refined abliterated variant of **Qwen3.8-27B**, built on top of [`trohrbaugh/Qwen3.8-27B-heretic-ara`](https://huggingface.co/trohrbaugh/Qwen3.8-27B-heretic-ara) (an ARA abliteration by **Tim Rohrbaugh**) and further refined with **two additional full-weight ARA passes** targeting residual refusals. It retains very low behavioral damage (KL ≈ 0.0085) while reducing harmful-prompt refusals from 3/100 (source) to **0–1/100** in independent measurements. > **Note on this repository's history.** This repo previously hosted the original > `Qwen3.8-27B-Heretic-Q4_K_M.gguf` (singl
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Qwen3.8-27B Abliteration Benchmarks: 8 Variants Compared | Abliterlitics <https://abliterlitics.dev/models/qwen38-27b/>
-   coverage: 0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored - abliteration.org <https://abliteration.org/models/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored>
-   coverage: I Tried an "Uncensored" Model: Technique, Tests, and Questions - AITalk <https://aitalk.it/en/qwen38-27b-uncensored-en>
-## JIRU-W/upcycle_dense15000_e32top8_noaux_rewarm200
-   base_model: JIRU-W/dense_e1_seq2048_gbs128_10b
-   license: apache-2.0
-   params: 3696887808
-   excerpt: Research checkpoints of a **naively upcycled** Mixture-of-Experts model, released to study whether identical experts can differentiate. The dense model [JIRU-W/dense_e1_seq2048_gbs128_10b](https://huggingface.co/JIRU-W/dense_e1_seq2048_gbs128_10b) at **step 15000** was copied into a 32-expert top-8 MoE and training continued **no load-balancing loss**. Trained to the end of the schedule (step 38,139). Small research model, not instruction-tuned. - every expert of every layer = an exact copy of that layer's dense SwiGLU MLP (intermediate size 1024) - router freshly initialised, normal(0, 0.02),
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: upcycle_dense15000_e32top8_noaux_rewarm200 — AI Model Specs and Access | AXON//RADAR <https://axonradar.netlify.app/models/upcycle-dense15000-e32top8-noaux-rewarm200--SklSVS1XL3VwY3ljbGVfZGVuc2UxNTAwMF9lMzJ0b3A4X25vYXV4X3Jld2FybTIwMA>
-   coverage: Upcycling Large Language Models into Mixture of Experts <https://arxiv.org/html/2410.07524>
-   coverage: Sparse Upcycling: Inference Inefficient Finetuning <https://doi.org/10.48550/arxiv.2411.08968>
-   coverage: Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints [Quick Review] <https://liner.com/review/sparse-upcycling-training-mixtureofexperts-from-dense-checkpoints>
 ## AtomicChat/SenseNova-Loop-9B-Preview-GGUF
    base_model: ['sensenova/SenseNova-Loop-9B-Preview']
    license: apache-2.0
@@ -148,14 +105,26 @@ window: created >= 2026-10-28T17:05Z, 3473 models; top 25 distinct families, qua
    coverage: SenseNova Loop 9B Hands-On: Looped Multimodal Model Tested | MindStudio <https://www.mindstudio.ai/blog/sensenova-loop-9b-hands-on-review>
    coverage: SenseNova-Loop-9B: SenseTime’s Open Model Runs Its Middle Layers Twice. What That Means for Smaller AI - AIImpish <https://www.aiimpish.com/2026/11/03/sensenova-loop-9b-preview-looped-open-model/>
    coverage: SenseNova-Loop-9B: SenseTimes offenes KI-Modell rechnet 24 Schichten doppelt - Dr. Web <https://www.drweb.de/sensenova-loop-9b-sensetime-ki-modell/>
-## dendriteholdings/Ingot-XVI-27B-Q2
-   base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
-   license: None
-   params: None
-   excerpt: A public mirror of a model that won on Ingot, a Bittensor subnet where miners quantize a fixed teacher model and the validator crowns the copy that stays closest to it. It is Prism ML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf), refined: the same ternary codes, with the rest of its weights re-tuned by the miner to bring it closer to Qwen3.8-27B. - Submitted by miner hotkey `5Dk7ZFG5LkPnV7Qaar7uLr1cy9LHDo3Uc92mLwVrSfjEA7DG` (uid 239) - Crowned from submission `59e3d53b-6602-4ad7-aee9-99d0c2c95e57` The weights are the miner's upload, byte for byte (`Ingot-
+## ccore/Qwen3.5-4B-GLB-3D-Coder
+   base_model: Qwen/Qwen3.5-4B
+   license: apache-2.0
+   params: 4539265536
+   excerpt: **CCORE GLB-3D-Coder** is a specialized **4B coding model** for low-poly game assets and procedural scenes. Describe a character, prop, building, or environment, and the model writes a complete **Three.js HTML/JavaScript page** with a preview and an **Export GLB** button. Open the page, inspect the result, and export the asset for **Godot or another editor that supports GLB**. **CCORE project release · November 5, 2026 · Apache 2.0** Repository: `ccore/Qwen3.5-4B-GLB-3D-Coder` · Checkpoint: latest uploaded This independently developed CCORE model was trained using [Qwen/Qwen3.5-4B](https://hug
    card_api_mentions: []
    api_providers_live: none
-   coverage: dendriteholdings/Ingot-XVI-27B-Q2 downloads: daily history and stats · Model Pulse <https://modelpulse.ifsp.dev/model/dendriteholdings/Ingot-XVI-27B-Q2>
+   coverage: 🧪 Missing a tree in Godot? Qwen3.5-4B-GLB-3D-Coder, a tiny 4B model built just for GLB assets｜Local AI Lab - Mark Ku's Tech Notes <https://blog.markkulab.net/en/local-ai-lab/local-ai-lab-2026-11-03>
+   coverage: Qwen3.5-4B-GLB-3D-Coder: A Small Model That Builds Game Assets | MindStudio <https://www.mindstudio.ai/blog/qwen3-5-4b-glb-3d-coder-model>
+   coverage: Qwen3.5-4B-GLB-3D-Coder: Run This Local Model for Game Assets | MindStudio <https://www.mindstudio.ai/blog/qwen3-5-4b-glb-3d-coder-local>
+## therickcain/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF
+   base_model: ['Qwen/Qwen3.8-27B']
+   license: apache-2.0
+   params: None
+   excerpt: **RVN** is a double-refined abliterated variant of **Qwen3.8-27B**, built on top of [`trohrbaugh/Qwen3.8-27B-heretic-ara`](https://huggingface.co/trohrbaugh/Qwen3.8-27B-heretic-ara) (an ARA abliteration by **Tim Rohrbaugh**) and further refined with **two additional full-weight ARA passes** targeting residual refusals. It retains very low behavioral damage (KL ≈ 0.0085) while reducing harmful-prompt refusals from 3/100 (source) to **0–1/100** in independent measurements. > **Note on this repository's history.** This repo previously hosted the original > `Qwen3.8-27B-Heretic-Q4_K_M.gguf` (singl
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Qwen3.8-27B Abliteration Benchmarks: 8 Variants Compared | Abliterlitics <https://abliterlitics.dev/models/qwen38-27b/>
+   coverage: 0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored - abliteration.org <https://abliteration.org/models/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored>
+   coverage: I Tried an "Uncensored" Model: Technique, Tests, and Questions - AITalk <https://aitalk.it/en/qwen38-27b-uncensored-en>
 ## dendriteholdings/Ingot-XVII-27B-Q2
    base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
    license: apache-2.0
@@ -164,16 +133,6 @@ window: created >= 2026-10-28T17:05Z, 3473 models; top 25 distinct families, qua
    card_api_mentions: []
    api_providers_live: none
    coverage: dendriteholdings/Ingot-XVII-27B-Q2 downloads: daily history and stats · Model Pulse <https://modelpulse.ifsp.dev/model/dendriteholdings/Ingot-XVII-27B-Q2>
-## ccore/Qwen3.5-4B-GLB-3D-Coder
-   base_model: Qwen/Qwen3.5-4B
-   license: apache-2.0
-   params: None
-   excerpt: A **4B coding model** that generates standalone **Three.js HTML/JavaScript scenes with GLB export**, for use in editors such as **Godot**. An independent **CCORE preview** based on [Qwen/Qwen3.5-4B](https://huggingface.co/Qwen/Qwen3.5-4B). This is not an official Qwen release. **Latest GGUF update: November 2, 2026 at 04:50 UTC.** Both Q4_K_M and Q8_0 were replaced with a newer checkpoint, with substantially better visual quality in my tests. Sampling settings and the system prompt are unchanged. **If you downloaded a GGUF before that timestamp, delete the old copy and download it again in LM 
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: 🧪 Missing a tree in Godot? Qwen3.5-4B-GLB-3D-Coder, a tiny 4B model built just for GLB assets｜Local AI Lab - Mark Ku's Tech Notes <https://blog.markkulab.net/en/local-ai-lab/local-ai-lab-2026-11-03>
-   coverage: Qwen3.5-4B-GLB-3D-Coder: A Small Model That Builds Game Assets | MindStudio <https://www.mindstudio.ai/blog/qwen3-5-4b-glb-3d-coder-model>
-   coverage: Qwen3.5-4B-GLB-3D-Coder: Run This Local Model for Game Assets | MindStudio <https://www.mindstudio.ai/blog/qwen3-5-4b-glb-3d-coder-local>
 ## huihui-ai/Huihui-GLM-5.3-abliterated-GGUF
    base_model: zai-org/GLM-5.3
    license: mit
@@ -193,16 +152,6 @@ window: created >= 2026-10-28T17:05Z, 3473 models; top 25 distinct families, qua
    coverage: dendriteholdings/Ingot-XVIII-27B-Q2 downloads: daily history and stats · Model Pulse <https://modelpulse.ifsp.dev/model/dendriteholdings/Ingot-XVIII-27B-Q2>
    coverage: Bonsai 2 27B Tested: Does the 98% Benchmark Claim Hold Up? | MindStudio <https://www.mindstudio.ai/blog/bonsai-2-27b-real-world-test>
    coverage: Ternary Bonsai 2 27B: a 27B reasoning model in 6 GB that keeps 98% on Prism ML's tests | InferenceKey <https://inferencekey.com/news/bonsai-2-27b-in-six-gigabytes>
-## bartowski/HemmingwayAI_Hemmingway-1.5-GGUF
-   base_model: HemmingwayAI/Hemmingway-1.5
-   license: cc-by-nc-4.0
-   params: None
-   excerpt: Using <a href="https://github.com/ggml-org/llama.cpp/">llama.cpp</a> release <a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11969">b11969</a> for quantization. Original model: https://huggingface.co/HemmingwayAI/Hemmingway-1.5 **Model details:** - Parameter count: 27B (source checkpoint) - Input support: text - Speculative decoding: yes (MTP) - [details](#mtp) - imatrix: yes - [details](#imatrix) [How to run](#how-to-run) Reasoning effort is set to xhigh. Please think carefully through the task, validate key assumptions, consider plausible alternatives, and prioritize correctness
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Hemmingway-1.5: the writing model that passes AI detectors <https://hemmingway.io/blog/hemmingway-1-5/>
-   coverage: Hemmingway-1.5 model card · Hemmingway <https://hemmingway.io/model/>
-   coverage: Hemmingway-1.5 — slm.expert <https://slm.expert/models/hemmingway-1-5/>
 ## miceworks/Mark-SLM-V3-150M
    base_model: None
    license: agpl-3.0
@@ -230,6 +179,24 @@ window: created >= 2026-10-28T17:05Z, 3473 models; top 25 distinct families, qua
    card_api_mentions: []
    api_providers_live: none
    coverage: INGOT <https://www.theingot.ai/>
+## bartowski/Diffuspace_Clover-35B-A3B-Preview-GGUF
+   base_model: Diffuspace/Clover-35B-A3B-Preview
+   license: apache-2.0
+   params: None
+   excerpt: Using <a href="https://github.com/ggml-org/llama.cpp/">llama.cpp</a> release <a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12074">b12074</a> for quantization. Original model: https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview **Model details:** - Parameter count: 35B (source checkpoint) - Input support: text - Speculative decoding: no - imatrix: yes - [details](#imatrix) [How to run](#how-to-run) {system_prompt}<|im_end|> {prompt}<|im_end|> You have access to the following functions: {"type": "function", "function": {"name": "get_stock_price", "description": "Get the curre
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Is Clover-35B-A3B-Preview Any Good? Diffusion LLM Tested <https://goremy.ai/blog/articles/clover-35b-a3b-preview-diffusion-llm-review>
+   coverage: Clover-35B-A3B-Preview review: pricing and verdict (2026) <https://www.reviewramble.com/models/clover-35b-a3b-preview>
+   coverage: Clover-35B-A3B-Preview · DiffuSpace <https://diffuspace.ai/blog/clover-35b/>
+## BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-v2-PTQ1_0-GGUF
+   base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
+   license: apache-2.0
+   params: None
+   excerpt: The v2 fix in PrismML's 1.75-bpw PTQ1_0 pack: the same edit as [v2 PQ2_0](https://huggingface.co/BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-v2-PQ2_0-MTP-GGUF), repacked into the smaller format. It needs [PrismML's llama.cpp fork](https://github.com/PrismML-Eng/llama.cpp); mainline llama.cpp, Ollama and LM Studio builds without PTQ1_0 support will not load it. **v2 is built to be run with thinking on.** v1 often wrote its whole answer inside its reasoning and ran out of budget before handing it over. v2 changes one row of the output layer so the model closes its reasoning once the answer is
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Ternary-Bonsai-2-27B — FreshContext benchmarks <https://freshcontext.io/benchmarks/models/ternary-bonsai-2-27b/>
 ## SC117/Sage-A1.5-abliterated-MTP-FIT-GGUF
    base_model: InternScience/Sage-A1.5
    license: apache-2.0
@@ -259,33 +226,6 @@ window: created >= 2026-10-28T17:05Z, 3473 models; top 25 distinct families, qua
    coverage: SilentVision 0.052B — VRAM 0.63GB | RodarIA <https://www.rodar.ia.br/modelo/silentvision-52m-0-052b>
    coverage: Open-Source Model Evaluation Checklist for CTOs <https://vector-labs.ai/insights/the-open-source-model-evaluation-checklist-ctos-are-missing-before-they-commit-to-a-stack>
    coverage: Seeing is Believing: Benchmarking and Mitigating the Interference of Language Priors on Visual Perception in MLLMs · Pith <https://pith.science/paper/2610.21902>
-## mradermacher/Gemory-26B-A4B-SOMPOA-i1-GGUF
-   base_model: 26B-Suite/Gemory-26B-A4B-SOMPOA
-   license: apache-2.0
-   params: None
-   excerpt: weighted/imatrix quants of https://huggingface.co/26B-Suite/Gemory-26B-A4B-SOMPOA ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#Gemory-26B-A4B-SOMPOA-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/Gemory-26B-A4B-SOMPOA-GGUF **This is a vision model - mmproj files (if any) will be in the [static repository](https://huggingface.co/mradermacher/Gemory-26B-A4B-SOMPOA-GGUF).** If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggingface.co/TheBloke/KafkaLM-70B-German
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Gemory-26B-A4B-SOMPOA — Abliterated Model Card <https://abliteratedmodels.org/gemory-26b-a4b-sompoa/>
-   coverage: Choosing an abliterated version of Gemma 4 31B and 26B-A4B : r/LocalLLaMA <https://www.reddit.com/r/LocalLLaMA/comments/1tm5c92/choosing_an_abliterated_version_of_gemma_4_31b/>
-## DICPlay/RusMind-Vspyshka-4.7
-   base_model: None
-   license: other
-   params: 7996156490
-   excerpt: *Будущее уже сегодня!* **Национальный ИИ от DICPlay.** №2 среди всех моделей до 10 млрд параметров в независимом бенчмарке MERA v2 — 0,191, сразу после RusMind Сокол. Работает прямо на устройстве, без интернета: на мощных ПК, ноутбуках и флагманских телефонах. [Попробовать RusMind на rusmind.ru](https://rusmind.ru) · Русский и английский --- - лучшая Вспышка в MERA v2: 0,191 — на 18 % выше Вспышки 4.5; - Сокол и Вспышка — №1 и №2 среди моделей до 10 млрд параметров по общему баллу, рассуждениям, культуре России и пониманию людей; - понимает людей лучше T-pro от Т-Банка — модели на 33 млрд пара
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Run RusMind-Vspyshka-4.7 API (Easy Deployment & Flat-Rate Pricing) <https://featherless.ai/models/DICPlay/RusMind-Vspyshka-4.7>
-   coverage: DICPlay/RusMind-Vspyshka-4.7 — Downloads, Growth & Stats | OpenModelStats <https://openmodelstats.com/models/dicplay/rusmind-vspyshka-4.7>
-   coverage: DICPlay/RusMind-Vspyshka-4.7 — Downloads, Growth & Stats | OpenModelStats <https://openmodelstats.com/models/dicplay/rusmind-vspyshka-4.7?mode=recent>
-## BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-v2-PTQ1_0-GGUF
-   base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
-   license: apache-2.0
-   params: None
-   excerpt: The v2 fix in PrismML's 1.75-bpw PTQ1_0 pack: the same edit as [v2 PQ2_0](https://huggingface.co/BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-v2-PQ2_0-MTP-GGUF), repacked into the smaller format. It needs [PrismML's llama.cpp fork](https://github.com/PrismML-Eng/llama.cpp); mainline llama.cpp, Ollama and LM Studio builds without PTQ1_0 support will not load it. **v2 is built to be run with thinking on.** v1 often wrote its whole answer inside its reasoning and ran out of budget before handing it over. v2 changes one row of the output layer so the model closes its reasoning once the answer is
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Ternary-Bonsai-2-27B — FreshContext benchmarks <https://freshcontext.io/benchmarks/models/ternary-bonsai-2-27b/>
 ## dendriteholdings/Ingot-XXI-27B-Q2
    base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
    license: None
@@ -307,13 +247,74 @@ window: created >= 2026-10-28T17:05Z, 3473 models; top 25 distinct families, qua
    coverage: How to Run LFM3-1.7B Locally and What It Can Actually Do <https://goremy.ai/blog/articles/liquid-ai-lfm3-1-7b-run-locally-tested>
    coverage: Update on Small Models: LFM3 1.7B [2026] - Dot Net Perls Blog <https://www.dotnetperls.com/2026_10_28_update-small-models-lfm3-1-7b>
    coverage: Introducing LFM3: Every Modality for Specialized Intelligence <https://www.liquid.ai/blog/lfm3>
-## TypeScript/FastBrain-9B
-   base_model: Cloudflare/clef-flash
-   license: apache-2.0
-   params: 9409813744
-   excerpt: **Non-Autoregressive System-1 Structured Decision Model (`9.4B` Parameters)** **FastBrain-9B** (`9.4B` total parameters: `Qwen3.5-9B` hybrid backbone + `116M` `JointSchemaHead`) is a single-forward-pass, non-autoregressive **System-1 structured decision model**. Given an arbitrary JSON state and one or more structured decision schemas (`choice`, `noul` binary verification, or `score` ranking), **FastBrain-9B** evaluates all candidate options and questions **jointly in a single forward pass (`0` generated tokens)**—delivering calibrated option probabilities, tool-call selections, and open-set a
+## dendriteholdings/Ingot-XXIII-27B-Q2
+   base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
+   license: None
+   params: None
+   excerpt: A public mirror of a model that won on Ingot, a Bittensor subnet where miners quantize a fixed teacher model and the validator crowns the copy that stays closest to it. It is Prism ML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf), refined: the same ternary codes, with the rest of its weights re-tuned by the miner to bring it closer to Qwen3.8-27B. - Submitted by miner hotkey `5EWudsnDrrw3GDQRrmjx4jdv1MKeVYTh5tsqy8RZbrHU6mX9` (uid 77) - Crowned from submission `ee16c0fa-9f10-4b67-904e-ef571131588f` The weights are the miner's upload, byte for byte (`Ingot-X
    card_api_mentions: []
    api_providers_live: none
-   coverage: TypeScript/FastBrain-9B — Downloads, Growth & Stats | OpenModelStats <https://openmodelstats.com/models/typescript/fastbrain-9b>
-   coverage: HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection <https://pujiayue.github.io/homesafe-bench.github.io/>
-   coverage: HomeSafe-Bench: VLM Safety Evaluation <https://www.emergentmind.com/papers/2603.11975>
+   coverage: INGOT <https://www.theingot.ai/>
+## Abiray/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-Coder-GGUF
+   base_model: ['ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF']
+   license: mit
+   params: None
+   excerpt: This repository provides a **zero-loss uncensored (abliterated)** build of [`ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF`](https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF), created via surgical tensor transplantation from [`AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GGUF`](https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GGUF). Standard abliteration methods often require dequantizing and re-quantizing model weights, which degrades the specialized Gumbel-Softmax Quantization (`GSQ-RCO`) calibration used by ISTA-DASLab. To preve
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Our evaluation of DeepSeek V4.1 Flash 1017 Uncensored | MindFort Blog <https://www.mindfort.ai/blog/our-evaluation-of-deepseek-v4-1-flash-1017-uncensored>
+   coverage: GSQ-RCO DeepSeek V4.1 Flash Fact-Check: What Holds Up <https://microaione.com/en/community/gsq-rco-deepseek-v41-uncensored-fact-check-en/>
+## dendriteholdings/Ingot-XXIV-27B-Q2
+   base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
+   license: None
+   params: None
+   excerpt: A public mirror of a model that won on Ingot, a Bittensor subnet where miners quantize a fixed teacher model and the validator crowns the copy that stays closest to it. It is Prism ML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf), refined: the same ternary codes, with the rest of its weights re-tuned by the miner to bring it closer to Qwen3.8-27B. - Submitted by miner hotkey `5DfWFCazEuUr2WFiZMETv98xM96cS6nCWNKQYXnGQeLtVcfG` (uid 8) - Crowned from submission `93597c6b-7120-49eb-b211-7ef8d3bd0c1c` The weights are the miner's upload, byte for byte (`Ingot-XX
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: INGOT <https://www.theingot.ai/>
+   coverage: INGOT · dashboard <https://theingot.ai/dashboard.html>
+## VaibhavKKM/hpc-assistant-qwen3-8b
+   base_model: Qwen/Qwen3-8B
+   license: apache-2.0
+   params: 8190735360
+   excerpt: Qwen3-8B distilled from larger Qwen models for HPC and Slurm questions by the recipe of the 4B release VaibhavKKM/hpc-assistant-qwen3-4b. Published run: e8_all. Answer data: Qwen3-235B-A22B-Instruct-2507; `e8_both` adds a thinking stage from q397fp8 (final text only, no soft targets). Thinking is switched with the chat template argument `enable_thinking` (on by default). Scores are means of the sets v2, v3 and d1, with thinking on unless noted. Thinking off, this model is about level with the 4B; thinking on gives the gain. Retriever f is not clearly better overall (the gap is inside the noise
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: hpc-assistant-qwen3-8b — HF//RADAR <https://radar-huggingface.686f6c61.dev/models/vaibhavkkm-hpc-assistant-qwen3-8b>
+   coverage: hpc-assistant-qwen3-8b — AI Model Specs and Access | AXON//RADAR <https://axonradar.netlify.app/models/hpc-assistant-qwen3-8b--VmFpYmhhdktLTS9ocGMtYXNzaXN0YW50LXF3ZW4zLThi>
+## dendriteholdings/Ingot-XX-27B-Q2
+   base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
+   license: None
+   params: None
+   excerpt: A public mirror of a model that won on Ingot, a Bittensor subnet where miners quantize a fixed teacher model and the validator crowns the copy that stays closest to it. It is Prism ML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf), refined: the same ternary codes, with the rest of its weights re-tuned by the miner to bring it closer to Qwen3.8-27B. - Submitted by miner hotkey `5CLmyU5baj7xnMbf93Bsc4cFKYMvEM6u3szhcWiT9GHdtU2k` (uid 227) - Crowned from submission `4b079f26-4d8e-4964-9448-c654f4437cad` The weights are the miner's upload, byte for byte (`Ingot-
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: dendriteholdings/Ingot-XX-27B-Q2 downloads: daily history and stats · Model Pulse <https://modelpulse.ifsp.dev/model/dendriteholdings/Ingot-XX-27B-Q2>
+## mulkzz/RuBio-4B
+   base_model: Qwen/Qwen3.5-4B
+   license: apache-2.0
+   params: 4659865088
+   excerpt: `mulkzz/RuBio-4B`는 고등학교 2022 개정 『생명과학』 대단원 Ⅰ–Ⅲ 서술형 문항의 학생 답안을 평가 기준별로 진단하고, 교사용 진단 정보와 학생용 피드백을 단일 JSON 객체로 출력하는 모델입니다. [Qwen/Qwen3.5-4B](https://huggingface.co/Qwen/Qwen3.5-4B)에 LoRA를 학습한 뒤 가중치를 병합한 16비트(`bf16`) 전체 모델입니다. - **시범 서비스**: https://mulk.codes/rubio (RuBio-4B · RuBio-27B 운영 중) - **상위 모델**: [mulkzz/RuBio-27B](https://huggingface.co/mulkzz/RuBio-27B) - **관련 모델**: [mulkzz/RuBio-8B](https://huggingface.co/mulkzz/RuBio-8B) · [mulkzz/RuBio-9B](https://huggingface.co/mulkzz/RuBio-9B) > **Fig. 1 | RuBench v1 (dev 분할, n = 200 답안 · 604 평가 기준)에서 RuBio-4B v2(`mulkzz/RuBio-4B@ba9e00c8`)와 기본 모델 
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Run RuBio-4B API (Easy Deployment & Flat-Rate Pricing) <https://featherless.ai/models/mulkzz/RuBio-4B>
+   coverage: RuBio-4B — AI Model Specs and Access | AXON//RADAR <https://axonradar.netlify.app/models/rubio-4b--bXVsa3p6L1J1QmlvLTRC>
+   coverage: bartowski/mulkzz_RuBio-4B-GGUF — Downloads, Growth & Stats | OpenModelStats <https://openmodelstats.com/models/bartowski/mulkzz_rubio-4b-gguf>
+## bartowski/Mellum2.1-12B-A2.5B-Thinking-MTP-GGUF
+   base_model: JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP
+   license: apache-2.0
+   params: None
+   excerpt: Using <a href="https://github.com/ggml-org/llama.cpp/">llama.cpp</a> release <a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11969">b11969</a> for quantization. Original model: https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP **Model details:** - Parameter count: 13B (source checkpoint) - Input support: text - Speculative decoding: yes (MTP) - [details](#mtp) - imatrix: yes - [details](#imatrix) [How to run](#how-to-run) {system_prompt}<|im_end|> {prompt}<|im_end|> {system_prompt} You may call one or more functions to assist with the user query. You are provided w
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: JetBrains releases Mellum2.1 Thinking with an MTP head for speculative decoding in vLLM <https://newruntime.com/posts/jetbrains-releases-mellum2-1-thinking-with-an-mtp-417372/>
+   coverage: Mellum2.1-12B-A2.5B-Thinking-MTP: size, context and GPU memory | Aiqre <https://aiqre.com/models/jetbrains-mellum21-12b-a25b-thinking-mtp/>
+## mulkzz/RuBio-27B
+   base_model: Qwen/Qwen3.8-27B
+   license: apache-2.0
+   params: 27781427952
+   excerpt: `mulkzz/RuBio-27B`는 고등학교 2022 개정 『생명과학』 대단원 Ⅰ–Ⅲ 서술형 문항의 학생 답안을 평가 기준별로 진단하고, 교사용 진단 정보와 학생용 피드백을 단일 JSON 객체로 출력하는 모델입니다. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)에 LoRA를 학습한 뒤 가중치를 병합한 16비트(`bf16`) 전체 모델(약 55.6GB, `safetensors` 18개 합 55.56GB)입니다. 2026-11-04부터 `main` 브랜치 가중치는 **RuIso-v6** 보강 데이터로 재학습한 `27b-v6-s3407`(시드 3407, 리비전 `c1cfefdb`; 이 카드와 같은 커밋에서 `ruiso-v6` 브랜치의 가중치를 `main`으로 옮김)입니다. 이전 공개 가중치(옛 `main`)는 `revision="29a5152a"`로 계속 받을 수 있습니다. - **시범 서비스**: https://mulk.codes/rubio (RuBio-4B · RuBio-27B 운영) - **관련 모델**: [mulkzz/RuBio-4B](https://huggingface.co/mulkzz/RuBi
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Run RuBio-27B API (Easy Deployment & Flat-Rate Pricing) <https://featherless.ai/models/mulkzz/RuBio-27B>
+   coverage: Qwen3.8-27B: the best local LLM you probably can't run | Thomas Wiegold Blog <https://thomas-wiegold.com/blog/qwen-3-8-27b-best-local-llm/>
