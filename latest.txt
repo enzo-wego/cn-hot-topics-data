@@ -1,88 +1,71 @@
 ===== V2EX HOT =====
-1. [生活] 马上结婚了，但是吵架了！  (315 replies)
-    ## 背景：  女朋友对我很好，人也很好，经常给我买东西，我给她买的东西有，但没有她给我买的多 平时住在一起，大的花销一般是我出，但是最后出的应该也差不多，没太计较这个  彩礼、三金：说的是 18.8w ，反正多少来着，没记清，我转给女朋友 20 万。  马上结婚了，因为时间比较急，还没有买三金，婚礼也是在村里办的，也能省一些钱  订婚，彩礼的主要花费都是我出，我父母没出，他们没啥钱，但是也不想着多赚些钱，他们出了家里的酒席钱，车队、旅馆。  我父母没出钱，一方面是因为他们没啥钱，另一方面也是我觉着他们没啥钱，留点钱有安全感，不太想
-    https://www.v2ex.com/t/1256055
-2. [程序员] 大模型千千万，为什么非要用 Claude？  (189 replies)
-    ## 不理解，实在不理解...  如题，大模型千千万，包括国外的 GPT 、Gemini 、Grok 等，国内的 Qwen 、DeepSeek 、GLM 、Kimi 、豆包等，为什么非要去买敌意这么大的 Claude ？动不动封号，钱也不退。
-    https://www.v2ex.com/t/1256081
-3. [推广] [求关注]建立了一个 TG 频道 A 股资讯自动发布，回复这个帖子前 100 名送铜币  (114 replies)
-    **内容如下：**  做了一个 Telegram 的 Bot ，每天早上会定时发布早盘情报，每小时会发布要闻，收盘发布总结。   📊 StockClaw ｜ A 股情报与复盘 早盘看重点，盘后看主线。 每日整理重要新闻、题材变化、涨停天梯与全球 Top10 ，附来源与相关题材。 👉 https://t.me/stockclawa    ------ 当前账户余额： <div style="font-size: 14px;d">30<img src="https://www.v2ex.com/static/img/silver@2x.
-    https://www.v2ex.com/t/1256107
-4. [生活] 双十一名存实亡  (108 replies)
-    rt 现在的双十一太平淡了 还记得早些年，10 号晚上 20 点左右以及 24 点左右盯着手机付款！
-    https://www.v2ex.com/t/1256030
-5. [职场话题] 32 岁后端程序员，准备拿 N+1 离职了  (103 replies)
-    坐标北京，快 32 岁，Java 后端开发 7 年多，在目前这家公司待了快 5 年  入职的时候是公司巅峰，然后就是漫长的‘阴跌’，工作成长空间有限，加班也比较多。  其实早就有离开的想法，只是一直没有下定决心。  而且现在每月开始强制打低绩效了，下班了都不走，硬卷。  最近公司有裁员计划，领导提到可以帮忙争取 N+1 。  考虑之后，我已经明确表达了离开的意愿，目前还在等后续流程。  家里有老婆孩子，主要靠我一份收入。虽然有一定积蓄，但很久没参加面试了，算法和八股文也需要重新准备，也不知道能不能找到工作。  说实话，对未来还
-    https://www.v2ex.com/t/1256051
-6. [程序员] 工作和未来困境，大龄码农该何去何从  (89 replies)
-    前情： 三十八线小城市，人口大概 1-200w(包括下面的县市和农村)，本地主要以工业工厂为主，经济低迷。自己年龄三十出头，有一个刚出生的儿子，老婆还在休息。最近公司工资开始延期，原因说是回款问题(往好了想是暂时还没说不发)，眼看"可能"再过半年一年就不太行了。受到 ai 影响，本地可能找不到目前需要的工资(1w+)。  我对这个行业整体持悲观态度，感觉一个实习或者刚毕业的学生+ai ，就赶得上我目前的水平了(Java 开发工作 7 年+)。不仅仅是目前，对于未来何去何从，心里有一个大大的问号。  我想了想自己的出路，有下面这么几条：  1
-    https://www.v2ex.com/t/1256042
-7. [分享创造] SSHYard 已正式发布 V1.0.0 - 高颜值纯原生 SSH 客户端，功能齐全且体积非常小，随楼抽 50 位评论者每位赠送 50 个$v2ex  (83 replies)
-    ## 介绍 SSHYard 是一款免费开源的 SSH / SFTP 客户端，支持 macOS 、Windows 和 Linux ，在终端里操作、管理远程文件等，再让 AI 助手直接在主机上帮你工作，一个窗口全部搞定。  本软件是纯 Go 编写的（基于 MyGO)，而且纯原生渲染，无任何 WebView 等，速度和占用都很不错，欢迎使用体验和反馈！  ## 开源地址 - 官方网站： https://sshyard.com  - 开源地址： https://github.com/Licoy/sshyard  ## 功能  - **终端
-    https://www.v2ex.com/t/1256021
-8. [问与答] 想买 switch 了 是买 1 还是 2？  (83 replies)
-    想玩这些  1. 平时和女朋友在家玩玩体感游戏 2. 野炊 3. 暗黑刷刷刷
-    https://www.v2ex.com/t/1256038
-9. [程序员] 最近秋招陆陆续续面了一堆应届生，说点感受  (72 replies)
-    整体水平是真的高。CCF A 一作的不少，两段大厂实习基本是标配，而且实习都是实打实做过东西的，能讲出细节。聊业务、聊领域、聊 Agent 怎么搭、评测怎么做，回答得全面也有自己的思考，简历和表达都比我们当年强很多。  但稍微往底层问一点，问题就出来了：  - LLM 接口的 token 分几类、计费为什么不一样，说不清楚 - prefill 和 decode 分别在做什么，说不清楚 - QKV 的八股答得很漂亮，但往下追问 KV cache 存的是什么、长上下文为什么慢，基本就答不上了  现在的学校有点像一场军备竞赛：  - 老师用
-    https://www.v2ex.com/t/1256189
-10. [生活] 家人们，我失恋了  (71 replies)
-    好像失去了支撑，现在在工位，回家也是一个人，工作没有什么盼头，喜欢的人也没有了
-    https://www.v2ex.com/t/1256209
+1. [生活] 资金垫子铺完了！  (123 replies)
+    各位老哥大家好，今天我是兴高采烈啊。我是大专，26 年毕业了来深漂。 来的时候配置狠狠拉跨，那个时候支付宝欠了几千块钱，随后又问朋友借了 3000 块钱。手里除了这-3000 没有任何现钱。 4 月 9 日，我找到一个工作，结果那个工作带上老板带上我总共 3~4 个人。写代码的，干了两周就跑路了。 当时住在青旅里面，一天 50 元。青旅大家知道的，总会遇到有意思的人，老板给我价格减到 43 。这样我手头的钱总算能坚持到发工资了。那个时候我心里还很忐忑：这个工作室太小了，有点像是发不出来工资的呀。索性工资顺利到账。让我又苟了两个星期，那个时候我也抑郁
+    https://www.v2ex.com/t/1256423
+2. [生活] 31 岁男前来讨教 V 吧老哥备孕秘籍  (122 replies)
+    如题，不知道 V 吧老哥们会不会有备孕技巧。还是说干就完了！ 31 岁男，32 岁女，正准备开始备孕，目标六个月怀上。
+    https://www.v2ex.com/t/1256329
+3. [问与答] 一年前给小电驴装的监控，终于派上用场了，成功拍到偷头盔的全过程  (112 replies)
+    我去年发的帖子： [给我的小电驴装了一个监控，再也不怕被偷头盔了]( https://www.v2ex.com/t/1122268)  当时因为头盔上蓝牙耳机被偷，一气之下自己动手改装了一套哨兵系统。  没想到一年半后，终于等来了实战机会 😂  昨天晚上 6 点左右，放在电动车踏板上的头盔+蓝牙耳机，又被人顺走了。  导致我顶着寒风骑回家，冻成孙子了。前前后后花 5 个小时忙活这个事情（回老家拿头盔+翻监控+报案）  已经第一时间报警并且提交监控材料了，帽子叔叔说分分钟拿下，现在就坐等拿回财物了。  现场截图： ![电动车监控
+    https://www.v2ex.com/t/1256357
+4. [程序员] 被领导叫去涨薪了  (105 replies)
+    虽然只加了 2K ，但是也很开心啊  最近 V 站工作贴一片灰暗，给 V 友一些希望
+    https://www.v2ex.com/t/1256525
+5. [问与答] 咸鱼怎么卖东西，好多东西挂了许久也卖不出去，只有购买记录，售出记录屈指可数  (88 replies)
+    https://i.imgur.com/VN7vbGJ.png  https://i.imgur.com/ObHvBCp.png   图示举例如上，佬们有啥好办法或新思路
+    https://www.v2ex.com/t/1256332
+6. [问与答] 不知道的迷信，它生效吗？  (69 replies)
+    预告：我知道这可能是一个比较具有争议性的问题，我先说明，我很叛逆。  ---  这篇文章始于一个问题：一个月前外公走了，两个月后我能参加好友的婚礼吗？  我的观点是，**只要我不告诉对方，我开心地去参加，那毫无问题**。我跟另一个人讨论这个问题，他表示强烈反对：对方有知情权，有的人就很在意，你不说就会影响到人家，你就是素质低。  我首先就问了，我不说，到底怎么影响到别人？对方说问就是玄学。但是这里面确实有一个值得玩味的问题。  **如果对方不知道，这个迷信成立吗？**  对于一些近乎疯狂的“玄学爱好者”，他们会觉得不行，不行的！会
+    https://www.v2ex.com/t/1256363
+7. [程序员] 佬们，工资太低想跳槽，该准备什么？  (67 replies)
+    校招进的国企，可是工资太低了，而且没有涨的希望，准备跳槽了 目前就是时间宽松，早九晚六，上班的时候也能刷两道力扣的题 下班了就准备软考高级
+    https://www.v2ex.com/t/1256427
+8. [酷工作] 济南初级程序员几个月没招不到人，不是说行情不好，都不好找工作吗？  (63 replies)
+    公司几个月没招到合适的人，最近我在几个程序员交流群、小红书，包括本站发了帖子，询问的人寥寥，不到十人，并且全是非统招本科。  难道所谓的行情不好，是大专和大龄的才行情不好？  招个本科的初级小伙，太难了。   [济南招聘｜ Java 2-5 年初级开发工程师｜ 8-11K ｜氛围轻松，适合摸鱼养老]( https://www.v2ex.com/t/1254673?utm_source=chatgpt.com#reply5)
+    https://www.v2ex.com/t/1256509
 
 ===== XUEQIU HOT STOCKS (opencli; rebang.vip topics as fallback) =====
-1 闪迪 SNDK 15.86% @ 996.38 热度：17299  [RISING 7007→17299 since 2026-11-11]  https://xueqiu.com/S/SNDK
-2 英伟达 NVDA 4.38% @ 176.285 热度：15692  https://xueqiu.com/S/NVDA
-3 美光科技 MU 13.43% @ 822.46 热度：9710  https://xueqiu.com/S/MU
-4 CoreWeave CRWV 25.30% @ 61.0599 热度：7908  [NEW]  https://xueqiu.com/S/CRWV
-5 SK海力士 SKHY 11.97% @ 145.185 热度：7752  https://xueqiu.com/S/SKHY
-6 Lumentum控股 LITE 14.52% @ 670.58 热度：6798  https://xueqiu.com/S/LITE
-7 中际旭创 SZ300308 15.07% @ 542 热度：4613  [RISING 2151→4613 since 2026-11-11]  https://xueqiu.com/S/SZ300308
-8 英特尔 INTC 9.53% @ 63.67 热度：4280  [RISING 2463→4280 since 2026-11-11]  https://xueqiu.com/S/INTC
+1 英伟达 NVDA -5.07% @ 164.93 热度：57990  [RISING 15692→57990 since 2026-11-12]  https://xueqiu.com/S/NVDA
+2 超威半导体 AMD 5.93% @ 585.6686 热度：15395  [RISING 7701→15395 since 2026-11-11]  https://xueqiu.com/S/AMD
+3 阿里巴巴 BABA -6.59% @ 94.83 热度：13554  [RISING 3220→13554 since 2026-11-11]  https://xueqiu.com/S/BABA
+4 闪迪 SNDK -3.54% @ 943.035 热度：9156  https://xueqiu.com/S/SNDK
+5 美光科技 MU -2.68% @ 789.53 热度：7116  https://xueqiu.com/S/MU
+6 Nebius Group NBIS -16.87% @ 128.5901 热度：6204  [NEW]  https://xueqiu.com/S/NBIS
+7 SK海力士 SKHY -3.43% @ 137.375 热度：4950  https://xueqiu.com/S/SKHY
+8 SpaceX SPCX 2.66% @ 143.47 热度：4810  [RISING 2840→4810 since 2026-11-11]  https://xueqiu.com/S/SPCX
 
 ===== HF TEXT-GEN NEW 7D (downloads desc, likes desc; re-uploads and quants folded) =====
-window: created >= 2026-11-04T17:05Z, 3277 models; top 25 distinct families, quants/re-uploads of a listed model shown as 'also:' under it
-1. AtomicChat/Ripple-65B-Preview-GGUF | downloads 86686 | likes 51 | created 2026-11-04 | https://huggingface.co/AtomicChat/Ripple-65B-Preview-GGUF
-   also: orcarouter/Ripple-65B-abliterated-GGUF | downloads 27326 | likes 17 | created 2026-11-06 | https://huggingface.co/orcarouter/Ripple-65B-abliterated-GGUF | repackages ricursiveAI/Ripple-65B-Preview
-   also: dealignai/Ripple-65B-Preview-UNCENSORED-GGUF | downloads 4171 | likes 2 | created 2026-11-07 | https://huggingface.co/dealignai/Ripple-65B-Preview-UNCENSORED-GGUF | repackages ricursiveAI/Ripple-65B-Preview
-2. ErtasAI/MedErtas-v0.1-31B-LS | downloads 58916 | likes 3 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-31B-LS | FLAG possibly inflated downloads (very few likes)
-3. kabcpc/Ternary-Flint-40B-GGUF | downloads 15093 | likes 2 | created 2026-11-07 | https://huggingface.co/kabcpc/Ternary-Flint-40B-GGUF | FLAG possibly inflated downloads (very few likes)
-4. local-inference-lab/Kimi-K3.1-Pro-EXL3-2bit | downloads 13357 | likes 2 | created 2026-11-05 | https://huggingface.co/local-inference-lab/Kimi-K3.1-Pro-EXL3-2bit | FLAG possibly inflated downloads (very few likes)
-   also: KarLexAI/Kimi-K3.1-Pro-GGUF | downloads 5142 | likes 6 | created 2026-11-08 | https://huggingface.co/KarLexAI/Kimi-K3.1-Pro-GGUF | repackages moonshotai/Kimi-K3.1-Pro
-5. aj9o9/Qwen3.8-27B-DSpine-b16-GGUF | downloads 12621 | likes 39 | created 2026-11-08 | https://huggingface.co/aj9o9/Qwen3.8-27B-DSpine-b16-GGUF
-6. dendriteholdings/Ingot-XXVII-27B-Q2 | downloads 10964 | likes 1 | created 2026-11-05 | https://huggingface.co/dendriteholdings/Ingot-XXVII-27B-Q2 | FLAG possibly inflated downloads (very few likes)
-7. minas2025/Qwen-3.5-9B-StupidChat-Uncensored | downloads 8996 | likes 3 | created 2026-11-05 | https://huggingface.co/minas2025/Qwen-3.5-9B-StupidChat-Uncensored
-8. dendriteholdings/Ingot-XXVIII-27B-Q2 | downloads 7227 | likes 0 | created 2026-11-07 | https://huggingface.co/dendriteholdings/Ingot-XXVIII-27B-Q2
-9. mradermacher/Qwen3.6-35B-A3B-Fable-5-Distill-heretic-i1-GGUF | downloads 6647 | likes 2 | created 2026-11-05 | https://huggingface.co/mradermacher/Qwen3.6-35B-A3B-Fable-5-Distill-heretic-i1-GGUF
-10. ReadyArt/Dark-Craving-26B-A4B-v3.0-GGUF | downloads 5917 | likes 11 | created 2026-11-06 | https://huggingface.co/ReadyArt/Dark-Craving-26B-A4B-v3.0-GGUF
-11. dendriteholdings/Ingot-XXX-27B-Q2 | downloads 5734 | likes 0 | created 2026-11-10 | https://huggingface.co/dendriteholdings/Ingot-XXX-27B-Q2
-12. dendriteholdings/Ingot-XXIX-27B-Q2 | downloads 5605 | likes 0 | created 2026-11-09 | https://huggingface.co/dendriteholdings/Ingot-XXIX-27B-Q2
-13. dendriteholdings/Ingot-XXXI-27B-Q2 | downloads 5395 | likes 0 | created 2026-11-10 | https://huggingface.co/dendriteholdings/Ingot-XXXI-27B-Q2
-14. zephel01/Ornith-1.5-397B-IQ2_XXS-32G128G-GGUF | downloads 5362 | likes 0 | created 2026-11-09 | https://huggingface.co/zephel01/Ornith-1.5-397B-IQ2_XXS-32G128G-GGUF
-15. OpceanAI/Qwen3.5-0.8B-abliterated-GGUF | downloads 5050 | likes 0 | created 2026-11-06 | https://huggingface.co/OpceanAI/Qwen3.5-0.8B-abliterated-GGUF
-16. Mungert/LFM3-1.7B-GGUF | downloads 4434 | likes 1 | created 2026-11-07 | https://huggingface.co/Mungert/LFM3-1.7B-GGUF
-17. mradermacher/Gemma-4-E2B-it-ARA-Abliterated-i1-GGUF | downloads 4399 | likes 0 | created 2026-11-05 | https://huggingface.co/mradermacher/Gemma-4-E2B-it-ARA-Abliterated-i1-GGUF
-18. ErtasAI/MedErtas-v0.1-27B-LS | downloads 4128 | likes 6 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-27B-LS
-19. ErtasAI/MedErtas-v0.1-27B-LS-Perigee | downloads 4111 | likes 0 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-27B-LS-Perigee
-20. ErtasAI/MedErtas-v0.1-31B-LS-Perigee | downloads 4107 | likes 0 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-31B-LS-Perigee
-21. mradermacher/xyntrai-Sarah-mistral-2501-36B-nsfw-i1-GGUF | downloads 4057 | likes 0 | created 2026-11-06 | https://huggingface.co/mradermacher/xyntrai-Sarah-mistral-2501-36B-nsfw-i1-GGUF
-22. NousResearch/Arete-27B | downloads 4023 | likes 422 | created 2026-11-06 | https://huggingface.co/NousResearch/Arete-27B
-23. ReadyArt/Dark-Craving-31B-v3.0-GGUF | downloads 4018 | likes 6 | created 2026-11-06 | https://huggingface.co/ReadyArt/Dark-Craving-31B-v3.0-GGUF
-24. bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF | downloads 4005 | likes 1 | created 2026-11-06 | https://huggingface.co/bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF
-25. bartowski/p-e-w_Oc-e-Non-v1-GGUF | downloads 3899 | likes 2 | created 2026-11-07 | https://huggingface.co/bartowski/p-e-w_Oc-e-Non-v1-GGUF
+window: created >= 2026-11-05T17:05Z, 3388 models; top 25 distinct families, quants/re-uploads of a listed model shown as 'also:' under it
+1. ErtasAI/MedErtas-v0.1-31B-LS | downloads 59001 | likes 3 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-31B-LS | FLAG possibly inflated downloads (very few likes)
+2. orcarouter/Ripple-65B-abliterated-GGUF | downloads 27599 | likes 18 | created 2026-11-06 | https://huggingface.co/orcarouter/Ripple-65B-abliterated-GGUF
+   also: dealignai/Ripple-65B-Preview-UNCENSORED-GGUF | downloads 7336 | likes 2 | created 2026-11-07 | https://huggingface.co/dealignai/Ripple-65B-Preview-UNCENSORED-GGUF | repackages ricursiveAI/Ripple-65B-Preview
+3. local-inference-lab/Kimi-K3.1-Pro-EXL3-2bit | downloads 25343 | likes 2 | created 2026-11-05 | https://huggingface.co/local-inference-lab/Kimi-K3.1-Pro-EXL3-2bit | FLAG possibly inflated downloads (very few likes)
+   also: KarLexAI/Kimi-K3.1-Pro-GGUF | downloads 5497 | likes 7 | created 2026-11-08 | https://huggingface.co/KarLexAI/Kimi-K3.1-Pro-GGUF | repackages moonshotai/Kimi-K3.1-Pro
+4. kabcnd/Ternary-Flint-40B-GGUF | downloads 15094 | likes 2 | created 2026-11-07 | https://huggingface.co/kabcnd/Ternary-Flint-40B-GGUF | FLAG possibly inflated downloads (very few likes)
+5. aj9o9/Qwen3.8-27B-DSpine-b16-GGUF | downloads 15022 | likes 41 | created 2026-11-08 | https://huggingface.co/aj9o9/Qwen3.8-27B-DSpine-b16-GGUF
+   also: tencent/Qwen3.8-27B-DSpine-b16 | downloads 3738 | likes 207 | created 2026-11-07 | https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16 | repackages tencent/Qwen3.8-27B-DSpine-b16
+6. dendriteholdings/Ingot-XXXI-27B-Q2 | downloads 11158 | likes 0 | created 2026-11-10 | https://huggingface.co/dendriteholdings/Ingot-XXXI-27B-Q2 | FLAG possibly inflated downloads (very few likes)
+7. dendriteholdings/Ingot-XXX-27B-Q2 | downloads 10581 | likes 0 | created 2026-11-10 | https://huggingface.co/dendriteholdings/Ingot-XXX-27B-Q2 | FLAG possibly inflated downloads (very few likes)
+8. dendriteholdings/Ingot-XXVIII-27B-Q2 | downloads 8766 | likes 0 | created 2026-11-07 | https://huggingface.co/dendriteholdings/Ingot-XXVIII-27B-Q2
+9. dendriteholdings/Ingot-XXIX-27B-Q2 | downloads 7577 | likes 0 | created 2026-11-09 | https://huggingface.co/dendriteholdings/Ingot-XXIX-27B-Q2
+10. dendriteholdings/Ingot-XXXII-27B-Q2 | downloads 6665 | likes 0 | created 2026-11-11 | https://huggingface.co/dendriteholdings/Ingot-XXXII-27B-Q2
+11. ReadyArt/Dark-Craving-26B-A4B-v3.0-GGUF | downloads 6523 | likes 11 | created 2026-11-06 | https://huggingface.co/ReadyArt/Dark-Craving-26B-A4B-v3.0-GGUF
+12. zephel01/Ornith-1.5-397B-IQ2_XXS-32G128G-GGUF | downloads 5385 | likes 0 | created 2026-11-09 | https://huggingface.co/zephel01/Ornith-1.5-397B-IQ2_XXS-32G128G-GGUF
+13. OpceanAI/Qwen3.5-0.8B-abliterated-GGUF | downloads 5071 | likes 0 | created 2026-11-06 | https://huggingface.co/OpceanAI/Qwen3.5-0.8B-abliterated-GGUF
+14. Mungert/LFM3-1.7B-GGUF | downloads 4841 | likes 1 | created 2026-11-07 | https://huggingface.co/Mungert/LFM3-1.7B-GGUF
+15. NousResearch/Arete-27B | downloads 4669 | likes 467 | created 2026-11-06 | https://huggingface.co/NousResearch/Arete-27B
+16. ReadyArt/Dark-Craving-31B-v3.0-GGUF | downloads 4607 | likes 6 | created 2026-11-06 | https://huggingface.co/ReadyArt/Dark-Craving-31B-v3.0-GGUF
+17. shashanth-27xA9/Kimi-K3.1-Pro-SuperExpert-12GB | downloads 4443 | likes 3 | created 2026-11-06 | https://huggingface.co/shashanth-27xA9/Kimi-K3.1-Pro-SuperExpert-12GB
+18. ErtasAI/MedErtas-v0.1-27B-LS | downloads 4187 | likes 6 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-27B-LS
+19. ErtasAI/MedErtas-v0.1-27B-LS-Perigee | downloads 4126 | likes 0 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-27B-LS-Perigee
+20. ErtasAI/MedErtas-v0.1-31B-LS-Perigee | downloads 4124 | likes 0 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-31B-LS-Perigee
+21. mradermacher/xyntrai-Sarah-mistral-2501-36B-nsfw-i1-GGUF | downloads 4078 | likes 0 | created 2026-11-06 | https://huggingface.co/mradermacher/xyntrai-Sarah-mistral-2501-36B-nsfw-i1-GGUF
+22. bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF | downloads 4036 | likes 1 | created 2026-11-06 | https://huggingface.co/bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF
+23. bartowski/p-e-w_Oc-e-Non-v1-GGUF | downloads 3945 | likes 2 | created 2026-11-07 | https://huggingface.co/bartowski/p-e-w_Oc-e-Non-v1-GGUF
+24. bartowski/ItachiSan_LiquidCode-2.5-24B-A2B-GGUF | downloads 3596 | likes 1 | created 2026-11-10 | https://huggingface.co/bartowski/ItachiSan_LiquidCode-2.5-24B-A2B-GGUF
+25. JerryKingNo1/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF | downloads 3506 | likes 1 | created 2026-11-10 | https://huggingface.co/JerryKingNo1/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF
 
 --- details (top 25 families, first row of each) ---
-## AtomicChat/Ripple-65B-Preview-GGUF
-   base_model: ricursiveAI/Ripple-65B-Preview
-   license: apache-2.0
-   params: None
-   excerpt: [Ripple-65B Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) is a 65B dense model trained from scratch by Ricursive Intelligence on 12T tokens, post-trained for agentic coding, Apache-2.0. This repo has GGUF files of it for llama.cpp. AD (Atomic Dynamic) files use our per-tensor layouts, quantized with an importance matrix computed on the BF16 weights over our public 4.7M-token [calibration build](https://huggingface.co/datasets/AtomicChat/calib-corpora/tree/main/builds/ripple-65b), rendered with Ripple's own chat template. File names are `Ripple-65B-Preview-<name>.gguf`; for a 
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Ripple-65B Tested: How Good Is This Dense Open Model? <https://goremy.ai/blog/articles/ripple-65b-dense-model-tested-agentic-coding>
-   coverage: We Ran the New 65B 'Local' Coding Model on a Desk-Sized AMD Box. Here's the Honest Scoreboard. | SMF Clearinghouse <https://www.smfclearinghouse.com/blog/ripple-65b-on-the-amd-box-honest-scoreboard/>
-   coverage: Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model <https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/>
-   coverage: Ricursive Ripple-65B Preview Benchmark Results for Data Analysis <https://plotly.com/blog/ricursive-ripple-65b-preview-plotly-data-analytics-bench/>
 ## ErtasAI/MedErtas-v0.1-31B-LS
    base_model: google/gemma-4-31B-it
    license: apache-2.0
@@ -92,19 +75,14 @@ window: created >= 2026-11-04T17:05Z, 3277 models; top 25 distinct families, qua
    api_providers_live: none
    coverage: Specialisation as Inference Optimisation - Ertas AI <https://www.ertas.ai/research/medertas-v01-specialisation-inference-optimisation>
    coverage: MedErtas: Fast, Open Medical LLMs - Ertas AI <https://www.ertas.ai/medertas>
-   coverage: AI Research on Specialist Models and Agent Costs - Ertas AI <https://www.ertas.ai/research>
-   coverage: Models and prices - Ertas Docs <https://www.ertas.ai/docs/gateway/models>
-## kabcpc/Ternary-Flint-40B-GGUF
-   base_model: Tencent-Hunyuan/Hunyuan-A52B-Instruct
-   license: other
+## orcarouter/Ripple-65B-abliterated-GGUF
+   base_model: ricursiveAI/Ripple-65B-Preview
+   license: apache-2.0
    params: None
-   excerpt: ☕ **Support Local AI Development**: Help me acquire a Mac mini 24GB to optimize and test local AI models up to 80B parameters. [Donate via Ko-fi →](https://ko-fi.com/kabcpc) > ### ⚠️ Important Information: Production Speed Milestone & Deployment > > **Breakthrough Metal GPU Throughput**: > * **Average Generation Speed**: **`98.03 tokens/second`** on Apple Silicon Metal GPU! > * **Peak Generation Speed**: Up to **`142.12 tokens/second`** on structured & repetitive sequences, and **`91.00 tokens/second`** on C++ code! > * **Prompt Ingestion Throughput**: **`1,251.30 tokens/second`** (`pp512`). >
+   excerpt: 
    card_api_mentions: []
    api_providers_live: none
-   coverage: Ternary 40B — VRAM 25.7GB | RodarIA <https://www.rodar.ia.br/modelo/ternary-flint-40b-gguf-40b>
-   coverage: Video Summary - Flint 40B A2.5B tested - 16GB Local LLM setup <https://youtubesummary.com/summary/xtSmX12HaR8>
-   coverage: Recursive Flint Tested: Is This 40B Local Coding Model Worth It? | MindStudio <https://www.mindstudio.ai/blog/recursive-flint-local-coding-model>
-   coverage: How Good Is Flint 40B at Coding? Benchmarks vs Qwen 3.8 <https://goremy.ai/blog/articles/flint-40b-benchmarks-terminal-bench-swe-bench>
+   coverage: Ripple-65B-abliterated — Abliterated Model Card <https://abliteratedmodels.org/ripple-65b-abliterated/>
 ## local-inference-lab/Kimi-K3.1-Pro-EXL3-2bit
    base_model: moonshotai/Kimi-K3.1-Pro
    license: other
@@ -112,9 +90,19 @@ window: created >= 2026-11-04T17:05Z, 3277 models; top 25 distinct families, qua
    excerpt: This repository contains two representations of the same routed-expert quant: The immutable prepared release is `gb202-tp8-c4-p3072-dflash2-k7-20261108`. It includes **TP8/DCP8, DFlash2 K7, vision, four concurrent requests and 3072-token prefill graphs**. The maximum context is **262,144 tokens per request**. Shared physical KV capacity measured on the qualified host is **1,281,024 tokens**, not a 1.28M-token single-request window. Prepared files occupy **706.46 GiB**; the raw checkpoint is **742.235 GiB**. Requirements: Linux x86-64, eight RTX PRO 6000 Blackwell 96 GB GPUs with peer access en
    card_api_mentions: []
    api_providers_live: none
+   coverage: Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence <https://www.kimi.ai/blog/kimi-k3-1-pro>
    coverage: Kimi K3.1 Pro Review: Benchmarks, Price, Open Weights <https://springprompt.com/blog/kimi-k3-1-pro-review>
-   coverage: Kimi K3.1 Pro: Free to try, hacking skills deliberately weakened <https://www.notebookcheck.net/Kimi-K3-1-Pro-Free-to-try-hacking-skills-deliberately-weakened.1433507.0.html>
-   coverage: Kimi K3.1 Pro Review: Coding, 3D, Data Analysis, and Limits <https://evolink.ai/blog/kimi-k3-1-pro-review>
+   coverage: local-inference-lab/Kimi-K3.1-Pro-EXL3-2bit — Downloads, Growth & Stats | OpenModelStats <https://openmodelstats.com/models/local-inference-lab/kimi-k3.1-pro-exl3-2bit>
+## kabcnd/Ternary-Flint-40B-GGUF
+   base_model: Tencent-Hunyuan/Hunyuan-A52B-Instruct
+   license: other
+   params: None
+   excerpt: ☕ **Support Local AI Development**: Help me acquire a Mac mini 24GB/32GB to optimize and test local MoE models up to 80B parameters. [Donate via Ko-fi →](https://ko-fi.com/kabcpc) > [!WARNING] > <span style="color: #ea580c;"><strong>📦 Repository Moved — Unified Kenzan Naming Standard</strong></span> > > <span style="color: #ea580c;">This legacy repository has been superseded following the adoption of the unified <strong>Kenzan</strong> model naming standard. All updated weights, improved <strong>Hepta48Up</strong> (`9.77 GiB`, `z = -8.14` WikiText-2 PPL improvement), precompiled Metal binaries
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Ternary-Flint-40B на Intel Arc — OpenCL-рантайм для 40B MoE на Intel Arc | NeyroLearn <https://neyrolearn.cloud/news/thesanchezian--ternary-flint-40b-intel-arc/>
+   coverage: Ternary 40B — VRAM 25.7GB | RodarIA <https://www.rodar.ia.br/modelo/ternary-flint-40b-gguf-40b>
+   coverage: Video Summary - Flint 40B A2.5B tested - 16GB Local LLM setup <https://youtubesummary.com/summary/xtSmX12HaR8>
 ## aj9o9/Qwen3.8-27B-DSpine-b16-GGUF
    base_model: ['tencent/Qwen3.8-27B-DSpine-b16']
    license: apache-2.0
@@ -122,60 +110,17 @@ window: created >= 2026-11-04T17:05Z, 3277 models; top 25 distinct families, qua
    excerpt: GGUF conversions of [tencent/Qwen3.8-27B-DSpine-b16](https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16), the DSpine speculative-decoding draft model for [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B), for use with llama.cpp. On a single RTX 3090 with a Q4_K_M Qwen3.8-27B target, it runs at **~125 tok/s on code and math** and **~90 tok/s on a mixed set of chat tasks**. That compares with ~52 tok/s for DFlash2 and ~28 tok/s without speculative decoding (3.2x overall, up to 4.5x on code). See [Benchmarks](#benchmarks) for speed at increasing context depth and the maximum context on 24
    card_api_mentions: []
    api_providers_live: none
-   coverage: DSpine vs DFlash2: How Much Faster Is It? Benchmarks <https://goremy.ai/blog/articles/dspine-vs-dflash2-benchmarks-acceptance-length-throughput>
-   coverage: Tencent's DSpine on a Mac: Qwen3.8-27B two to four times faster, same answers | NetProjects <https://netprojects.com/insights/dspine-speculative-decoding-qwen3-8-27b-mlx>
    coverage: Tencent’s DSpine Drafter Lifts Qwen3.8-27B Throughput 3.19x <https://rits.shanghai.nyu.edu/ai/tencents-dspine-drafter-lifts-qwen3-8-27b-throughput-3-19x/>
-## dendriteholdings/Ingot-XXVII-27B-Q2
+   coverage: Tencent's DSpine on a Mac: Qwen3.8-27B two to four times faster, same answers | NetProjects <https://netprojects.com/insights/dspine-speculative-decoding-qwen3-8-27b-mlx>
+   coverage: Tencent's DSpine draft model for Qwen3.8-27B claims 2.9-3.8x decoding throughput in SGLang, but a llama.cpp tester found it no faster than DFlash2 | MindPattern <https://mindpattern.ai/f/33560>
+## dendriteholdings/Ingot-XXXI-27B-Q2
    base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
    license: None
    params: None
-   excerpt: A public mirror of a model that won on Ingot, a Bittensor subnet where miners quantize a fixed teacher model and the validator crowns the copy that stays closest to it. It is Prism ML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf), refined: the same ternary codes, with the rest of its weights re-tuned by the miner to bring it closer to Qwen3.8-27B. - Submitted by miner hotkey `5DfVLKYqPAPgtuEzo1ENHosCBDeikBRAKZ6opEvnZqDwVXVF` (uid 18) - Crowned from submission `42bb3ffb-9f9c-4fdf-bfd0-9f2e0a727ae6` The weights are the miner's upload, byte for byte (`Ingot-X
+   excerpt: A public mirror of a model that won on Ingot, a Bittensor subnet where miners quantize a fixed teacher model and the validator crowns the copy that stays closest to it. It starts from Prism ML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf): the miner changed under 0.01% of its ternary codes and re-tuned the rest of its weights to bring it closer to Qwen3.8-27B. - Submitted by miner hotkey `5EC3bm6Ya9xJ83UhzMxiU1psHYR3pkxXzgLaZQ3WnFCK97A1` (uid 165) - Crowned from submission `c1efe017-fda7-4656-a188-0a5cbf6b50f8` The weights are the miner's upload, byte for 
    card_api_mentions: []
    api_providers_live: none
-   coverage: INGOT <https://theingot.ai/>
-   coverage: dendriteholdings/Ingot-XXVII-27B-Q2 <https://recentmodel.com/models/dendriteholdings/Ingot-XXVII-27B-Q2/>
    coverage: Dendrite Holdings Squeezes a 27B Model Into 6 GB With Ingot-XVII | AlphaSignal <https://alphasignal.ai/news/dendrite-holdings-squeezes-a-27b-model-into-6-gb-with-ingot-xvii>
-   coverage: Ingot 27B — VRAM 17.97GB | RodarIA <https://www.rodar.ia.br/modelo/ingot-xxvii-27b-q2-27b>
-## minas2025/Qwen-3.5-9B-StupidChat-Uncensored
-   base_model: ['DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP']
-   license: other
-   params: None
-   excerpt: **Base:** `DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP` **Trained on:** [`minas2025/StupidChat`](https://huggingface.co/datasets/minas2025/StupidChat) — 15,832 train / 832 eval rows **Trainer:** Unsloth bf16 LoRA, rank 64 / alpha 128, LR 1e-4 cosine, 3 epochs, seq 2048, batch 4×4 grad-accum, eval-per-epoch with best-checkpoint selection. **Hardware:** NVIDIA RTX Pro 6000 Blackwell 96 GB (molab cloud sandbox) — trained 2026-11-05. StupidChat is smug, sloppy-spelled, and answers everything with airtight circular reasoning while being completely unaware of it. The 
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Qwen-3.5-9B-StupidChat-Uncensored — Abliterated Model Card <https://abliteratedmodels.org/qwen-3.5-9b-stupidchat-uncensored/>
-   coverage: Qwen-3.5-9B-StupidChat-Uncensored — HF//RADAR <https://radar-huggingface.686f6c61.dev/models/minas2025-qwen-3-5-9b-stupidchat-uncensored>
-   coverage: minas2025/Qwen-3.5-9B-StupidChat-Uncensored - abliteration.org <https://abliteration.org/models/minas2025/Qwen-3.5-9B-StupidChat-Uncensored>
-   coverage: Medium <https://medium.com/data-science-collective/5-best-uncensored-qwen-models-you-can-run-locally-on-a-mac-in-2026-ab0e39f2ecd2>
-## dendriteholdings/Ingot-XXVIII-27B-Q2
-   base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
-   license: None
-   params: None
-   excerpt: A public mirror of a model that won on Ingot, a Bittensor subnet where miners quantize a fixed teacher model and the validator crowns the copy that stays closest to it. It is Prism ML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf), refined: the same ternary codes, with the rest of its weights re-tuned by the miner to bring it closer to Qwen3.8-27B. - Submitted by miner hotkey `5HSpnDdS48Tx5WUXvwQcGMjXf4C7gRSdTzbHgPYT47m8TLPp` (uid 155) - Crowned from submission `44208a02-5da5-4530-9ef0-1cb53871431e` The weights are the miner's upload, byte for byte (`Ingot-
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Ingot-XXVIII-27B-Q2 — HF//RADAR <https://radar-huggingface.686f6c61.dev/models/dendriteholdings-ingot-xxviii-27b-q2>
-   coverage: Bonsai 2 27B Tested: Does the 98% Benchmark Claim Hold Up? | MindStudio <https://www.mindstudio.ai/blog/bonsai-2-27b-real-world-test>
-   coverage: Dendrite Holdings Squeezes a 27B Model Into 6 GB With Ingot-XVII | AlphaSignal <https://alphasignal.ai/news/dendrite-holdings-squeezes-a-27b-model-into-6-gb-with-ingot-xvii>
-## mradermacher/Qwen3.6-35B-A3B-Fable-5-Distill-heretic-i1-GGUF
-   base_model: Authereon/Qwen3.6-35B-A3B-Fable-5-Distill-heretic
-   license: apache-2.0
-   params: None
-   excerpt: weighted/imatrix quants of https://huggingface.co/Authereon/Qwen3.6-35B-A3B-Fable-5-Distill-heretic ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#Qwen3.6-35B-A3B-Fable-5-Distill-heretic-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/Qwen3.6-35B-A3B-Fable-5-Distill-heretic-GGUF **This is a vision model - mmproj files (if any) will be in the [static repository](https://huggingface.co/mradermacher/Qwen3.6-35B-A3B-Fable-5-Distill-heretic-GGUF).** If you are unsure how to use GGUF files, refer to one of
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Qwen3.6-35B-A3B-Fable-5-Distill-heretic — Abliterated Model Card <https://abliteratedmodels.org/qwen3.6-35b-a3b-fable-5-distill-heretic/>
-   coverage: Qwen3.6-35B-A3B: Community Reviews, Uncensored Variants, and MTP Benchmarks <https://blog.hakhub.net/en/blog/qwen3-6-35b-a3b-community-reviews/>
-## ReadyArt/Dark-Craving-26B-A4B-v3.0-GGUF
-   base_model: ['ReadyArt/Dark-Craving-26B-A4B-v3.0']
-   license: apache-2.0
-   params: None
-   excerpt: @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600&family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=JetBrains+Mono:wght@400;600;700&display=swap'); .hc-wrap { background: linear-gradient(180deg, #120a0f 0%, #0a0a0a 100%); color: #e8e0d8; font-family: 'Crimson Text', serif; max-width: 950px; margin: 0 auto; padding: 30px; border-radius: 4px; box-sizing: border-box; border: 1px solid rgba(139, 0, 0, 0.3); position: relative; } .hc-wrap::before { content: '🥀 🩸 🕷️ 🥀 🩸 🕷️ 🥀 🩸 🕷️ 🥀'; position: absolute; top: 0; left: 0; ri
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: ReadyArt/Dark-Craving-26B-A4B-v3.0-GGUF · DeepGHS Hub <https://hub.deepghs.org/models/ReadyArt/Dark-Craving-26B-A4B-v3.0-GGUF>
-   coverage: Dark Craving 26B-A4B (ReadyArt) · Caliper Bench Leaderboard <https://caliperbench.com/m/dark-craving-26b-a4b/>
-   coverage: ReadyArt/Dark-Craving-26B-A4B-v3.0 <https://recentmodel.com/models/ReadyArt/Dark-Craving-26B-A4B-v3.0/>
 ## dendriteholdings/Ingot-XXX-27B-Q2
    base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
    license: None
@@ -184,6 +129,15 @@ window: created >= 2026-11-04T17:05Z, 3277 models; top 25 distinct families, qua
    card_api_mentions: []
    api_providers_live: none
    coverage: INGOT <https://theingot.ai/>
+   coverage: Dendrite Holdings Squeezes a 27B Model Into 6 GB With Ingot-XVII | AlphaSignal <https://alphasignal.ai/news/dendrite-holdings-squeezes-a-27b-model-into-6-gb-with-ingot-xvii>
+## dendriteholdings/Ingot-XXVIII-27B-Q2
+   base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
+   license: None
+   params: None
+   excerpt: A public mirror of a model that won on Ingot, a Bittensor subnet where miners quantize a fixed teacher model and the validator crowns the copy that stays closest to it. It is Prism ML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf), refined: the same ternary codes, with the rest of its weights re-tuned by the miner to bring it closer to Qwen3.8-27B. - Submitted by miner hotkey `5HSpnDdS48Tx5WUXvwQcGMjXf4C7gRSdTzbHgPYT47m8TLPp` (uid 155) - Crowned from submission `44208a02-5da5-4530-9ef0-1cb53871431e` The weights are the miner's upload, byte for byte (`Ingot-
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Ingot-XXVIII-27B-Q2 — HF//RADAR <https://radar-huggingface.686f6c61.dev/models/dendriteholdings-ingot-xxviii-27b-q2>
    coverage: Dendrite Holdings Squeezes a 27B Model Into 6 GB With Ingot-XVII | AlphaSignal <https://alphasignal.ai/news/dendrite-holdings-squeezes-a-27b-model-into-6-gb-with-ingot-xvii>
 ## dendriteholdings/Ingot-XXIX-27B-Q2
    base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
@@ -194,14 +148,25 @@ window: created >= 2026-11-04T17:05Z, 3277 models; top 25 distinct families, qua
    api_providers_live: none
    coverage: Dendrite Holdings Squeezes a 27B Model Into 6 GB With Ingot-XVII | AlphaSignal <https://alphasignal.ai/news/dendrite-holdings-squeezes-a-27b-model-into-6-gb-with-ingot-xvii>
    coverage: dendriteholdings/Ingot-XIX-27B-Q2 <https://recentmodel.com/models/dendriteholdings/Ingot-XIX-27B-Q2/>
-## dendriteholdings/Ingot-XXXI-27B-Q2
+## dendriteholdings/Ingot-XXXII-27B-Q2
    base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
    license: None
    params: None
-   excerpt: A public mirror of a model that won on Ingot, a Bittensor subnet where miners quantize a fixed teacher model and the validator crowns the copy that stays closest to it. It starts from Prism ML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf): the miner changed under 0.01% of its ternary codes and re-tuned the rest of its weights to bring it closer to Qwen3.8-27B. - Submitted by miner hotkey `5EC3bm6Ya9xJ83UhzMxiU1psHYR3pkxXzgLaZQ3WnFCK97A1` (uid 165) - Crowned from submission `c1efe017-fda7-4656-a188-0a5cbf6b50f8` The weights are the miner's upload, byte for 
+   excerpt: A public mirror of a model that won on Ingot, a Bittensor subnet where miners quantize a fixed teacher model and the validator crowns the copy that stays closest to it. It starts from Prism ML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf): the miner changed under 0.01% of its ternary codes and re-tuned the rest of its weights to bring it closer to Qwen3.8-27B. - Submitted by miner hotkey `5HYiDFci12uwREuorCosiFgehKSKj2MwQynoufJoYNi73LyY` (uid 173) - Crowned from submission `6fee05e3-748b-44cf-a172-0520ed77a9ec` The weights are the miner's upload, byte for 
    card_api_mentions: []
    api_providers_live: none
-   coverage: Dendrite Holdings Squeezes a 27B Model Into 6 GB With Ingot-XVII | AlphaSignal <https://alphasignal.ai/news/dendrite-holdings-squeezes-a-27b-model-into-6-gb-with-ingot-xvii>
+   coverage: dendriteholdings/Ingot-XXII-27B-Q2 <https://recentmodel.com/models/dendriteholdings/Ingot-XXII-27B-Q2/>
+   coverage: INGOT <https://theingot.ai/>
+## ReadyArt/Dark-Craving-26B-A4B-v3.0-GGUF
+   base_model: ['ReadyArt/Dark-Craving-26B-A4B-v3.0']
+   license: apache-2.0
+   params: None
+   excerpt: @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600&family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=JetBrains+Mono:wght@400;600;700&display=swap'); .hc-wrap { background: linear-gradient(180deg, #120a0f 0%, #0a0a0a 100%); color: #e8e0d8; font-family: 'Crimson Text', serif; max-width: 950px; margin: 0 auto; padding: 30px; border-radius: 4px; box-sizing: border-box; border: 1px solid rgba(139, 0, 0, 0.3); position: relative; } .hc-wrap::before { content: '🥀 🩸 🕷️ 🥀 🩸 🕷️ 🥀 🩸 🕷️ 🥀'; position: absolute; top: 0; left: 0; ri
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Dark Craving 26B-A4B (ReadyArt) · Caliper Bench Leaderboard <https://caliperbench.com/m/dark-craving-26b-a4b/>
+   coverage: ReadyArt/Dark-Craving-26B-A4B-v3.0-GGUF · DeepGHS Hub <https://hub.deepghs.org/models/ReadyArt/Dark-Craving-26B-A4B-v3.0-GGUF>
+   coverage: ReadyArt/Dark-Craving-26B-A4B-v3.0 <https://recentmodel.com/models/ReadyArt/Dark-Craving-26B-A4B-v3.0/>
 ## zephel01/Ornith-1.5-397B-IQ2_XXS-32G128G-GGUF
    base_model: ornith-ai/Ornith-1.5-397B
    license: mit
@@ -210,7 +175,7 @@ window: created >= 2026-11-04T17:05Z, 3277 models; top 25 distinct families, qua
    card_api_mentions: []
    api_providers_live: none
    coverage: Ornith 1.5 397B — Hardware Requirements & Compatibility | llmrun <https://llmrun.dev/model/ornith-ai-ornith-1-5-397b>
-   coverage: NEW Open Source Qwen? BEATS GLM 5.2 & Claude? 🧐 Ornith 397B TESTED <https://www.youtube.com/watch?v=pQKM6w1jFJM>
+   coverage: Ornith-1.5 Review: Is the Self-Improving Model Ready? | WaveSpeed Blog <https://wavespeed.ai/blog/ai-models/ornith-1-5-review/>
 ## OpceanAI/Qwen3.5-0.8B-abliterated-GGUF
    base_model: OpceanAI/Qwen3.5-0.8B-abliterated
    license: apache-2.0
@@ -226,19 +191,39 @@ window: created >= 2026-11-04T17:05Z, 3277 models; top 25 distinct families, qua
    excerpt: This model was generated using [llama.cpp](https://github.com/ggerganov/llama.cpp) at commit [`ca89968a2`](https://github.com/ggerganov/llama.cpp/commit/ca89968a23a13e571a6b802a9891d22763153b61). --- Click here to get info on choosing the right GGUF model format --- src="https://huggingface.co/LiquidAI/LFM3-1.7B/resolve/main/assets/liquid-ai-banner.webp" alt="Liquid AI" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0;" /> LFM3-1.7B is a **text model for local agents and specialized applications**, based on our new tri-hybrid architecture. - **Agentic training:** po
    card_api_mentions: ['<a href="https://console.liquid.ai/dashboard" style="display: inline-flex; align-items: center; gap: 6px;"><img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2216%22 hei']
    api_providers_live: none
-   coverage: LFM3-1.7B Tested: Liquid AI's Tiny Local Agent Model, Where It Fails | MindStudio <https://www.mindstudio.ai/blog/liquid-ai-lfm3-1-7b-local-agent-model>
    coverage: LFM3-1.7B: Our Benchmarks, VRAM and Which Version to Get <https://modeltested.com/models/lfm-3-1-7b/>
-   coverage: Update on Small Models: LFM3 1.7B [2026] - Dot Net Perls Blog <https://www.dotnetperls.com/2026_10_28_update-small-models-lfm3-1-7b>
+   coverage: LFM3-1.7B Tested: Liquid AI's Tiny Local Agent Model, Where It Fails | MindStudio <https://www.mindstudio.ai/blog/liquid-ai-lfm3-1-7b-local-agent-model>
    coverage: LFM3-1.7B Deep Review: Runs 256K context on 1 GB RAM; 1.7B small model’s agent capabilities surpass those of a 9B model – AI Dash <https://aidashxp.com/en/lfm3-1-7b-review/>
-## mradermacher/Gemma-4-E2B-it-ARA-Abliterated-i1-GGUF
-   base_model: Austriani/Gemma-4-E2B-it-ARA-Abliterated
+   coverage: Update on Small Models: LFM3 1.7B [2026] - Dot Net Perls Blog <https://www.dotnetperls.com/2026_10_28_update-small-models-lfm3-1-7b>
+## NousResearch/Arete-27B
+   base_model: ['Qwen/Qwen3.8-27B']
    license: apache-2.0
-   params: None
-   excerpt: weighted/imatrix quants of https://huggingface.co/Austriani/Gemma-4-E2B-it-ARA-Abliterated ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#Gemma-4-E2B-it-ARA-Abliterated-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/Gemma-4-E2B-it-ARA-Abliterated-GGUF **This is a vision model - mmproj files (if any) will be in the [static repository](https://huggingface.co/mradermacher/Gemma-4-E2B-it-ARA-Abliterated-GGUF).** If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggin
+   params: 27356728560
+   excerpt: We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B. Open source models give labs the raw tools to mold intelligence to varied preferences. The values a model ships with should not be the only values its users get to choose from. We observed firsthand refusals, deflections, and CCP-framed answers on politically sensitive topics in Qwen3.8-27B, and post-trained to alter those biases. On our evaluation, Arete-27B raised its fact score from 2.32 to 2.98 out of 5 and cut answers containing propaganda from 22% to 0.9%. 
    card_api_mentions: []
    api_providers_live: none
-   coverage: Gemma4-E2B Abliteration Benchmarks: 13 Techniques Compared | Abliterlitics <https://abliterlitics.dev/models/gemma4-e2b/>
-   coverage: Gemma-4-E2B-it-ARA-Abliterated — Abliterated Model Card <https://abliteratedmodels.org/gemma-4-e2b-it-ara-abliterated/>
+   coverage: Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values | Nous Research <https://nousresearch.tech/arete>
+   coverage: Arete: a changed viewpoint still needs a separate accuracy test | WURK Blog <https://wurk.fun/blog/arete-a-changed-viewpoint-still-needs-a-separate-accuracy-test>
+   coverage: Arete-27B changes a model’s stated values. Its evaluation needs a careful reading | GeekRadar <https://geekradar.co/article/2026-11-08-arete-values~c1635e0a849d>
+## ReadyArt/Dark-Craving-31B-v3.0-GGUF
+   base_model: ['ReadyArt/Dark-Craving-31B-v3.0-GGUF']
+   license: apache-2.0
+   params: None
+   excerpt: @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600&family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=JetBrains+Mono:wght@400;600;700&display=swap'); .hc-wrap { background: linear-gradient(180deg, #120a0f 0%, #0a0a0a 100%); color: #e8e0d8; font-family: 'Crimson Text', serif; max-width: 950px; margin: 0 auto; padding: 30px; border-radius: 4px; box-sizing: border-box; border: 1px solid rgba(139, 0, 0, 0.3); position: relative; } .hc-wrap::before { content: '🥀 🩸 🕷️ 🥀 🩸 🕷️ 🥀 🩸 🕷️ 🥀'; position: absolute; top: 0; left: 0; ri
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Dark Craving 31B (ReadyArt) · Caliper Bench Leaderboard <https://caliperbench.com/m/dark-craving-31b/>
+   coverage: Dark Craving 31B Thinking (ReadyArt) · Caliper Bench Leaderboard <https://caliperbench.com/m/dark-craving-31b-thinking/>
+## shashanth-27xA9/Kimi-K3.1-Pro-SuperExpert-12GB
+   base_model: moonshotai/Kimi-K3.1-Pro
+   license: apache-2.0
+   params: 12008815616
+   excerpt: **Kimi K3.1 Pro SuperExpert (12GB)** is an on-device consolidation of Moonshot AI's **2.8-Trillion parameter MoE** foundation model (`moonshotai/Kimi-K3.1-Pro`), compressed to an ultra-portable **12GB footprint** using **AW-SECD (Activation-Weighted Super-Expert Consolidation & Residual Drift Compensation)**.
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Kimi K3.1 Pro Locally: File Sizes and What Fits <https://www.bestfreewebresources.com/kimi-k3-1-pro-local-guide>
+   coverage: Kimi K3.1 Pro - Opus 5.5 Level? Independent Tests of Moonshot's New Model · GPTunneL <https://www.gptunnel.ru/en/blog/kimi-k31-review>
+   coverage: Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence <https://www.kimi.ai/blog/kimi-k3-1-pro>
 ## ErtasAI/MedErtas-v0.1-27B-LS
    base_model: Qwen/Qwen3.8-27B
    license: apache-2.0
@@ -274,28 +259,9 @@ window: created >= 2026-11-04T17:05Z, 3277 models; top 25 distinct families, qua
    excerpt: weighted/imatrix quants of https://huggingface.co/xyntraistudios/xyntrai-sarah-mistral-2501-36B-NSFW ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#xyntrai-Sarah-mistral-2501-36B-nsfw-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/xyntrai-Sarah-mistral-2501-36B-nsfw-GGUF If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-GGUF) for more details, including on how to concatenate multi-part files. (sorted by size, not nec
    card_api_mentions: []
    api_providers_live: none
+   coverage: xyntrai-Sarah-mistral-2501-36B-nsfw-i1-GGUF — AI Frontier Index <https://aifrontierindex.com/en/models/xyntrai-sarah-mistral-2501-36b-nsfw-i1-gguf>
    coverage: Skyfall 36B V2 Guide: An Upscaled Mistral Small for Fiction — ProjectCOZY <https://projectcozy.me/blog/skyfall-36b-v2-guide>
-   coverage: Skyfall-36B-v2 | PromptLayer Models <https://www.promptlayer.com/models/skyfall-36b-v2/>
-   coverage: Drummer's Skyfall 36B v2 - An upscale of Mistral's 24B 2501 with continued training; resulting in a stronger, 70B-like model! : r/LocalLLaMA <https://www.reddit.com/r/LocalLLaMA/comments/1irpozr/drummers_skyfall_36b_v2_an_upscale_of_mistrals/>
-## NousResearch/Arete-27B
-   base_model: ['Qwen/Qwen3.8-27B']
-   license: apache-2.0
-   params: 27356728560
-   excerpt: We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B. Open source models give labs the raw tools to mold intelligence to varied preferences. The values a model ships with should not be the only values its users get to choose from. We observed firsthand refusals, deflections, and CCP-framed answers on politically sensitive topics in Qwen3.8-27B, and post-trained to alter those biases. On our evaluation, Arete-27B raised its fact score from 2.32 to 2.98 out of 5 and cut answers containing propaganda from 22% to 0.9%. 
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values | Nous Research <https://nousresearch.tech/arete>
-   coverage: Arete-27B changes a model’s stated values. Its evaluation needs a careful reading | GeekRadar <https://geekradar.co/article/2026-11-08-arete-values~c1635e0a849d>
-   coverage: Arete-27B tests values as a post-training layer – Ken Ashe <https://kenashe.ai/blog/2026-11-07-arete-27b-tests-values-as-a-post-training-layer/>
-## ReadyArt/Dark-Craving-31B-v3.0-GGUF
-   base_model: ['ReadyArt/Dark-Craving-31B-v3.0-GGUF']
-   license: apache-2.0
-   params: None
-   excerpt: @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600&family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=JetBrains+Mono:wght@400;600;700&display=swap'); .hc-wrap { background: linear-gradient(180deg, #120a0f 0%, #0a0a0a 100%); color: #e8e0d8; font-family: 'Crimson Text', serif; max-width: 950px; margin: 0 auto; padding: 30px; border-radius: 4px; box-sizing: border-box; border: 1px solid rgba(139, 0, 0, 0.3); position: relative; } .hc-wrap::before { content: '🥀 🩸 🕷️ 🥀 🩸 🕷️ 🥀 🩸 🕷️ 🥀'; position: absolute; top: 0; left: 0; ri
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Dark 31B — VRAM 20.18GB | RodarIA <https://www.rodar.ia.br/modelo/dark-craving-31b-v3-0-gguf-31b>
-   coverage: ReadyArt/Dark-Craving-31B-v2.0 <https://recentmodel.com/models/ReadyArt/Dark-Craving-31B-v2.0/>
+   coverage: The Ultimate Open Source NSFW AI Model List (2025 Guide) <https://kextcache.com/open-source-nsfw-ai-model-list/>
 ## bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF
    base_model: XingChen-AGI/Xing4.0-29B-A4B
    license: apache-2.0
@@ -303,10 +269,9 @@ window: created >= 2026-11-04T17:05Z, 3277 models; top 25 distinct families, qua
    excerpt: Using <a href="https://github.com/ggml-org/llama.cpp/">llama.cpp</a> release <a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12174">b12174</a> for quantization. Original model: https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B **Model details:** - Parameter count: 31B (source checkpoint) - Input support: text - Speculative decoding: yes (MTP) - [details](#mtp) - imatrix: yes - [details](#imatrix) [How to run](#how-to-run) No prompt format found, check original model page **Don't know which to choose?** Grab [Q4_K_M](https://huggingface.co/bartowski/XingChen-AGI_Xing4.0-29B-A4B-G
    card_api_mentions: []
    api_providers_live: none
+   coverage: Xing4.0-29B-A4B Text Generation Model: Our Test Answers, 24GB+ VRAM | Local Model Watch <https://localmodelwatch.tsuchitsuchi.com/en/2026/09/28/xing4-0-29b-a4b-china-telecom/>
    coverage: Xing4.0-29B-A4B Benchmarks: China Telecom's MoE Model Tested | MindStudio <https://www.mindstudio.ai/blog/xing4-29b-a4b-benchmarks>
    coverage: XingChen-AGI ships Xing4.0-29B-A4B: a MoE-shaped text model with more unknowns than answers · Addis Pulse <https://blog.addispulsestudio.com/2026-09-17-xing4-0-29b-a4b-xingchen-agi-moe>
-   coverage: 中国电信星辰Xing4.0-29B 开源实测：29B MoE，本地跑 AI 表格、财报文档助手 - 与非网 <https://www.eefocus.com/article/2091232.html>
-   coverage: XingChen-AGI/Xing4.0-29B-A4B <https://github.com/XingChen-AGI/Xing4.0-29B-A4B>
 ## bartowski/p-e-w_Oc-e-Non-v1-GGUF
    base_model: p-e-w/Oc-e-Non-v1
    license: apache-2.0
@@ -314,7 +279,27 @@ window: created >= 2026-11-04T17:05Z, 3277 models; top 25 distinct families, qua
    excerpt: Using <a href="https://github.com/ggml-org/llama.cpp/">llama.cpp</a> release <a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12180">b12180</a> for quantization. Original model: https://huggingface.co/p-e-w/Oc-e-Non-v1 **Model details:** - Parameter count: 4B (source checkpoint) - Input support: text - Speculative decoding: no - imatrix: yes - [details](#imatrix) [How to run](#how-to-run) {system_prompt}<|im_end|> {prompt}<|im_end|> {system_prompt} You may call one or more functions to assist with the user query. You are provided with function signatures within <tools></tools> XML 
    card_api_mentions: []
    api_providers_live: none
+   coverage: Model authors report shorter responses from Oc-e-Non-v1 · Tensor Journal <https://tensorjournal.com/en/news/shorter-response-qwen-model>
    coverage: p-e-w's Oc-e-Non-v1 halves Qwen3-4B's response length by editing weights, at a 0.6-point PIQA cost. | MindPattern <https://mindpattern.ai/s/2026-11-07-p-e-w-s-oc-e-non-v1-halves-qwen3-4b-s-response-length-by-editing-weights-at-a-0-6-poi>
-   coverage: p-e-w/Oc-e-Non-v1 <https://recentmodel.com/models/p-e-w/Oc-e-Non-v1/>
-   coverage: bartowski/p-e-w_Oc-e-Non-v1-GGUF — Downloads, Growth & Stats | OpenModelStats <https://openmodelstats.com/models/bartowski/p-e-w_oc-e-non-v1-gguf>
-   coverage: Heretic: Fully automatic censorship removal for language models : r/LocalLLaMA <https://www.reddit.com/r/LocalLLaMA/comments/1oymku1/heretic_fully_automatic_censorship_removal_for/>
+   coverage: Oc-e-Non-v1: A language model that gets to the f*cking point — OIYO News <https://news.oiyo.net/item/trend-aa7d7364d3bc5f41/>
+## bartowski/ItachiSan_LiquidCode-2.5-24B-A2B-GGUF
+   base_model: ItachiSan/LiquidCode-2.5-24B-A2B
+   license: apache-2.0
+   params: None
+   excerpt: Using <a href="https://github.com/ggml-org/llama.cpp/">llama.cpp</a> release <a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12180">b12180</a> for quantization. Original model: https://huggingface.co/ItachiSan/LiquidCode-2.5-24B-A2B **Model details:** - Parameter count: 24B (source checkpoint) - Input support: text - Speculative decoding: no - imatrix: yes - [details](#imatrix) [How to run](#how-to-run) {system_prompt}<|im_end|> {prompt}<|im_end|> {system_prompt} List of tools: [{"type": "function", "function": {"name": "get_stock_price", "description": "Get the current stock pric
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: ItachiSan/LiquidCode-2.5-24B-A2B-GGUF:Q4_K_M on NVIDIA GeForce RTX 2060 — 26.0 tok/s | llm-bench.io <https://llm-bench.io/benchmarks/cmw2e76l603tt01lavhx4lbt7>
+   coverage: ItachiSan/LiquidCode-2.5-24B-A2B-GGUF:Q4_K_M Benchmarks: Speed, VRAM & Quality | llm-bench.io <https://llm-bench.io/models/liquidcode-2-5-24b-a2b-gguf-q4-k-m>
+   coverage: LFM2.5-24B-A2BのGGUF、称賛と「使えない」で割れる実測 | Let's take a drive. <https://blog.cecily.jp/5301/>
+   coverage: Stuffing a 24B Always-Thinking MoE into 24GB of VRAM: A Three-Batch Field Test of LFM2.5-24B-A2B | Galen Guan <https://guancyxx.cn/en/blog/lfm25-24b-a2b-local-field-test>
+## JerryKingNo1/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF
+   base_model: None
+   license: other
+   params: None
+   excerpt: 修復版的 GGUF 量化檔，解決了原版 mradermacher 轉檔時遺失 MTP 權重、導致 llama.cpp 載入即崩潰（`missing tensor blk.32.attn_norm.weight`）的問題。 原版 GGUF 的 `config.json` 宣告了 `mtp_num_hidden_layers=1`（33 層，含 MTP 草稿層），但轉檔時那 15 個 `mtp.*` 權重被丟掉了，導致 llama.cpp 載入時找不到 `blk.32.nextn.*` 張量而直接崩潰。 本 repo 直接從上游作者 `xtools-at` 已修復的 safetensors（補回 `model-mtp.safetensors`）重新轉檔 + 量化，MTP 權重完整，可正常載入推理。 - 上游模型：`xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` - 根因分析：感謝 `istone` 的詳細報告（上游 repo discussion #1） - `DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic.Q4_K_M.gguf` — Q4_K_M 量化（5.5GB） llama-server -m DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: DeepSeek-V4-Pro-Qwen3.5-9B Uncensored Heretic Explained (2026) <https://www.hackaigc.com/blog/deepseek-v4-pro-qwen3-5-9b-uncensored-heretic-explained-2026>
+   coverage: Uncensored DeepSeek-V4-Pro 9B: Run It Locally in 5.6GB | Asad Webs <https://asadwebs.com/blog/deepseek-v4-pro-qwen35-9b-uncensored-local>
+   coverage: Qwen3.5 9B uncensored arrives with DeepSeek-V4-Pro reasoning, refuses 3 of 100 prompts <https://pasqualepillitteri.it/en/news/30788/qwen35-9b-uncensored-deepseek-v4-pro-arrives>
