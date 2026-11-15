@@ -1,71 +1,86 @@
 ===== V2EX HOT =====
-1. [生活] 有小孩了,想每年给小孩存一点钱,大家推荐什么  (61 replies)
-    目前给弄了个 3 年的定期存款  希望有点收益,不要太大也不要冒险吧
-    https://www.v2ex.com/t/1256985
-2. [分享创造] iOS 原生多论坛客户端： V2EX / NGA / Linux .do / Chiphell / 4D4Y 一个 App 刷，抽 10 个半年 Pro  (44 replies)
-    平时同时逛好几个论坛，一个论坛一个 App 或者一个网页，来回切有点烦。之前一直用论坛助手，支持的论坛多，用着其实也不差，就是我这人比较龟毛，很多地方想按自己的审美和习惯来，索性自己手搓了一个。断断续续做了几个月，前两天终于上架了。  App Store 搜「[**Dis 看帖**]( https://apps.apple.com/app/id6821816100)」，需要 iOS 18 以上，iPhone / iPad 都能用，iPhone Duo 也做了初步适配。  现在支持 V2EX 、NGA 、Linuxdo 、4D4Y 、Chiphel
-    https://www.v2ex.com/t/1257030
-3. [推广] GPT 官 Key 免费用。蹬完即止  (34 replies)
-    周末没人上班，Token 用不完。送给 V2EX 的大佬免费用。  https://pixcook.ai   sk-6810902ebc0f3256989f528a8727f2e658fff1d483c0ef2e801ddd94fe83629e   我们是做 AI 出海应用的团队，因为自身开发团队的需要，为了降低成本，所以自己购买一些 ChatGPT 账号搭建了一个中转站。  自有的反代理技术，可以做到稳定不降智，缓存率长期保持在 97%以上的体验，缓存写入长期个位数或者 3 位数以内。  V2EX 的大佬，如果注册后，回帖留下站
-    https://www.v2ex.com/t/1256998
-4. [🤖Vibe Coding] 国模真的还可以的  (32 replies)
-    最近 codex 特别慢， 尝试体验以下 CodeBuddy Trae 这些。 发现国模(主要用 glm flash deepseek flash)真的效果还是可以的， 不光更便宜，整体其实效果还行。整体下来比 codex 价格合适。  另外还有一个感受就是即使不用手写代码，但是最好还有一个编辑器，在类似 CodeBuddy trae 这种编辑器里面使用 ai 的时候感觉 ai 对项目整体的感知能力会更好，比如我用 openspec 产出好的 task ，CodeBuddy trae 可以比较顺畅的沿着计划执行下去， 但是 codex 无论是客户端 
-    https://www.v2ex.com/t/1257001
-5. [科技] 睡前安排了一整晚的 agent 全自动任务，一觉醒来被 Windows 自动更新重启杀了  (28 replies)
-    期待在醒来时看到项目做好上线发布的页面，结果被 Windows 登录页面迎接。  这种设计究竟是怎么期待人用它稳定工作开发的？
-    https://www.v2ex.com/t/1257008
-6. [问与答] 很多火的东西，理解不了为什么火  (27 replies)
-    是不是也表示：我自己做出来的产品就不可能火，因为我的品味有问题
-    https://www.v2ex.com/t/1256990
-7. [MacBook Air] 换了个新 macbook air m5 有没有推荐的软件安装  (25 replies)
-    如题，之前的电脑都是旧系统，很多软件都不支持 intel 芯片了，  看看大家有没有推荐的  我主要做产品经理，写文档，画原型，搞浏览器自动化  看看有没有啥好玩的 Mac 软件和玩法推荐
-    https://www.v2ex.com/t/1257002
-8. [分享创造] 最近做了一个运行在 iPhone 的 agent  (23 replies)
-    ![图片]( https://i.imgur.com/oowI3Je.jpg)  核心功能如下 - 支持挂载本地 Linux ，远程 Linux 和沙箱运行环境，让 agent 能干活 - 支持本地浏览器 - 支持动态 ui 生成 - 支持 skill ，能自动扫描远程 skill - 支持插件，可以在各种时机插入想要的逻辑 - 支持定时或者地理位置触发任务 - 最近用来给截图，视频套手机壳，管理家里的 nas ，控制智能家居等，可玩性非常高  tf 内测中： https://testflight.apple.com/join/WUPfjzh2 欢迎提 
-    https://www.v2ex.com/t/1256987
-9. [路由器] 家里用 PVE 做软路由，想和同好交流一下，也可远程帮看（长春可上门）  (21 replies)
-    自己在长春，家里小主机装着 PVE ，上面跑 OpenWrt 旁路由，也用 Unraid 和一些 VPS 。平时安装、组网、虚拟机这些会自己折腾。  想多认识一些玩软路由、PVE 、NAS 的朋友，有在用类似方案的，欢迎一起聊聊坑。  如果有人卡在安装、网络配置或者救砖上，也可以找我远程看一下，长春本地能上门。先说情况和报错，能做再谈要不要帮忙，按次算。不卖机器，也不接来路不明的账号和面板。
-    https://www.v2ex.com/t/1256986
+1. [程序员] deepseek harness 的实际能力远超大多数人的认知，最近深度体验总结  (70 replies)
+    先说下本人的 AI Coding 经验，chatgpt 横空出世时，一款名为免费的 Cursor 在 2023 年悄然上线，我当时也算是最先一批把 cursor 用于公司项目的程序员，所以 AI Coding 经验有 2 年半的时间了吧。  当时惊叹 chatgpt 的能力，我意识到了 AI 真的会思考，AI 不再是算法和程序堆叠的产物。  从 Cursor 到 Codex 到 Calude Code，再到 deepseek-harness。  他们都在特定的环境完成了我的任务，从用 Cursor 时自己还会手动改下 AI 写代码遗留下的问题
+    https://www.v2ex.com/t/1257214
+2. [计算机] 如果给计算机基础教材列一个「五大经典」，你会选哪几本  (41 replies)
+    最近在整理计算机基础方面的阅读书单，想到能不能按五个方向，各选一本有代表性的经典教材：  计算机系统：《深入理解计算机系统》（CSAPP）  计算机网络：《计算机网络：自顶向下方法》  操作系统：《操作系统导论》（OSTEP）  编译原理：《编译原理》（Dragon Book）  数据库：《数据库系统概念》（Database System Concepts）  这五个方向基本覆盖了我理解的计算机基础知识体系。已经买了 CSAPP、自顶向下。准备都买回来  想问问 V 站的各位：  这五本书作为对应领域的代表教材，选择是否合
+    https://www.v2ex.com/t/1257146
+3. [职场话题] 闲聊聊到了我司当前接入 AI 的年度成本  (36 replies)
+    前几天蹭了一下所属大部门 VP 的饭，旁敲侧击的问了一下今年度企业接入 AI 带来的额外成本  我们公司在接入 AI 上起步算是比较晚的，今年 2 月伴随着 Opus4.6 的发布才开始大规模采购基于 AWS 分销的 Claude API，之后更进一步采购了外界的 Gateway 服务从而实现了几乎所有的模型供应商的模型覆盖  员工采取每月限额的方式来限制，截止到目前整体的大模型调用支出已经占据了部门往年总工资支出的 20%，估计一整个自然年的话应该能到 30%朝上。  公司的年度盈利并没有变好，甚至有变差的趋势，估摸着这份支出最后还是会回到
+    https://www.v2ex.com/t/1257169
+4. [生活] 记录第一次相亲  (34 replies)
+    ## 介绍认识  前两周，一位亲戚给我推了一个女生的微信，大致介绍了一下对方的情况。  我今年 30 岁，其实之前一直不太愿意通过相亲这种方式认识女生。不过最近想了想，加个微信也没什么，先聊聊看也无妨。毕竟在目前的工作地，身边没什么朋友，如果能找到有共同爱好的人，以后一起骑骑车、爬爬山，偶尔约着出去玩，也挺不错。  ## 聊天  加上微信后，简单聊了几句，和我预想的差不多，基本看不出对方有什么主动交流的意愿，聊天也很难继续推进。  两天后，我主动问对方有没有时间线下见一面。对方表示有时间可以，于是我接着问她什么时候方便。结果对方说最近
+    https://www.v2ex.com/t/1257174
+5. [Claude] 打算购买 Claude Team 成品号，这种号的风险跟稳定性怎么样？  (29 replies)
+    有在用的老师提供一些经验分享吗？ 只自己工作室内部使用。
+    https://www.v2ex.com/t/1257158
+6. [分享发现] 又被淘宝双 11 背刺了  (20 replies)
+    因为准备玩 GTA6，双 11 期间在淘宝买了一台新电视，价格 4200+，买的时候宣传**“全网保价至 11 月 20 日”**，所以也没害怕会降价，就下单了。  结果没过几天，发现拼兮兮同款便宜了 400+。申请保价时，淘宝却说**必须在签收后 7 天内申请，超期不支持。**  ？？？  宣传时大字写着保价到 11 月 20 日，真要申请了，又搬出一个“签收后 7 天”的限制。  **那所谓的全网保价，到底保了个什么？**  ### 更离谱的还在后面！  因为不认可处理结果，我通过 12315 正式投诉。  淘宝只是打电话
+    https://www.v2ex.com/t/1257229
+7. [Vibe Coding] Gemini 模型如何？  (20 replies)
+    最近 codex 表现实在有点拉，智力有点下滑，额度还不经用 想体验下 Gemini， 有用过的朋友吗？ 体验对比 claude 如何？如果开 20 刀的额度对比 codex 的 20 刀哪个更经用一点？
+    https://www.v2ex.com/t/1257234
+8. [英雄联盟] 恭喜 BLG，一穿四 LCK，史上最有含金量的 S 冠  (20 replies)
+    https://www.v2ex.com/t/1257145
+9. [分享创造] 哈哈哈喜报，做的垂直分享发现优质产品社区，注册用户超 2000+，收录/发布产品超 1000+啦～  (18 replies)
+    距离产品派上线大半年时间了，期间一直在不停的迭代修复 bug  近日发现注册用户超 2000+，收录/发布产品超 1000+  非常感谢各位派友和 v 友们的支持～   近日我们还进行了一轮大版本更新，包括全新界面吉祥物、全新积分体系等等  <img src="https://static.chanpinpai.cn/uploads/img-1794635793577-647696013.webp">   具体的更新内容可以参考：https://chanpinpai.com/topic/ok8xnNZ2  未来我们会推出积分兑
+    https://www.v2ex.com/t/1257168
+10. [Claude] 有没有 Claude portal 验证一直在验证中的 v 友  (17 replies)
+    我的 Claude 在前天弹出 portal 验证，当即用护照进行了验证，但是已经 48h 以上了还一直在验证中，提示正在检查。有没有 v 友知道啥情况吗？
+    https://www.v2ex.com/t/1257170
 
 ===== XUEQIU HOT STOCKS (opencli; rebang.vip topics as fallback) =====
-1 英伟达 NVDA -2.01% @ 162.85 热度：2072  https://xueqiu.com/S/NVDA
-2 牧原股份 SZ002714 2.76% @ 45.84 热度：1209  [RISING 365→1209 since 2026-11-08]  https://xueqiu.com/S/SZ002714
-3 中际旭创 SZ300308 -8.39% @ 466.2 热度：1115  https://xueqiu.com/S/SZ300308
-4 康方生物 09926 -3.91% @ 82.3 热度：932  [NEW]  https://xueqiu.com/S/09926
-5 东山精密 SZ002384 -9.95% @ 84.37 热度：787  https://xueqiu.com/S/SZ002384
-6 腾讯控股 00700 -3.06% @ 386.6 热度：653  [RISING 420→653 since 2026-11-09]  https://xueqiu.com/S/00700
-7 胜宏科技 SZ300476 -10.57% @ 123.24 热度：619  https://xueqiu.com/S/SZ300476
-8 Summit Therapeutics SMMT -6.14% @ 14.15 热度：564  [NEW]  https://xueqiu.com/S/SMMT
+1 康方生物 09926 -3.91% @ 82.3 热度：3608  [RISING 932→3608 since 2026-11-15]  https://xueqiu.com/S/09926
+2 英伟达 NVDA -2.01% @ 162.85 热度：1755  https://xueqiu.com/S/NVDA
+3 中际旭创 SZ300308 -8.39% @ 466.2 热度：1246  https://xueqiu.com/S/SZ300308
+4 Summit Therapeutics SMMT -6.14% @ 14.15 热度：1132  [RISING 564→1132 since 2026-11-15]  https://xueqiu.com/S/SMMT
+5 胜宏科技 SZ300476 -10.57% @ 123.24 热度：876  https://xueqiu.com/S/SZ300476
+6 *ST闻泰 SH600745 -6.00% @ 11.28 热度：843  [NEW]  https://xueqiu.com/S/SH600745
+7 药明康德 SH603259 -2.69% @ 146.3 热度：691  https://xueqiu.com/S/SH603259
+8 东山精密 SZ002384 -9.95% @ 84.37 热度：662  https://xueqiu.com/S/SZ002384
 
 ===== HF TEXT-GEN NEW 7D (downloads desc, likes desc; re-uploads and quants folded) =====
-window: created >= 2026-11-07T17:05Z, 3527 models; top 25 distinct families, quants/re-uploads of a listed model shown as 'also:' under it
-1. ErtasAI/MedErtas-v0.1-31B-LS | downloads 64137 | likes 3 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-31B-LS | FLAG possibly inflated downloads (very few likes)
-2. Edge0/Edge0-145B-NVFP4 | downloads 33819 | likes 250 | created 2026-11-11 | https://huggingface.co/Edge0/Edge0-145B-NVFP4
-3. Edge0/Edge0-145B-q3k | downloads 27373 | likes 64 | created 2026-11-11 | https://huggingface.co/Edge0/Edge0-145B-q3k
-4. aj9o9/Qwen3.8-27B-DSpine-b16-GGUF | downloads 19849 | likes 42 | created 2026-11-08 | https://huggingface.co/aj9o9/Qwen3.8-27B-DSpine-b16-GGUF
-5. dendriteholdings/Ingot-XXXI-27B-Q2 | downloads 11551 | likes 0 | created 2026-11-10 | https://huggingface.co/dendriteholdings/Ingot-XXXI-27B-Q2 | FLAG possibly inflated downloads (very few likes)
-6. zanezhang666/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF | downloads 11210 | likes 1 | created 2026-11-10 | https://huggingface.co/zanezhang666/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF | FLAG possibly inflated downloads (very few likes)
-7. dendriteholdings/Ingot-XXX-27B-Q2 | downloads 10980 | likes 0 | created 2026-11-10 | https://huggingface.co/dendriteholdings/Ingot-XXX-27B-Q2 | FLAG possibly inflated downloads (very few likes)
-8. ErtasAI/MedErtas-v0.1-27B-LS | downloads 9212 | likes 6 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-27B-LS
-9. dendriteholdings/Ingot-XXXII-27B-Q2 | downloads 8781 | likes 0 | created 2026-11-11 | https://huggingface.co/dendriteholdings/Ingot-XXXII-27B-Q2
-10. dendriteholdings/Ingot-XXIX-27B-Q2 | downloads 7932 | likes 0 | created 2026-11-09 | https://huggingface.co/dendriteholdings/Ingot-XXIX-27B-Q2
-11. OsaurusAI/Raptor-0.7-4B-GGUF | downloads 7242 | likes 0 | created 2026-11-12 | https://huggingface.co/OsaurusAI/Raptor-0.7-4B-GGUF
-12. KarLexAI/Kimi-K3.1-Pro-GGUF | downloads 7085 | likes 7 | created 2026-11-08 | https://huggingface.co/KarLexAI/Kimi-K3.1-Pro-GGUF
-13. UraionLabs/Uraion-Cyber-V1.0-GGUF | downloads 7050 | likes 0 | created 2026-11-11 | https://huggingface.co/UraionLabs/Uraion-Cyber-V1.0-GGUF
-14. Mindral/ComRAD-200B-GGUF | downloads 6007 | likes 2 | created 2026-11-13 | https://huggingface.co/Mindral/ComRAD-200B-GGUF
-15. dendriteholdings/Ingot-XXXIII-27B-Q2 | downloads 5994 | likes 0 | created 2026-11-11 | https://huggingface.co/dendriteholdings/Ingot-XXXIII-27B-Q2
-16. zephel01/Ornith-1.5-397B-IQ2_XXS-32G128G-GGUF | downloads 5560 | likes 0 | created 2026-11-09 | https://huggingface.co/zephel01/Ornith-1.5-397B-IQ2_XXS-32G128G-GGUF
-17. mradermacher/Gemma-4-31B-Exhortation-i1-GGUF | downloads 5302 | likes 0 | created 2026-11-12 | https://huggingface.co/mradermacher/Gemma-4-31B-Exhortation-i1-GGUF
-18. mradermacher/Vesper-26B-A4B-Nocturne-i1-GGUF | downloads 4911 | likes 1 | created 2026-11-09 | https://huggingface.co/mradermacher/Vesper-26B-A4B-Nocturne-i1-GGUF
-19. bartowski/ItachiSan_LiquidCode-2.5-24B-A2B-GGUF | downloads 4771 | likes 1 | created 2026-11-10 | https://huggingface.co/bartowski/ItachiSan_LiquidCode-2.5-24B-A2B-GGUF
-20. Mungert/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF | downloads 4726 | likes 0 | created 2026-11-12 | https://huggingface.co/Mungert/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF
-21. Edge0/Edge0-120B-q3k | downloads 4634 | likes 19 | created 2026-11-11 | https://huggingface.co/Edge0/Edge0-120B-q3k
-22. mradermacher/Vesper-31B-Nocturne-i1-GGUF | downloads 4536 | likes 0 | created 2026-11-09 | https://huggingface.co/mradermacher/Vesper-31B-Nocturne-i1-GGUF
-23. bartowski/FrostWolfAI_Frost-Cyber-Mini-Uncensored-v1.1-GGUF | downloads 4527 | likes 1 | created 2026-11-07 | https://huggingface.co/bartowski/FrostWolfAI_Frost-Cyber-Mini-Uncensored-v1.1-GGUF
-24. peasantsmith/GLM-5.3-Maya-GGUF | downloads 4459 | likes 6 | created 2026-11-10 | https://huggingface.co/peasantsmith/GLM-5.3-Maya-GGUF
-25. ErtasAI/MedErtas-v0.1-27B-LS-Perigee | downloads 4178 | likes 1 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-27B-LS-Perigee
+window: created >= 2026-11-08T17:05Z, 3694 models; top 25 distinct families, quants/re-uploads of a listed model shown as 'also:' under it
+1. Edge0/Edge0-145B-q3k | downloads 68644 | likes 72 | created 2026-11-11 | https://huggingface.co/Edge0/Edge0-145B-q3k
+2. ErtasAI/MedErtas-v0.1-31B-LS | downloads 64218 | likes 3 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-31B-LS | FLAG possibly inflated downloads (very few likes)
+3. Edge0/Edge0-145B-NVFP4 | downloads 41606 | likes 278 | created 2026-11-11 | https://huggingface.co/Edge0/Edge0-145B-NVFP4
+   also: Edge0/Edge0-120B-NVFP4 | downloads 5193 | likes 33 | created 2026-11-11 | https://huggingface.co/Edge0/Edge0-120B-NVFP4 | repackages Qwen/Qwen3.8-Flash-Next
+4. OsaurusAI/Raptor-0.7-4B-GGUF | downloads 16059 | likes 0 | created 2026-11-12 | https://huggingface.co/OsaurusAI/Raptor-0.7-4B-GGUF | FLAG possibly inflated downloads (very few likes)
+5. dendriteholdings/Ingot-XXXI-27B-Q2 | downloads 12397 | likes 0 | created 2026-11-10 | https://huggingface.co/dendriteholdings/Ingot-XXXI-27B-Q2 | FLAG possibly inflated downloads (very few likes)
+6. zanezhang666/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF | downloads 11353 | likes 1 | created 2026-11-10 | https://huggingface.co/zanezhang666/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF | FLAG possibly inflated downloads (very few likes)
+7. Edge0/Edge0-120B-q3k | downloads 11221 | likes 20 | created 2026-11-11 | https://huggingface.co/Edge0/Edge0-120B-q3k
+8. dendriteholdings/Ingot-XXX-27B-Q2 | downloads 10988 | likes 0 | created 2026-11-10 | https://huggingface.co/dendriteholdings/Ingot-XXX-27B-Q2 | FLAG possibly inflated downloads (very few likes)
+9. dendriteholdings/Ingot-XXXII-27B-Q2 | downloads 10127 | likes 0 | created 2026-11-11 | https://huggingface.co/dendriteholdings/Ingot-XXXII-27B-Q2 | FLAG possibly inflated downloads (very few likes)
+10. ErtasAI/MedErtas-v0.1-27B-LS | downloads 9271 | likes 6 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-27B-LS
+11. dendriteholdings/Ingot-XXIX-27B-Q2 | downloads 7934 | likes 0 | created 2026-11-09 | https://huggingface.co/dendriteholdings/Ingot-XXIX-27B-Q2
+12. dendriteholdings/Ingot-XXXIII-27B-Q2 | downloads 7747 | likes 0 | created 2026-11-11 | https://huggingface.co/dendriteholdings/Ingot-XXXIII-27B-Q2
+13. UraionLabs/Uraion-Cyber-V1.0-GGUF | downloads 7154 | likes 0 | created 2026-11-11 | https://huggingface.co/UraionLabs/Uraion-Cyber-V1.0-GGUF
+14. Mindral/ComRAD-200B-GGUF | downloads 6039 | likes 2 | created 2026-11-13 | https://huggingface.co/Mindral/ComRAD-200B-GGUF
+15. zephel01/Ornith-1.5-397B-IQ2_XXS-32G128G-GGUF | downloads 5563 | likes 0 | created 2026-11-09 | https://huggingface.co/zephel01/Ornith-1.5-397B-IQ2_XXS-32G128G-GGUF
+16. mradermacher/Vesper-26B-A4B-Nocturne-i1-GGUF | downloads 5495 | likes 1 | created 2026-11-09 | https://huggingface.co/mradermacher/Vesper-26B-A4B-Nocturne-i1-GGUF
+   also: ReadyArt/Vesper-26B-A4B-Nocturne-GGUF | downloads 4223 | likes 5 | created 2026-11-09 | https://huggingface.co/ReadyArt/Vesper-26B-A4B-Nocturne-GGUF | repackages ReadyArt/Vesper-26B-A4B-Nocturne
+17. bartowski/ItachiSan_LiquidCode-2.5-24B-A2B-GGUF | downloads 5479 | likes 1 | created 2026-11-10 | https://huggingface.co/bartowski/ItachiSan_LiquidCode-2.5-24B-A2B-GGUF
+18. Mungert/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF | downloads 5459 | likes 0 | created 2026-11-12 | https://huggingface.co/Mungert/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF
+19. mradermacher/Gemma-4-31B-Exhortation-i1-GGUF | downloads 5448 | likes 0 | created 2026-11-12 | https://huggingface.co/mradermacher/Gemma-4-31B-Exhortation-i1-GGUF
+20. KRAFTON/Raon-1-nano-gguf | downloads 4661 | likes 24 | created 2026-11-10 | https://huggingface.co/KRAFTON/Raon-1-nano-gguf
+21. peasantsmith/GLM-5.3-Maya-GGUF | downloads 4621 | likes 6 | created 2026-11-10 | https://huggingface.co/peasantsmith/GLM-5.3-Maya-GGUF
+22. mradermacher/Vesper-31B-Nocturne-i1-GGUF | downloads 4602 | likes 0 | created 2026-11-09 | https://huggingface.co/mradermacher/Vesper-31B-Nocturne-i1-GGUF
+   also: ReadyArt/Vesper-31B-Nocturne-GGUF | downloads 4032 | likes 3 | created 2026-11-09 | https://huggingface.co/ReadyArt/Vesper-31B-Nocturne-GGUF | repackages ReadyArt/Vesper-31B-Nocturne
+23. ErtasAI/MedErtas-v0.1-27B-LS-Perigee | downloads 4196 | likes 1 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-27B-LS-Perigee
+24. ErtasAI/MedErtas-v0.1-31B-LS-Perigee | downloads 4187 | likes 1 | created 2026-11-09 | https://huggingface.co/ErtasAI/MedErtas-v0.1-31B-LS-Perigee
+25. JerryKingNo1/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF | downloads 4114 | likes 1 | created 2026-11-10 | https://huggingface.co/JerryKingNo1/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF
 
 --- details (top 25 families, first row of each) ---
+## Edge0/Edge0-145B-q3k
+   base_model: ['Qwen/Qwen3.8-Flash-Next']
+   license: other
+   params: None
+   excerpt: .edge0-card :where(p,span,small,strong,b,summary,div,nav,li,td,th) {font-family:inherit;line-height:inherit;color:inherit;} .edge0-card{color-scheme:light; --ink:#1d1d1f; --muted:#6e6e73; --line:#e5e5e7; --signal:#E63946; --ivory:#F1FAEE; --ice:#A8DADC; --steel:#45789D; --navy:#1D3557; --canvas:#ffffff; --wash:#f5f5f7;} .edge0-card,.edge0-card *{box-sizing:border-box;} .edge0-card{margin:0; background:var(--canvas); color:var(--ink); font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Inter,Arial,sans-serif; font-size:15px; line-height:1.8; overflow-wrap:break-word; -we
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Edge0-145B Q3_K speed claims and license terms · Tensor Journal <https://tensorjournal.com/en/news/edge-local-inference-claims-license>
+   coverage: docs/models/edge0-145b.md <https://github.com/Edge0-AI/Edge0/blob/main/docs/models/edge0-145b.md>
+   coverage: Edge0-145B: Open-Source On-Device AI with 145B Parameters - edge0 <https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer>
 ## ErtasAI/MedErtas-v0.1-31B-LS
    base_model: google/gemma-4-31B-it
    license: apache-2.0
@@ -85,26 +100,15 @@ window: created >= 2026-11-07T17:05Z, 3527 models; top 25 distinct families, qua
    coverage: docs/models/edge0-145b.md <https://github.com/Edge0-AI/Edge0/blob/main/docs/models/edge0-145b.md>
    coverage: Edge0-145B: Open-Source On-Device AI with 145B Parameters - edge0 <https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer>
    coverage: Edge0-145B: Local 145B Model Claims vs the Hugging Face Page | ToolReviewHub <https://toolreviewhub.io/edge0-145b-local-model-claims-benchmarks-license-what-to-check/>
-## Edge0/Edge0-145B-q3k
-   base_model: ['Qwen/Qwen3.8-Flash-Next']
-   license: other
-   params: None
-   excerpt: .edge0-card :where(p,span,small,strong,b,summary,div,nav,li,td,th) {font-family:inherit;line-height:inherit;color:inherit;} .edge0-card{color-scheme:light; --ink:#1d1d1f; --muted:#6e6e73; --line:#e5e5e7; --signal:#E63946; --ivory:#F1FAEE; --ice:#A8DADC; --steel:#45789D; --navy:#1D3557; --canvas:#ffffff; --wash:#f5f5f7;} .edge0-card,.edge0-card *{box-sizing:border-box;} .edge0-card{margin:0; background:var(--canvas); color:var(--ink); font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Inter,Arial,sans-serif; font-size:15px; line-height:1.8; overflow-wrap:break-word; -we
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Edge0-145B Q3_K speed claims and license terms · Tensor Journal <https://tensorjournal.com/en/news/edge-local-inference-claims-license>
-   coverage: docs/models/edge0-145b.md <https://github.com/Edge0-AI/Edge0/blob/main/docs/models/edge0-145b.md>
-   coverage: Edge0-145B: Open-Source On-Device AI with 145B Parameters - edge0 <https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer>
-## aj9o9/Qwen3.8-27B-DSpine-b16-GGUF
-   base_model: ['tencent/Qwen3.8-27B-DSpine-b16']
+## OsaurusAI/Raptor-0.7-4B-GGUF
+   base_model: OsaurusAI/Raptor-0.7-4B-BF16
    license: apache-2.0
    params: None
-   excerpt: GGUF conversions of [tencent/Qwen3.8-27B-DSpine-b16](https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16), the DSpine speculative-decoding draft model for [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B), for use with llama.cpp. On a single RTX 3090 with a Q4_K_M Qwen3.8-27B target, it runs at **~125 tok/s on code and math** and **~90 tok/s on a mixed set of chat tasks**. That compares with ~52 tok/s for DFlash2 and ~28 tok/s without speculative decoding (3.2x overall, up to 4.5x on code). See [Benchmarks](#benchmarks) for speed at increasing context depth and the maximum context on 24
+   excerpt: **GGUF builds of Raptor 0.7, the local agent model for Osaurus, calibrated with an importance matrix.** Raptor 0.7 is a LoRA fine-tune of [Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) (SparkLLM team, Apache-2.0), merged into the weights. Model details and benchmark results are on the [BF16 source card](https://huggingface.co/OsaurusAI/Raptor-0.7-4B-BF16). - Decode speed is measured with `llama-bench` (512-token prompt, 128 generated tokens) on a Mac Studio (M5 Ultra). Prefill is about 6,500–6,600 tok/s for all three files. - Q6_K and Q4_K_M were quantized with the importance ma
    card_api_mentions: []
    api_providers_live: none
-   coverage: Tencent’s DSpine Drafter Lifts Qwen3.8-27B Throughput 3.19x <https://rits.shanghai.nyu.edu/ai/tencents-dspine-drafter-lifts-qwen3-8-27b-throughput-3-19x/>
-   coverage: DSpine vs DFlash2: How Much Faster Is It? Benchmarks <https://goremy.ai/blog/articles/dspine-vs-dflash2-benchmarks-acceptance-length-throughput>
-   coverage: Qwen3.8-27B DSpine-b16: 2B Open Drafter (3× Throughput) | explainx.ai Blog | explainx.ai <https://explainx.ai/blog/qwen3-8-27b-dspine-b16-open-drafter-sglang-speculative-decoding-2026>
+   coverage: Offer only Raptor 0.7 in onboarding and refresh Models tab Top Picks <https://github.com/osaurus-ai/osaurus/pull/3400>
+   coverage: Models – Hugging Face <https://d6108366.hf-mirror.com/models?other=raptor>
 ## dendriteholdings/Ingot-XXXI-27B-Q2
    base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
    license: None
@@ -123,6 +127,16 @@ window: created >= 2026-11-07T17:05Z, 3527 models; top 25 distinct families, qua
    api_providers_live: none
    coverage: Qwen3.8-27B Abliteration Benchmarks: 12 Variants Compared | Abliterlitics <https://abliterlitics.dev/models/qwen38-27b/>
    coverage: Qwen3.8-27B Uncensored: MTP Kept, Cost Measured — DiggTop <https://www.diggtop.com/insights/qwen38-27b-uncensored-mtp-heretic>
+## Edge0/Edge0-120B-q3k
+   base_model: ['Qwen/Qwen3.8-Flash-Next']
+   license: other
+   params: None
+   excerpt: .edge0-card :where(p,span,small,strong,b,summary,div,nav,li,td,th) {font-family:inherit;line-height:inherit;color:inherit;} .edge0-card{color-scheme:light; --ink:#1d1d1f; --muted:#6e6e73; --line:#e5e5e7; --signal:#E63946; --ivory:#F1FAEE; --ice:#A8DADC; --steel:#45789D; --navy:#1D3557; --canvas:#ffffff; --wash:#f5f5f7;} .edge0-card,.edge0-card *{box-sizing:border-box;} .edge0-card{margin:0; background:var(--canvas); color:var(--ink); font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Inter,Arial,sans-serif; font-size:15px; line-height:1.8; overflow-wrap:break-word; -we
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Edge0-145B: Open-Source On-Device AI with 145B Parameters - edge0 <https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer>
+   coverage: Is Edge0-120B SOTA? <https://isitsota.com/m/edge0-120b>
+   coverage: Edge0 145B and 120B: local AI hardware and license limits | Magica <https://magica.com/news/edge0-145b-120b-local-nvidia-inference>
 ## dendriteholdings/Ingot-XXX-27B-Q2
    base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
    license: None
@@ -133,15 +147,6 @@ window: created >= 2026-11-07T17:05Z, 3527 models; top 25 distinct families, qua
    coverage: Ingot-XXX-27B-Q2 — HF//RADAR <https://radar-huggingface.686f6c61.dev/models/dendriteholdings-ingot-xxx-27b-q2>
    coverage: dendriteholdings/Ingot-XXX-27B-Q2 <https://recentmodel.com/models/dendriteholdings/Ingot-XXX-27B-Q2/>
    coverage: Ingot-XXX-27B-Q2 — AI Frontier Index <https://aifrontierindex.com/en/models/ingot-xxx-27b-q2>
-## ErtasAI/MedErtas-v0.1-27B-LS
-   base_model: Qwen/Qwen3.8-27B
-   license: apache-2.0
-   params: 18164649200
-   excerpt: **[Use MedErtas on the Ertas AI gateway →](https://www.ertas.ai/medertas)** MedErtas v0.1 27B LS is an open-weight language model for medical AI products, built for fast, low-cost serving. It is strongest on clinical calculation, with or without tools, and on long records with short answers, and it serves on vLLM and NVIDIA Blackwell GPUs with Perigee, its medical drafter. > **22 GB**, from 55.6 GB at BF16 | **98.2%** of BF16's mean score across 12 medical sets | **207 tokens/s** single-user decode speed on clinical calculation, against 26 at BF16 [Whitepaper](https://www.ertas.ai/research/med
-   card_api_mentions: ['[Whitepaper](https://www.ertas.ai/research/medertas-v01-specialisation-inference-optimisation) | [Model page](https://www.ertas.ai/medertas) | [Collections](https://huggingface.co/collections/ErtasAI)']
-   api_providers_live: none
-   coverage: Specialisation as Inference Optimisation - Ertas AI <https://www.ertas.ai/research/medertas-v01-specialisation-inference-optimisation>
-   coverage: MedErtas: Fast, Open Medical LLMs - Ertas AI <https://www.ertas.ai/medertas>
 ## dendriteholdings/Ingot-XXXII-27B-Q2
    base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
    license: None
@@ -151,6 +156,15 @@ window: created >= 2026-11-07T17:05Z, 3527 models; top 25 distinct families, qua
    api_providers_live: none
    coverage: INGOT <https://theingot.ai/>
    coverage: dendriteholdings/Ingot-XXXII-27B-Q2 <https://recentmodel.com/models/dendriteholdings/Ingot-XXXII-27B-Q2/>
+## ErtasAI/MedErtas-v0.1-27B-LS
+   base_model: Qwen/Qwen3.8-27B
+   license: apache-2.0
+   params: 18164649200
+   excerpt: **[Use MedErtas on the Ertas AI gateway →](https://www.ertas.ai/medertas)** MedErtas v0.1 27B LS is an open-weight language model for medical AI products, built for fast, low-cost serving. It is strongest on clinical calculation, with or without tools, and on long records with short answers, and it serves on vLLM and NVIDIA Blackwell GPUs with Perigee, its medical drafter. > **22 GB**, from 55.6 GB at BF16 | **98.2%** of BF16's mean score across 12 medical sets | **207 tokens/s** single-user decode speed on clinical calculation, against 26 at BF16 [Whitepaper](https://www.ertas.ai/research/med
+   card_api_mentions: ['[Whitepaper](https://www.ertas.ai/research/medertas-v01-specialisation-inference-optimisation) | [Model page](https://www.ertas.ai/medertas) | [Collections](https://huggingface.co/collections/ErtasAI)']
+   api_providers_live: none
+   coverage: Specialisation as Inference Optimisation - Ertas AI <https://www.ertas.ai/research/medertas-v01-specialisation-inference-optimisation>
+   coverage: MedErtas: Fast, Open Medical LLMs - Ertas AI <https://www.ertas.ai/medertas>
 ## dendriteholdings/Ingot-XXIX-27B-Q2
    base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
    license: None
@@ -160,26 +174,16 @@ window: created >= 2026-11-07T17:05Z, 3527 models; top 25 distinct families, qua
    api_providers_live: none
    coverage: dendriteholdings/Ingot-XXIX-27B-Q2 <https://recentmodel.com/models/dendriteholdings/Ingot-XXIX-27B-Q2/>
    coverage: Ingot-XIX-27B-Q2 — HF//RADAR <https://radar-huggingface.686f6c61.dev/en/models/dendriteholdings-ingot-xix-27b-q2>
-## OsaurusAI/Raptor-0.7-4B-GGUF
-   base_model: OsaurusAI/Raptor-0.7-4B-BF16
-   license: apache-2.0
+## dendriteholdings/Ingot-XXXIII-27B-Q2
+   base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
+   license: None
    params: None
-   excerpt: **GGUF builds of Raptor 0.7, the local agent model for Osaurus, calibrated with an importance matrix.** Raptor 0.7 is a LoRA fine-tune of [Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) (SparkLLM team, Apache-2.0), merged into the weights. Model details and benchmark results are on the [BF16 source card](https://huggingface.co/OsaurusAI/Raptor-0.7-4B-BF16). - Decode speed is measured with `llama-bench` (512-token prompt, 128 generated tokens) on a Mac Studio (M5 Ultra). Prefill is about 6,500–6,600 tok/s for all three files. - Q6_K and Q4_K_M were quantized with the importance ma
+   excerpt: A public mirror of a model that won on Ingot, a Bittensor subnet where miners quantize a fixed teacher model and the validator crowns the copy that stays closest to it. It starts from Prism ML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf): the miner changed under 0.01% of its ternary codes and re-tuned the rest of its weights to bring it closer to Qwen3.8-27B. - Submitted by miner hotkey `5HEUU8jj2dDmGbe4GeEc82hUsD2pnXrjqcFQUNfj4xyB97A2` (uid 176) - Crowned from submission `df4f4451-d888-4e92-adc3-69684ff0589c` The weights are the miner's upload, byte for 
    card_api_mentions: []
    api_providers_live: none
-   coverage: Offer only Raptor 0.7 in onboarding and refresh Models tab Top Picks <https://github.com/osaurus-ai/osaurus/pull/3400>
-   coverage: Models – Hugging Face <https://d6108366.hf-mirror.com/models?other=raptor>
-## KarLexAI/Kimi-K3.1-Pro-GGUF
-   base_model: moonshotai/Kimi-K3.1-Pro
-   license: other
-   params: None
-   excerpt: Kimi K3.1 Pro is 1.56 TB even as a lossless GGUF. **KLX-IQ1_S is 593 GB, about 1.7 bits per weight, and runs entirely on the GPUs of a single 8×H100 node. It still solves 80% of AIME 2025.** Standard GGUF, stock llama.cpp, no fork. - 🖥️ **The whole model on one node.** KLX-IQ1_S loads entirely into 8× H100 80 GB with 131K tokens of context: 19 tokens/s generating, with no expert left on the CPU. - 🧠 **It still thinks at 1.7 bits per weight.** KLX-IQ1_S scores 80.0% on AIME 2025, 91.0% on MATH-500 and 94.0% on IFEval. - 📉 **Closer to the full model than a standard quant of the same size.** Mean
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Kimi K3.1 Pro - Intelligence, Performance & Price Analysis | Artificial Analysis <https://artificialanalysis.ai/models/kimi-k3-1-pro>
-   coverage: Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence <https://www.kimi.ai/blog/kimi-k3-1-pro>
-   coverage: Kimi K3.1 Pro Review: Benchmarks, Price, Open Weights <https://springprompt.com/blog/kimi-k3-1-pro-review>
-   coverage: Moonshot's Kimi K3.1 Pro flirts with open weights leadership amid paid influencer scandal allegations | VentureBeat <https://venturebeat.com/technology/moonshots-kimi-k3-1-pro-flirts-with-open-weights-leadership-amid-paid-influencer-scandal-allegations>
+   coverage: INGOT <https://theingot.ai/>
+   coverage: dendriteholdings/Ingot-XXX-27B-Q2 <https://recentmodel.com/models/dendriteholdings/Ingot-XXX-27B-Q2/>
+   coverage: Dendrite Holdings Squeezes a 27B Model Into 6 GB With Ingot-XVII | AlphaSignal <https://alphasignal.ai/news/dendrite-holdings-squeezes-a-27b-model-into-6-gb-with-ingot-xvii>
 ## UraionLabs/Uraion-Cyber-V1.0-GGUF
    base_model: UraionLabs/Uraion-Cyber-V1.0
    license: mit
@@ -200,16 +204,6 @@ window: created >= 2026-11-07T17:05Z, 3527 models; top 25 distinct families, qua
    coverage: Comparative evaluation of large language models for generating CAD-RADS 2.0-compliant diagnostic conclusions in cardiac CT reports <https://pmc.ncbi.nlm.nih.gov/articles/PMC13103109/>
    coverage: A generalist CT model raised reader sensitivity, but a reliability review warns that test-set performance does not guarantee deployed performance | JClub <https://jclub.com.au/blog/a-generalist-ct-model-raised-reader-sensitivity-but-a-reliability-review-warns-that-test-set-performance-does-not>
    coverage: RadAgents: Radiology Multi-Agent Systems <https://www.emergentmind.com/topics/radagents>
-## dendriteholdings/Ingot-XXXIII-27B-Q2
-   base_model: prism-ml/Ternary-Bonsai-2-27B-gguf
-   license: None
-   params: None
-   excerpt: A public mirror of a model that won on Ingot, a Bittensor subnet where miners quantize a fixed teacher model and the validator crowns the copy that stays closest to it. It starts from Prism ML's [Ternary Bonsai 2 27B](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf): the miner changed under 0.01% of its ternary codes and re-tuned the rest of its weights to bring it closer to Qwen3.8-27B. - Submitted by miner hotkey `5HEUU8jj2dDmGbe4GeEc82hUsD2pnXrjqcFQUNfj4xyB97A2` (uid 176) - Crowned from submission `df4f4451-d888-4e92-adc3-69684ff0589c` The weights are the miner's upload, byte for 
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: INGOT <https://theingot.ai/>
-   coverage: dendriteholdings/Ingot-XXX-27B-Q2 <https://recentmodel.com/models/dendriteholdings/Ingot-XXX-27B-Q2/>
-   coverage: Dendrite Holdings Squeezes a 27B Model Into 6 GB With Ingot-XVII | AlphaSignal <https://alphasignal.ai/news/dendrite-holdings-squeezes-a-27b-model-into-6-gb-with-ingot-xvii>
 ## zephel01/Ornith-1.5-397B-IQ2_XXS-32G128G-GGUF
    base_model: ornith-ai/Ornith-1.5-397B
    license: mit
@@ -220,17 +214,6 @@ window: created >= 2026-11-07T17:05Z, 3527 models; top 25 distinct families, qua
    coverage: Ornith 1.5-397B Q6_K on M3 Ultra | al-engr.com <https://al-engr.com/ornith-15-397b-m3-ultra.html>
    coverage: Ornith 1.5 397B — Hardware Requirements & Compatibility | llmrun <https://llmrun.dev/model/ornith-ai-ornith-1-5-397b>
    coverage: Local Ornith-1.5: A 10 Out of 10 for Self-Improvement - AITalk <https://aitalk.it/en/ornith1-5-en>
-## mradermacher/Gemma-4-31B-Exhortation-i1-GGUF
-   base_model: 54rt1n/Gemma-4-31B-Exhortation
-   license: apache-2.0
-   params: None
-   excerpt: weighted/imatrix quants of https://huggingface.co/54rt1n/Gemma-4-31B-Exhortation ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#Gemma-4-31B-Exhortation-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/Gemma-4-31B-Exhortation-GGUF **This is a vision model - mmproj files (if any) will be in the [static repository](https://huggingface.co/mradermacher/Gemma-4-31B-Exhortation-GGUF).** If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggingface.co/TheBloke/KafkaLM-70B-G
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Gemma-4-31B-Exhortation-i1-GGUF — AI Frontier Index <https://aifrontierindex.com/en/models/gemma-4-31b-exhortation-i1-gguf>
-   coverage: Run Gemma-4-31B-Exhortation API: Serverless Inference, No GPU Needed <https://featherless.ai/models/54rt1n/Gemma-4-31B-Exhortation>
-   coverage: Quick Review of the Gemma 4 QAT Models <https://akehir.com/blog/gemma-4-qat/>
-   coverage: Gemma 4 31B: 256K Context, 89.2 on AIME 2026 <https://cnaps.ai/blog/gemma-4-31b>
 ## mradermacher/Vesper-26B-A4B-Nocturne-i1-GGUF
    base_model: ReadyArt/Vesper-26B-A4B-Nocturne
    license: apache-2.0
@@ -263,36 +246,27 @@ window: created >= 2026-11-07T17:05Z, 3527 models; top 25 distinct families, qua
    coverage: Uncensored DeepSeek-V4-Pro 9B: Run It Locally in 5.6GB | Asad Webs <https://asadwebs.com/blog/deepseek-v4-pro-qwen35-9b-uncensored-local>
    coverage: deepseek-v4-pro-qwen3.5-9b-uncensored-heretic explained: teacher data, Qwen weights, ARA edits <https://vibetools.net/posts/deepseek-v4-pro-qwen3.5-9b-uncensored-heretic>
    coverage: Qwen3.5 9B uncensored arrives with DeepSeek-V4-Pro reasoning, refuses 3 of 100 prompts <https://pasqualepillitteri.it/en/news/30788/qwen35-9b-uncensored-deepseek-v4-pro-arrives>
-## Edge0/Edge0-120B-q3k
-   base_model: ['Qwen/Qwen3.8-Flash-Next']
-   license: other
-   params: None
-   excerpt: .edge0-card :where(p,span,small,strong,b,summary,div,nav,li,td,th) {font-family:inherit;line-height:inherit;color:inherit;} .edge0-card{color-scheme:light; --ink:#1d1d1f; --muted:#6e6e73; --line:#e5e5e7; --signal:#E63946; --ivory:#F1FAEE; --ice:#A8DADC; --steel:#45789D; --navy:#1D3557; --canvas:#ffffff; --wash:#f5f5f7;} .edge0-card,.edge0-card *{box-sizing:border-box;} .edge0-card{margin:0; background:var(--canvas); color:var(--ink); font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Inter,Arial,sans-serif; font-size:15px; line-height:1.8; overflow-wrap:break-word; -we
-   card_api_mentions: []
-   api_providers_live: none
-   coverage: Edge0-145B: Open-Source On-Device AI with 145B Parameters - edge0 <https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer>
-   coverage: Is Edge0-120B SOTA? <https://isitsota.com/m/edge0-120b>
-   coverage: Edge0 145B and 120B: local AI hardware and license limits | Magica <https://magica.com/news/edge0-145b-120b-local-nvidia-inference>
-## mradermacher/Vesper-31B-Nocturne-i1-GGUF
-   base_model: ReadyArt/Vesper-31B-Nocturne
+## mradermacher/Gemma-4-31B-Exhortation-i1-GGUF
+   base_model: 54rt1n/Gemma-4-31B-Exhortation
    license: apache-2.0
    params: None
-   excerpt: weighted/imatrix quants of https://huggingface.co/ReadyArt/Vesper-31B-Nocturne ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#Vesper-31B-Nocturne-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/Vesper-31B-Nocturne-GGUF **This is a vision model - mmproj files (if any) will be in the [static repository](https://huggingface.co/mradermacher/Vesper-31B-Nocturne-GGUF).** If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-GGU
+   excerpt: weighted/imatrix quants of https://huggingface.co/54rt1n/Gemma-4-31B-Exhortation ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#Gemma-4-31B-Exhortation-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/Gemma-4-31B-Exhortation-GGUF **This is a vision model - mmproj files (if any) will be in the [static repository](https://huggingface.co/mradermacher/Gemma-4-31B-Exhortation-GGUF).** If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggingface.co/TheBloke/KafkaLM-70B-G
    card_api_mentions: []
    api_providers_live: none
-   coverage: Vesper 31B Nocturne (ReadyArt) · Caliper Bench Leaderboard <https://caliperbench.com/m/vesper-31b-nocturne/>
-   coverage: ReadyArt/Vesper-31B-Nocturne · DeepGHS Hub <https://hub.deepghs.org/models/ReadyArt/Vesper-31B-Nocturne>
-   coverage: Vesper-31B-Nocturne — Model details <https://customclankers.com/models/readyart-vesper-31b-nocturne/>
-   coverage: Vesper-31B-Nocturne-i1-GGUF — AI Frontier Index <https://aifrontierindex.com/en/models/vesper-31b-nocturne-i1-gguf>
-## bartowski/FrostWolfAI_Frost-Cyber-Mini-Uncensored-v1.1-GGUF
-   base_model: FrostWolfAI/Frost-Cyber-Mini-Uncensored-v1.1
+   coverage: Gemma-4-31B-Exhortation-i1-GGUF — AI Frontier Index <https://aifrontierindex.com/en/models/gemma-4-31b-exhortation-i1-gguf>
+   coverage: Run Gemma-4-31B-Exhortation API: Serverless Inference, No GPU Needed <https://featherless.ai/models/54rt1n/Gemma-4-31B-Exhortation>
+   coverage: Quick Review of the Gemma 4 QAT Models <https://akehir.com/blog/gemma-4-qat/>
+   coverage: Gemma 4 31B: 256K Context, 89.2 on AIME 2026 <https://cnaps.ai/blog/gemma-4-31b>
+## KRAFTON/Raon-1-nano-gguf
+   base_model: KRAFTON/Raon-1-nano
    license: apache-2.0
    params: None
-   excerpt: Using <a href="https://github.com/ggml-org/llama.cpp/">llama.cpp</a> release <a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12180">b12180</a> for quantization. Original model: https://huggingface.co/FrostWolfAI/Frost-Cyber-Mini-Uncensored-v1.1 **Model details:** - Parameter count: 4B (source checkpoint) - Input support: text - Speculative decoding: no - imatrix: yes - [details](#imatrix) [How to run](#how-to-run) you are a helpful assistant. `thinking_effort` guides on how much to think in your thinking channel (not including the response channel), supported values include `low` 
+   excerpt: > [!NOTE] > This repository contains the GGUF files of [Raon-1 nano](https://huggingface.co/KRAFTON/Raon-1-nano) for llama.cpp. > > Q4_K_M, Q6_K, Q8_0 and F16, converted from the BF16 weights with the [raon-1-nano-preview](https://github.com/krafton-ai/llama.cpp/tree/raon-1-nano-preview) branch of KRAFTON's llama.cpp. Raon-1 nano is a **3B dense language model** developed by [**KRAFTON AI**](https://krafton.ai/en/). It is designed to follow instructions, maintain conversational context, and call the right tools in both Korean and English. As part of the Raon model family, it is licensed under 
    card_api_mentions: []
    api_providers_live: none
-   coverage: Frost Cyber Mini Uncensored v1.1 — LLM для кибербезопасности на Spark-X2.6 | NeyroLearn <https://neyrolearn.cloud/news/frostwolfai--frost-cyber-mini-uncensored-v1-1/>
-   coverage: FrostWolfAI/Frost-Cyber-Mini-Uncensored-v1.1 - abliteration.org <https://abliteration.org/models/FrostWolfAI/Frost-Cyber-Mini-Uncensored-v1.1>
+   coverage: 5 款小模型 RTX 3080 实测：Raon-1 nano 满分跑完… · AGI Hunt <https://agihunt.info/p/1a1d1dbf78adbb5fb56e594c3d3>
+   coverage: model : add Raon-1-nano support <https://github.com/ggml-org/llama.cpp/pull/32200>
+   coverage: Add Raon-1 nano 3B to the Wllama model catalog <https://github.com/felladrin/MiniSearch/issues/2975>
 ## peasantsmith/GLM-5.3-Maya-GGUF
    base_model: zai-org/GLM-5.3
    license: other
@@ -304,6 +278,17 @@ window: created >= 2026-11-07T17:05Z, 3527 models; top 25 distinct families, qua
    coverage: Project Maya Deepseek V4.1 Flash 1017 + GLM 5.3 Local Ai Review <https://www.youtube.com/watch?v=GLXGqbNBq9s>
    coverage: GLM 5.3 Flash Local Review: Can It Run Well on Home Hardware? | MindStudio <https://www.mindstudio.ai/blog/glm-5-3-local-review-project-maya>
    coverage: Project Maya deep dive: running GLM-5.3-Flash (321B MoE) on … · Strata <https://www.stratat.com/en/creator/updates/seed-project-maya-deep-dive>
+## mradermacher/Vesper-31B-Nocturne-i1-GGUF
+   base_model: ReadyArt/Vesper-31B-Nocturne
+   license: apache-2.0
+   params: None
+   excerpt: weighted/imatrix quants of https://huggingface.co/ReadyArt/Vesper-31B-Nocturne ***For a convenient overview and download list, visit our [model page for this model](https://hf.tst.eu/model#Vesper-31B-Nocturne-i1-GGUF).*** static quants are available at https://huggingface.co/mradermacher/Vesper-31B-Nocturne-GGUF **This is a vision model - mmproj files (if any) will be in the [static repository](https://huggingface.co/mradermacher/Vesper-31B-Nocturne-GGUF).** If you are unsure how to use GGUF files, refer to one of [TheBloke's READMEs](https://huggingface.co/TheBloke/KafkaLM-70B-German-V0.1-GGU
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Vesper 31B Nocturne (ReadyArt) · Caliper Bench Leaderboard <https://caliperbench.com/m/vesper-31b-nocturne/>
+   coverage: ReadyArt/Vesper-31B-Nocturne · DeepGHS Hub <https://hub.deepghs.org/models/ReadyArt/Vesper-31B-Nocturne>
+   coverage: Vesper-31B-Nocturne — Model details <https://customclankers.com/models/readyart-vesper-31b-nocturne/>
+   coverage: Vesper-31B-Nocturne-i1-GGUF — AI Frontier Index <https://aifrontierindex.com/en/models/vesper-31b-nocturne-i1-gguf>
 ## ErtasAI/MedErtas-v0.1-27B-LS-Perigee
    base_model: RedHatAI/Qwen3.8-27B-speculator.dspark
    license: apache-2.0
@@ -313,3 +298,24 @@ window: created >= 2026-11-07T17:05Z, 3527 models; top 25 distinct families, qua
    api_providers_live: none
    coverage: MedErtas v0.1 27B LS Perigee — Драфтер для медицинской LLM: быстрее вывод | NeyroLearn <https://neyrolearn.cloud/news/ertasai--medertas-v0-1-27b-ls-perigee/>
    coverage: MedErtas: Fast, Open Medical LLMs - Ertas AI <https://www.ertas.ai/medertas>
+## ErtasAI/MedErtas-v0.1-31B-LS-Perigee
+   base_model: google/gemma-4-31B-it-assistant
+   license: apache-2.0
+   params: 469518596
+   excerpt: **[Use MedErtas on the Ertas AI gateway →](https://www.ertas.ai/medertas)** **Perigee** is the medical drafter for [MedErtas-v0.1-31B-LS](https://huggingface.co/ErtasAI/MedErtas-v0.1-31B-LS): a companion model trained on medical answers, built to speed up its main model through multi-token prediction (MTP) speculative decoding with vLLM. > **189 tokens/s** single-user decode speed on clinical calculation with MedErtas-v0.1-31B-LS, against 168 with Google's assistant | **+38%** total decode throughput on clinical calculation at 64 concurrent users | **1.0 GB** [Whitepaper](https://www.ertas.ai/
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Specialisation as Inference Optimisation - Ertas AI <https://www.ertas.ai/research/medertas-v01-specialisation-inference-optimisation>
+   coverage: MedErtas: Fast, Open Medical LLMs - Ertas AI <https://www.ertas.ai/medertas>
+   coverage: AI Research on Specialist Models and Agent Costs - Ertas AI <https://www.ertas.ai/research>
+## JerryKingNo1/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF
+   base_model: None
+   license: other
+   params: None
+   excerpt: 修復版的 GGUF 量化檔，解決了原版 mradermacher 轉檔時遺失 MTP 權重、導致 llama.cpp 載入即崩潰（`missing tensor blk.32.attn_norm.weight`）的問題。 原版 GGUF 的 `config.json` 宣告了 `mtp_num_hidden_layers=1`（33 層，含 MTP 草稿層），但轉檔時那 15 個 `mtp.*` 權重被丟掉了，導致 llama.cpp 載入時找不到 `blk.32.nextn.*` 張量而直接崩潰。 本 repo 直接從上游作者 `xtools-at` 已修復的 safetensors（補回 `model-mtp.safetensors`）重新轉檔 + 量化，MTP 權重完整，可正常載入推理。 - 上游模型：`xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` - 根因分析：感謝 `istone` 的詳細報告（上游 repo discussion #1） - `DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic.Q4_K_M.gguf` — Q4_K_M 量化（5.5GB） llama-server -m DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-
+   card_api_mentions: []
+   api_providers_live: none
+   coverage: Qwen3.5 9B uncensored arrives with DeepSeek-V4-Pro reasoning, refuses 3 of 100 prompts <https://pasqualepillitteri.it/en/news/30788/qwen35-9b-uncensored-deepseek-v4-pro-arrives>
+   coverage: An Interesting High-Performance Local LLM: DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic｜玉兎(gyokuto15) <https://note.com/gyokuto15/n/n0caab084cade?hl=en>
+   coverage: DeepSeek-V4-Pro-Qwen3.5-9B UNCENSORED: el 9B decensurado con Heretic - OneDigital <https://onedigital.mx/2026/11/08/deepseek-v4-pro-qwen35-9b-uncensored-heretic/>
+   coverage: Unshackled Intelligence: Deep-Diving into the DeepSeek-V4-Pro-Qwen3.5 'Heretic' – Pulsebyte <https://pulsebytes.github.io/articles/deepseek-v4-pro-qwen3-5-uncensored-heretic-review.html>
